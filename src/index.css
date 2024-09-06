@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #F8F8FF;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --primary-color: #0d3657;
+    --secondary-color: #18336c;
+    --dark-color: #1c2641;
+    --height-full-minus-navbar: calc(100vh - 76px);
+}

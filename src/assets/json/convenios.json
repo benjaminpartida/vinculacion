@@ -1,0 +1,94 @@
+[
+    {
+        "categoria": "Entidades Gubernamentales", 
+        "urlCategoria": "entidades-gubernamentales",
+        "convenios": [
+            {
+                "nombre": "Banco de México",
+                "url": "banco-de-mexico.png"
+            },
+            {
+                "nombre": "Instituto Casa de las Artesanías de Chiapas",
+                "url": "casa-artesanias-chiapas.png"
+            },
+            {
+                "nombre": "Instituto Electoral de la Ciudad de México (IEDF)",
+                "url": "iedf.png"
+            },
+            {
+                "nombre": "IInstituto Nacional Electoral (INE)",
+                "url": "ine.png"
+            }
+        ]
+    },
+    {
+        "categoria": "Entidades Académicas y Centros de Investigación", 
+        "urlCategoria": "entidades-academicas",
+        "convenios": [
+            {
+                "nombre": "Centro de Innovación Aplicada en Tecnologías Competitivas (CIATEC)",
+                "url": "ciatec.png"
+            },
+            {
+                "nombre": "Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)",
+                "url": "cicese.png"
+            },
+            {
+                "nombre": "Instituto Nacional de Neurología y Neurocirugía “Manuel Velasco Suárez”(INNNMVS)",
+                "url": "innnmvs.png"
+            },
+            {
+                "nombre": "Instituto Politécnico Nacional",
+                "url": "ipn.png"
+            },
+            {
+                "nombre": "Case Western Reserve University",
+                "url": "case-western-reserve.png"
+            },
+            {
+                "nombre": "BRNO University of Technology",
+                "url": "brno.png"
+            },
+            {
+                "nombre": "Universidad Politécnica y Tecnológica de Colombia (UPTC)",
+                "url": "uptc.png"
+            }
+        ]
+    },
+    {
+        "categoria": "Empresas", 
+        "urlCategoria": "empresas",
+        "convenios": [
+            {
+                "nombre": "MAGNELEC",
+                "url": "magnelec.png"
+            },
+            {
+                "nombre": "TEKNOBAGS",
+                "url": "teknobags.png"
+            },
+            {
+                "nombre": "GYSAPOL",
+                "url": "gysapol.png"
+            }
+        ]
+    },
+    {
+        "categoria": "Colaboradores", 
+        "urlCategoria": "colaboradores",
+        "convenios": [
+            {
+                "nombre": "Centro de Investigaciones de Diseño Industrial (CIDI-UNAM)",
+                "url": "cidi-unam.png"
+            },
+            {
+                "nombre": "Instituto de Física (IF-UNAM)",
+                "url": "if-unam.png"
+            },
+            {
+                "nombre": "Instituto de Química (IQ-UNAM)",
+                "url": "iq-unam.png"
+            }
+        ]
+    }
+]

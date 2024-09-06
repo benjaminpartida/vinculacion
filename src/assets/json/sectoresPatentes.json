@@ -1,0 +1,707 @@
+{
+    "alimentos": {
+        "id": "alimentos",
+        "nombre": "SECTOR DE ALIMENTOS",
+        "patentes": 
+        [
+            {
+                "titulo": "Membranas Poliimídicas Asimétricas para la Separación de Hidrocarburos Líquidos y su Procedimiento de Obtención",
+                "descripcion": "Fabricación de membranas asimétricas en fase húmeda a partir de poliimidas aromáticas lineales.",
+                "usos": "Las membranas son aplicadas a la separación líquido-líquido de hidrocarburos o cualquier proceso que requiera del transporte másico a través de membranas. ",
+                "pdf": "patente_membranas-poliimidicas-asimetricas-para-la-separacion-de-hidrocarburos-liquidos-y-su-procedimiento-de-obtencion.pdf"
+            },
+            {
+                "titulo": "Cromóforos Naturales para Filtros de Radiación Ultravioleta y Emisiones de Luz Azul y Verde",
+                "descripcion": "Obtención de cromóforos naturales extraídos de la planta palo azul mediante un proceso sencillo de purificación. Haciendo su extracción relativamente sencilla y resolviendo el problema de la toxicidad presente en los cromóforos comerciales.",
+                "usos": "Las películas producidas pueden ser utilizadas como protectores contra la radiación ultravioleta, películas emisoras de luz azul y verde en elementos de señalización, sondas fluorescentes para el marcado de moléculas y macromoléculas, componentes ópticos de materiales con propiedades opto-electrónicas y componentes en la fabricación de OLeds, en la industria cosmética puede proporcionar protección a los rayos UV y también por su nula toxicidad pueden ser utilizados en la industria médica y de alimentos.",
+                "pdf": "patente_cromoforos-naturales-para-filtros-de-radiacion-ultravioleta-y-emisores-de-luz-azul-y-verde.pdf"
+            },
+            {
+                "titulo": "Dispositivo para Acoplar a un Reometro para Realizar Simultáneamente Mediciones Reológicas y Aplicación de Ultrasonido",
+                "descripcion": "Dispositivo que comprende transductores piezoeléctricos que generan ondas ultrasónicas y que se coloca fácilmente en la base de un reómetro para poder hacer, simultáneamente, determinaciones reológicas con aplicación de ultrasonido.",
+                "usos": "Los resultados de estas determinaciones pueden ser aplicados en procesos de transporte de masa (industria del petróleo, de alimentos, del concreto), en procesamiento de transformación de plásticos, tintas, geles, pastas dentales y en cualquier proceso donde se transporte fluidos.",
+                "pdf": "patente_dispositivo-para-acoplar-a-un-reometro-para-realizar-simultaneamente-mediciones-reologicas-y-aplicacion-de-ultrasonido.pdf"
+            },
+            {
+                "titulo": "Obtención de Polímeros Biodegradables Solubles en Agua a Partir de la Semilla de Tamarindo",
+                "descripcion": "Proceso para obtener un material polimérico biodegradable, a partir del polvo de la semilla de tamarindo.",
+                "usos": "El copolímero es aplicable en el área de la industria alimenticia para la elaboración de envases desechables.",
+                "pdf": "patente_obtencion-de-polimeros-biodegradables-solubles-en-agua-a-partir-de-la-semilla-de-tamarindo.pdf"
+            },
+            {
+                "titulo": "Microencapsulación de Antioxidantes por el Proceso de Secado por Aspersión Empleando Mucílagos de Nopal y Alóe Vera",
+                "descripcion": "Microencapsulación de antioxidantes como ácido gálico, utilizando los mucilagos de nopal y aloe vera, sistema novedoso que es capaz de producir microcápsulas definidas y capaces de encapsular y liberar su contenido bajo condiciones ambientales controladas y deseadas.",
+                "usos": "Este método tiene su aplicación en la industria química como un vector de pared sustituyendo los vectores comerciales tales como las maltodextrinas. También es una investigación que da pie a estudiar la eficiencia del secado, y de encapsulación con este tipo de vectores mucilaginosos.",
+                "pdf": "patente_microencapsulacion-de-antioxidantes-por-el-proceso-de-secado-por-aspersion-empleando-mucilagos-de-nopal-y-aloe-vera.pdf"
+            },
+            {
+                "titulo": "Huevo en Polvo y Mucílago de Nopal como Agente Espesante y de Recubrimiento Usando Secado por Aspersión",
+                "descripcion": "Desarrollo de un producto de huevo en polvo con características similares a las del huevo fresco cuando es reconstituido, usando como materia prima huevo entero de granja y mucílago de nopal como agente de recubrimiento, utilizando la tecnología de secado por aspersión (SA) como proceso de deshidratación.",
+                "usos": "Este invento va dirigido a la industria alimentaria, específicamente a las unidades dedicadas al procesamiento de huevo.",
+                "pdf": "patente_huevo-en-polvo-y-mucilago-de-nopal-como-agente-espesante-y-de-recubrimiento,-usando-secado-por-aspersion.pdf"
+            }
+        ]
+    },
+
+    "residuos": {
+        "id": "residuos",
+        "nombre": "SECTOR DE GESTIÓN DE RESIDUOS",
+        "patentes": 
+        [
+            {
+                "titulo": "Dispositivo para Comparar la Intensidad de un (n) haz (haces) de Luz de Inspección Respecto a Otro de Referencia",
+                "descripcion": "Dispositivo que compara longitud de onda en longitud de onda, un haz por ejemplo parcialmente absorbido (reflejado), respecto a otro por ejemplo de referencia.",
+                "usos": "Este dispositivo en su modalidad de analizador de absorción, puede realizar análisis de muestras sólidas, líquidas, gaseosas que no emitan radiación y si lo hacen esta radiación sea continua en el tiempo. Incluso su estudio se puede extender al estudio de plasmas. ",
+                "pdf": "patente_dispositivo-para-comparar-la-intesidad-de-un-(n)-haz-(haces)-de-luz-de-inspeccion-respecto-a-otro--de-referencia.pdf"
+            },
+            {
+                "titulo": "Membranas Poliimídicas Asimétricas para la Separación de Hidrocarburos Líquidos y su Procedimiento de Obtención",
+                "descripcion": "Fabricación de membranas asimétricas en fase húmeda a partir de poliimidas aromáticas lineales.",
+                "usos": "Las membranas son aplicadas a la separación líquido-líquido de hidrocarburos o cualquier proceso que requiera del transporte másico a través de membranas. ",
+                "pdf": "patente_membranas-poliimidicas-asimetricas-para-la-separacion-de-hidrocarburos-liquidos-y-su-procedimiento-de-obtencion.pdf"
+            } ,
+            {
+                "titulo": "Nuevos Materiales Cerámicos para la Absorción de Gases de Tipo Ácido y su Procedimiento de Síntesis",
+                "descripcion": "Compuestos cerámicos de fórmula Li2+xCuO2+x/2 que presentan mayor contenido de Li, entre los cuales está el Li2CuO2. La alta difusión del litio hace que los compuestos de este elemento tengan alta absorción de gases ácidos, superior a otros cerámicos. ",
+                "usos": "Estos compuestos tienen aplicación en el campo de la absorción de gases de tipo ácido, no solo el CO2, sino también el monóxido de carbono (CO), los óxidos nitrosos y los óxidos de azufre. ",
+                "pdf": "patente_nuevos-materiales-ceramicos-para-la-absorcion-de-gases-de-tipo-acido-y-su-procedimiento-de-sintesis-.pdf"
+            },
+            {
+                "titulo": "Método para Procesar Hules y Reciclar Desechos Industriales a Base de Hules en Presencia de un Sistema Catalítico",
+                "descripcion": "Método para realizar el procesamiento y reciclaje de diversos materiales elaborados a partir de hules como llantas de desecho, guantes, suelas de zapatos, mangueras, entre otros. ",
+                "usos": "Se obtienen productos como son hule reutilizable para la elaboración de nuevas llantas, hule modificado para mejorar diversas propiedades de polímeros (plasticidad, dureza y viscosidad), hidrocarburos de bajo peso molecular para la elaboración de productos de alto valor comercial (aditivos, pinturas de fondo, adhesivos) e incluso pueden servir como materia prima para la elaboración de diesel.",
+                "pdf": "patente_metodo-para-procesar-y-reciclar-hules-y-desechos-industriales-a-base-de-hules-en-presencia-de-un-sistema-catalitico.pdf"
+            },
+            {
+                "titulo": "Método para la Obtención de Metasilicato de Litio Poroso y Su Uso para la Captura de Dióxido de Carbono",
+                "descripcion": "Método de obtención de metasilicato de litio poroso mediante síntesis hidrotermal. El metasilicato obtenido tiene propiedades texturales porosas superiores lo cual permite una mayor captura de CO2, obteniendo eficiencias de captura de hasta el 80%. ",
+                "usos": "El metasilicato de litio poroso se puede emplear en la fabricación de materiales utilizados en la industria, en donde se requiera la captura de CO2 a temperaturas menores de 200 °C (generación de energía eléctrica o calor, la síntesis de amoniaco, la producción de fertilizantes o los hidroprocesamientos en las refinerías de petróleo). ",
+                "pdf": "patente_metodo-para-la-obtencion-de-metasilicato-de-litio-poroso-y-su-uso-para-la-captura-de-dioxido-de-carbono.pdf"
+            },
+            {
+                "titulo": "Nanocompuestos de ABS Reciclado con Alta Resistencia Mecánica y a la Hidrólisis",
+                "descripcion": "Método para obtener un material de ingeniería de bajo precio, con propiedades mecánicas más altas que el polímero original. Este material se obtiene con el copolímero ABS reciclado y arcillas modificadas con una sustancia orgánica (éter).",
+                "usos": "El área de mayor uso del ABS es la de los electrodomésticos como los refrigeradores, hornos de microondas, computadoras, productos electrónicos como juguetes, se utiliza en la carcasa de teléfonos fijos y móviles (celulares), vehículos particulares (automóviles) y del transporte (aviones y barcos).",
+                "pdf": "patente_nanocompuestos-de-abs-reciclado-con-alta--resistencia-mecanica-y-a-la-hidrolisis-.pdf"
+            },
+            {
+                "titulo": "Preparación de Biocombustibles a Partir del Látex del Guayule (Parthenium Argentatum) y de Hules Naturales de las Especies Castilla Elástica y Hevea Brasiliensis",
+                "descripcion": "Método para la elaboración de biocombustibles empleando como materia prima el látex del guayule u otros tipos de látex de hules naturales como el hule de Tabasco y los hules de Oaxaca y Veracruz, así como de los desechos industriales a base de hules naturales. El procesamiento se realiza vía metátesis, en presencia de catalizadores alquilidenos o vinilidenos de metales de transición. ",
+                "usos": "Los productos obtenidos pueden ser empleados directamente como biocombustibles, excepto cuando su preparación implica el uso de aceites vegetales.",
+                "pdf": "patente_preparacion-de-biocombustibles-a-partir-del-latex-del-guayule-(parthenium-argentatum)-y-de-hules-naturales-de-las-especies-castilla-elastica-y-hevea-brasiliensis.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Espumas Metálicas Mediante Infiltración",
+                "descripcion": "Dispositivo para la obtención de piezas de espumas metálicas altamente porosas, utilizable para materiales metálicos con temperatura de fusión menor a 800 °C, mediante el proceso de infiltración, permitiendo obtener espumas con diferentes porosidades, siendo el máximo posible cercano a 80%.",
+                "usos": "Las espumas pueden emplearse en aplicaciones que requieran la absorción y desorción de gases, intercambiadores de calor, energía y masa, absorbedores de energía y sonido, así como en la fabricación de biomateriales como partes sustitutas de hueso.",
+                "pdf": ""
+            }
+        ]
+    },
+
+    "construccion": {
+        "id": "construccion",
+        "nombre": "SECTOR DE LA CONSTRUCCIÓN",
+        "patentes": 
+        [
+            {
+                "titulo": "Método para Obtener Películas y Laminados Nanocompuestos de Termoplásticos y Arcillas",
+                "descripcion": "Procedimiento novedoso para obtener laminados y películas de diferentes espesores mediante un proceso continuo de fabricación con polímeros termoplásticos de primer uso o reciclados y arcillas. Las ventajas que presentan estos materiales nanocompuestos ligeros, es decir, los laminados y las películas, es su alta resistencia mecánica, resistencia al medio ambiente y a agentes físicos.",
+                "usos": "Los laminados nanocompuestos de termoplásticos y arcillas pueden sustituir a los laminados de cartón asfaltado, acrílico, resina poliéster-fibra de vidrio, policarbonato y asbesto cemento. Asimismo, las películas pueden sustituir a las fabricadas de cloruro de polivinilio, poliestireno, polietileno, poliamida, etilen-vinil-acetato, polipropileno y mezclas de los anteriores.",
+                "pdf": "patente_metodo-para-obtener-peliculas-y-laminados-nanocompuestos-de-termoplasticos-y-arcillas.pdf"
+            },
+            {
+                "titulo": "Dispositivo para Comparar la Intensidad de un (n) haz (haces) de Luz de Inspección Respecto a Otro de Referencia",
+                "descripcion": "Dispositivo que compara longitud de onda en longitud de onda, un haz por ejemplo parcialmente absorbido (reflejado), respecto a otro por ejemplo de referencia.",
+                "usos": "Este dispositivo en su modalidad de analizador de absorción, puede realizar análisis de muestras sólidas, líquidas, gaseosas que no emitan radiación y si lo hacen esta radiación sea continua en el tiempo. Incluso su estudio se puede extender al estudio de plasmas. ",
+                "pdf": "patente_dispositivo-para-comparar-la-intesidad-de-un-(n)-haz-(haces)-de-luz-de-inspeccion-respecto-a-otro--de-referencia.pdf"
+            },
+            {
+                "titulo": "Nuevos Procedimientos de Fabricación de Materiales Compuestos de Resina Poliéster con Nanopartículas en Sustrato de Agua",
+                "descripcion": "Métodos de fabricación de materiales compuestos obtenidos al incorporar arcilla suspendida en agua a una matriz polimérica, caracterizado porque la matriz polimérica es una resina poliéster insaturada y la arcilla es montmorillonita sódica o bentonita sódica. ",
+                "usos": "Estos materiales se pueden utilizar en la industria automotriz para la fabricación de piezas de alta resistencia mecánica, en la industria naval para partes de barcos con alta resistencia a la corrosión, en la industria de la construcción para la manufactura de perfiles (tuberías, varillas, barandales, mangos de herramientas, conductos eléctricos, etc.) y para la industria biomédica como sustituto de agujas de acero inoxidable de diámetros pequeños utilizados en catéteres.",
+                "pdf": "patente_nuevos-procedimientos-de-fabricacion-de-materiales-compuestos-de-resina-poliester-con-nanoparticulas-en-sustrato-de-agua-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Piezas Metálicas de Alta Resistencia",
+                "descripcion": "Sistema que permite la obtención de piezas metálicas con elevada resistencia mecánica y a la corrosión, el cual cuenta con un equipo para la fundición de piezas metálicas y su solidificación rápida por la técnica de melt-spinning.",
+                "usos": "En el dispositivo obtiene diferentes aleaciones con aplicación en distintas industrias (como de transporte, aeroespacial, construcción y médica).",
+                "pdf": "patente_dispositivo-para-la-obtencion-de-piezas-metalicas-de-alta-resistencia.pdf"
+            },
+            {
+                "titulo": "Proceso de Obtención de Materiales Nanocompuestos con Propiedades Retardantes a la Flama Asistido por Ultrasonido",
+                "descripcion": "Proceso de obtención de un material nanocompuesto polimérico con propiedades retardantes a la flama, empleando una mínima concentración de aditivos retardantes a la flama intumescentes y arcilla químicamente modificada.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la formulación de plásticos, textiles, en la protección pasiva de madera (entre otros elementos de construcción), en muebles de procedencia industrial y tienen una amplia aplicación en circuitos electrónicos y en corazas para televisores, computadoras, y otros equipos electrónicos (como los electrodomésticos).",
+                "pdf": "patente_proceso-de-obtencion-de-materiales-nanocompuestos-con-propiedades-retardantes-a-la-flama-asistido-por-ultrasonido.pdf"
+            },
+            {
+                "titulo": "Composición de Materiales Nanocompuestos Retardantes a la Flama a Base de Polietileno de Alta Densidad",
+                "descripcion": "Material nanocompuesto polimérico con propiedades retardantes a la flama que se obtiene con la incorporación de hidróxido de aluminio, borato de zinc y arcilla bentonita químicamente modificada con la sal del aminoácido L-lisina.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la producción de tubería “conduit” en aplicaciones donde las propiedades retardantes a la flama sean requisito indispensable (como la industria automotriz, eléctrica, electrónica, etc.)",
+                "pdf": "patente_composicion-de-materiales-nanocompuestos-retardantes-a-la-flama-a-base-de-polietileno-de-alta-densidad.pdf"
+            },
+            {
+                "titulo": "Arcillas Modificadas, Promotores de Adherencia para Carpetas Asfálticas, Mezclas Asfálticas para Pavimentación y su Uso",
+                "descripcion": "Arcillas modificadas que tienen propiedades tales como mejorar la adhesión entre el agregado pétreo y el asfalto.",
+                "usos": "Su uso es como promotores de adherencia para carpetas asfálticas, mezclas asfálticas y pavimentación. ",
+                "pdf": "patente_arcillas-modificadas,-promotores-de-adherencia-para-carpetas-asfalticas,-mezclas-asfalticas-para-pavimentacion-y-su-uso-.pdf"
+            }
+        ]
+    },
+
+    "manufacturera": {
+        "id": "manufacturera",
+        "nombre": "SECTOR DE LA INDUSTRIA MANUFACTURERA",
+        "patentes": 
+        [
+            {
+                "titulo": "Fabricación de Ánodos de Magnesio con Tratamiento de la Escoria",
+                "descripcion": "Fabricación de ánodos de sacrificio base magnesio, en base a una carga de magnesio y aluminio.",
+                "usos": "Estos ánodos de sacrificio base de magnesio sirven principalmente para la protección catódica en tuberías subterráneas.",
+                "pdf": "patente_fabricacion-de-anodos-de-magnesio-con-tratamiento-de-la-escoria.pdf"
+            },
+            {
+                "titulo": "Ánodos de Sacrificio Base Aluminio Libre Hg/In para la Protección Catódica de Estructuras en Ambiente Marino",
+                "descripcion": "Aleación base aluminio con una alta eficiencia electroquímica, que tiene por objetivo evitar la corrosión de estructuras metálicas en base al acero, en ambiente marino o agua manteniendo sin contaminación las aguas y el ambiente marino (flora y la fauna), causado por indio y mercurio. ",
+                "usos": "Estos ánodos son recomendados especialmente para la protección de estructuras de acero tales como, tuberías, plataformas y cascos navales, sumergidos en agua o lecho marino.",
+                "pdf": "patente_anodos-de-sacrificio-base-aluminio-libre-hg_in-para-la-proteccion-catodica-de-estructuras-en-ambiente-marino.pdf"
+            },
+            {
+                "titulo": "Dispositivo para Comparar la Intensidad de un (n) haz (haces) de Luz de Inspección Respecto a Otro de Referencia",
+                "descripcion": "Dispositivo que compara longitud de onda en longitud de onda, un haz por ejemplo parcialmente absorbido (reflejado), respecto a otro por ejemplo de referencia.",
+                "usos": "Este dispositivo en su modalidad de analizador de absorción, puede realizar análisis de muestras sólidas, líquidas, gaseosas que no emitan radiación y si lo hacen esta radiación sea continua en el tiempo. Incluso su estudio se puede extender al estudio de plasmas. ",
+                "pdf": "patente_dispositivo-para-comparar-la-intesidad-de-un-(n)-haz-(haces)-de-luz-de-inspeccion-respecto-a-otro--de-referencia.pdf"
+            },
+            {
+                "titulo": "Nuevos Procedimientos de Fabricación de Materiales Compuestos de Resina Poliéster con Nanopartículas en Sustrato de Agua",
+                "descripcion": "Métodos de fabricación de materiales compuestos obtenidos al incorporar arcilla suspendida en agua a una matriz polimérica, caracterizado porque la matriz polimérica es una resina poliéster insaturada y la arcilla es montmorillonita sódica o bentonita sódica. ",
+                "usos": "Estos materiales se pueden utilizar en la industria automotriz para la fabricación de piezas de alta resistencia mecánica, en la industria naval para partes de barcos con alta resistencia a la corrosión, en la industria de la construcción para la manufactura de perfiles (tuberías, varillas, barandales, mangos de herramientas, conductos eléctricos, etc.) y para la industria biomédica como sustituto de agujas de acero inoxidable de diámetros pequeños utilizados en catéteres.",
+                "pdf": "patente_nuevos-procedimientos-de-fabricacion-de-materiales-compuestos-de-resina-poliester-con-nanoparticulas-en-sustrato-de-agua-.pdf"
+            },
+            {
+                "titulo": "Síntesis de Sulfato de Bario con Morfología de Dona y su Uso Como Reforzante en Materiales Compuestos de Matriz Polimérica",
+                "descripcion": "Síntesis de partículas de sulfato de bario nano o micrométricas con morfología de dona y que pueden ser utilizadas como reforzantes de materiales nanocompuestos basados en polímeros. ",
+                "usos": "Estos materiales se pueden utilizar como pigmentos y recubrimientos en la industria de pinturas, en la industria textil para la fabricación de hilos, en biomedicina para dispositivos biomédicos como prótesis, corazones artificiales, marcapasos y reemplazo de tejido estructural.",
+                "pdf": "patente_sintesis-de-sulfato-de-bario-con-morfologia-de-dona-y-su-uso-como-reforzante-en-materiales-compuestos-de-matriz-polimerica.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Piezas Metálicas de Alta Resistencia",
+                "descripcion": "Sistema que permite la obtención de piezas metálicas con elevada resistencia mecánica y a la corrosión, el cual cuenta con un equipo para la fundición de piezas metálicas y su solidificación rápida por la técnica de melt-spinning.",
+                "usos": "En el dispositivo obtiene diferentes aleaciones con aplicación en distintas industrias (como de transporte, aeroespacial, construcción y médica).",
+                "pdf": "patente_dispositivo-para-la-obtencion-de-piezas-metalicas-de-alta-resistencia.pdf"
+            },
+            {
+                "titulo": "Retardancia de Flama en Resinas Poliéster con Montmorillonita",
+                "descripcion": "Material compuesto, con alta resistencia a la propagación de la flama y auto extinguible, con la finalidad de reducir los daños que producen los incendios. ",
+                "usos": "El material puede ser usado en la construcción de casa y edificios, en la construcción de paredes, techos, muebles y decoración, además de la fabricación de diferentes vehículos y accesorios.",
+                "pdf": "patente_retardancia-de-flama-en-resinas-poliester-con-montmorillonita.pdf"
+            },
+            {
+                "titulo": "Sistema de Sinterizado de Materiales Metálicos Densos y Porosos",
+                "descripcion": "Sistema que cuenta con diversos aditamentos, que permite la fabricación de materiales metálicos con diferentes grados de porosidad.",
+                "usos": "Las espumas se pueden emplear en aplicaciones tales como la absorción del sonido y la energía, absorción y desorción gaseosa, intercambiadores de calor y energía y en la fabricación de biomateriales como partes sustitutas de hueso. ",
+                "pdf": "patente_sistema-de-sinterizado-de-materiales-metalicos-densos-y-porosos-.pdf"
+            },
+            {
+                "titulo": "Proceso para la Obtención de Superimanes Nanocompositos con Dos Fases Magnéticas y Geométricas Complejas",
+                "descripcion": "Fabricación de superimanes permanentes, tanto isotrópicos como anisotrópicos, que facilita la obtención de piezas con perfiles de diferentes formas, tanto regulares como irregulares, utilizando solidificación rápida para obtener la aleación base, seguido de deformación severa por extrusión.",
+                "usos": "Los superimanes pueden emplearse para la fabricación de bocinas, fuentes de campo magnético uniforme y no uniforme, coples magnéticos, sistemas de levitación, actuadores, sensores, motores de tipo dc, de sincronía y de paso, magnetoterapia, sensores para almacenamiento de datos y de dispositivos electrónicos diversos (impresoras, cámaras y relojes), dispositivos biomédicos (válvulas cardíacas, catéteres magnéticos, dispositivos dentales) y sensores para la industria automotriz.",
+                "pdf": "patente_proceso-para-la-obtencion-de-superimanes-nanocompositos-con-dos-fases-magneticas-y-geometrias-complejas-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Sinterización de Espumas y Materiales Metálicos Compactos Usando el Proceso de Metalurgia de Polvos",
+                "descripcion": "Dispositivo con atmósfera controlada para su utilización en la fabricación de espumas y materiales metálicos compactos, con porcentajes de porosidad variados, partiendo de polvos metálicos. ",
+                "usos": "Las espumas se pueden emplear en aplicaciones tales como la absorción del sonido y la energía, absorción y desorción gaseosa, intercambiadores de calor y energía y en la fabricación de biomateriales.",
+                "pdf": "patente_dispositivo-para-la-sinterizacion-de-espumas-y-materiales-metalicos-compactos-usando-el-proceso-de-metalurgia-de-polvos-.pdf"
+            },
+            {
+                "titulo": "Nanocompuestos de ABS Reciclado con Alta Resistencia Mecánica y a la Hidrólisis",
+                "descripcion": "Método para obtener un material de ingeniería de bajo precio, con propiedades mecánicas más altas que el polímero original. Este material se obtiene con el copolímero ABS reciclado y arcillas modificadas con una sustancia orgánica (éter).",
+                "usos": "El área de mayor uso del ABS es la de los electrodomésticos como los refrigeradores, hornos de microondas, computadoras, productos electrónicos como juguetes, se utiliza en la carcasa de teléfonos fijos y móviles (celulares), vehículos particulares (automóviles) y del transporte (aviones y barcos).",
+                "pdf": "patente_nanocompuestos-de-abs-reciclado-con-alta--resistencia-mecanica-y-a-la-hidrolisis-.pdf"
+            },
+            {
+                "titulo": "Proceso de Obtención de Materiales Nanocompuestos con Propiedades Retardantes a la Flama Asistido por Ultrasonido",
+                "descripcion": "Proceso de obtención de un material nanocompuesto polimérico con propiedades retardantes a la flama, empleando una mínima concentración de aditivos retardantes a la flama intumescentes y arcilla químicamente modificada.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la formulación de plásticos, textiles, en la protección pasiva de madera (entre otros elementos de construcción), en muebles de procedencia industrial y tienen una amplia aplicación en circuitos electrónicos y en corazas para televisores, computadoras, y otros equipos electrónicos (como los electrodomésticos).",
+                "pdf": "patente_proceso-de-obtencion-de-materiales-nanocompuestos-con-propiedades-retardantes-a-la-flama-asistido-por-ultrasonido.pdf"
+            },
+            {
+                "titulo": "Composición de Nanocompuestos de PET-PEN-arcilla-g-lisina",
+                "descripcion": "Material nanocompuesto de PET-PEN-arcilla-g-lisina que es idóneo para producir botellas y películas de baja permeabilidad a los gases y resistir el proceso de pasteurización sindeformación dimensional aparente.",
+                "usos": "Estos materiales se pueden utilizar en la industria del envase de bebidas carbonatadas, de cerveza, de vino, de té, de café, así como embalaje de conservas, alimentos y productos perecederos. También se puede aplicar a la producción de artículos que necesiten la propiedad de estabilidad dimensional a la temperatura en la industria electrónica, automotriz, médica y de electrodomésticos.",
+                "pdf": "patente_composicion-de-nanocompuestos-de-pet-pen-arcilla-g-lisina-.pdf"
+            },
+            {
+                "titulo": "Cromóforos Naturales para Filtros de Radiación Ultravioleta y Emisiones de Luz Azul y Verde",
+                "descripcion": "Obtención de cromóforos naturales extraídos de la planta palo azul mediante un proceso sencillo de purificación. Haciendo su extracción relativamente sencilla y resolviendo el problema de la toxicidad presente en los cromóforos comerciales.",
+                "usos": "Las películas producidas pueden ser utilizadas como protectores contra la radiación ultravioleta, películas emisoras de luz azul y verde en elementos de señalización, sondas fluorescentes para el marcado de moléculas y macromoléculas, componentes ópticos de materiales con propiedades opto-electrónicas y componentes en la fabricación de OLeds, en la industria cosmética puede proporcionar protección a los rayos UV y también por su nula toxicidad pueden ser utilizados en la industria médica y de alimentos.",
+                "pdf": "patente_cromoforos-naturales-para-filtros-de-radiacion-ultravioleta-y-emisores-de-luz-azul-y-verde.pdf"
+            },
+            {
+                "titulo": "Plásticos Fluorescentes para Utilizarse en Iluminación con Luz Negra",
+                "descripcion": "Método sencillo para producir materiales poliméricos fluorescentes. Estos materiales absorben radiación UV y emiten luz visible violeta, azul y verde.",
+                "usos": "El material puede ser utilizado como plástico fluorescente (en ambientes nocturnos, parques temáticos, tiendas, teatros, discotecas, anuncios, letreros), en la elaboración de filtros de radiación UV, para empaques de materiales sensibles, como marcador y/o identificador de papel moneda o valores, filtros de radiación UV (en empaques, domos, invernaderos, ventanas de edificios, automóviles), incluso se pueden fabricar OLEDs.",
+                "pdf": "patente_plasticos-fluorescentes-para-utilizarse-en-iluminacion-con-luz-negra-.pdf"
+            },
+            {
+                "titulo": "Composición de Materiales Nanocompuestos Retardantes a la Flama a Base de Polietileno de Alta Densidad",
+                "descripcion": "Material nanocompuesto polimérico con propiedades retardantes a la flama que se obtiene con la incorporación de hidróxido de aluminio, borato de zinc y arcilla bentonita químicamente modificada con la sal del aminoácido L-lisina.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la producción de tubería “conduit” en aplicaciones donde las propiedades retardantes a la flama sean requisito indispensable (como la industria automotriz, eléctrica, electrónica, etc.)",
+                "pdf": "patente_composicion-de-materiales-nanocompuestos-retardantes-a-la-flama-a-base-de-polietileno-de-alta-densidad.pdf"
+            },
+            {
+                "titulo": "Compuestos de Porfirina-Pireno con Alta Transferencia de Energía",
+                "descripcion": "Diseño estructural y síntesis de macromoléculas que contienen grupos capaces de absorber luz en el ultravioleta (pireno) y transferirla a una moléculas aceptora (porfirina), es decir, presentan transferencia de energía.",
+                "usos": "La invención se relaciona con los materiales utilizados en la industria de los dispositivos opto-electrónicos (diodos electroluminiscentes orgánicos, sensores químicos de metales, en la detección simultánea de múltiples analitos en una mezcla y transistores de efecto de campo) y los dispositivos para la conversión de energía luminosa a energía eléctrica (celdas solares sensibilizadas con pigmentos, celdas de Graetzel, y celdas solares orgánicas de heterojuntas en masa) y también con la detección no radioactiva de diferentes biomoléculas. ",
+                "pdf": "patente_compuestos-de-porfirina-pireno-con-alta-transferencia-de-energia-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para Acoplar a un Reometro para Realizar Simultáneamente Mediciones Reológicas y Aplicación de Ultrasonido",
+                "descripcion": "Dispositivo que comprende transductores piezoeléctricos que generan ondas ultrasónicas y que se coloca fácilmente en la base de un reómetro para poder hacer, simultáneamente, determinaciones reológicas con aplicación de ultrasonido.",
+                "usos": "Los resultados de estas determinaciones pueden ser aplicados en procesos de transporte de masa (industria del petróleo, de alimentos, del concreto), en procesamiento de transformación de plásticos, tintas, geles, pastas dentales y en cualquier proceso donde se transporte fluidos.",
+                "pdf": "patente_dispositivo-para-acoplar-a-un-reometro-para-realizar-simultaneamente-mediciones-reologicas-y-aplicacion-de-ultrasonido.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Espumas Metálicas Mediante Infiltración",
+                "descripcion": "Dispositivo para la obtención de piezas de espumas metálicas altamente porosas, utilizable para materiales metálicos con temperatura de fusión menor a 800 °C, mediante el proceso de infiltración, permitiendo obtener espumas con diferentes porosidades, siendo el máximo posible cercano a 80%.",
+                "usos": "Las espumas pueden emplearse en aplicaciones que requieran la absorción y desorción de gases, intercambiadores de calor, energía y masa, absorbedores de energía y sonido, así como en la fabricación de biomateriales como partes sustitutas de hueso.",
+                "pdf": ""
+            },
+            {
+                "titulo": "Rejilla de Difracción de Polímero para Guías de Onda Ópticas y Procedimiento de Fabricación",
+                "descripcion": "Rejilla de difracción óptica que presenta un procedimiento de fabricación sencillo y elimina los problemas de inestabilidad en la respuesta y de alineación de las micro-estructuras.",
+                "usos": "El dispositivo puede utilizarse en medición de temperatura e índice de refracción, también puede integrarse para realizar mediciones de tensión y deformación.",
+                "pdf": "patente_rejilla-de-difraccion-de-polimero-para-guias-de-onda-opticas-y-procedimiento-de-fabricacion.pdf"
+            },
+            {
+                "titulo": "Obtención de Polímeros Biodegradables Solubles en Agua a Partir de la Semilla de Tamarindo",
+                "descripcion": "Proceso para obtener un material polimérico biodegradable, a partir del polvo de la semilla de tamarindo.",
+                "usos": "El copolímero es aplicable en el área de la industria alimenticia para la elaboración de envases desechables.",
+                "pdf": "patente_obtencion-de-polimeros-biodegradables-solubles-en-agua-a-partir-de-la-semilla-de-tamarindo.pdf"
+            },
+            {
+                "titulo": "Procedimiento de Fabricación Intrínseco de Espumas Metálicas de Al-Cu-Fe y Productos Obtenidos",
+                "descripcion": "Producción de espumas metálicas de aleaciones Al-Cu-Fe de amplios rangos de porosidad.",
+                "usos": "Las espumas se pueden utilizar en la fabricación de intercambiadores de calor y energía, absorbedores del sonido y filtros altamente resistentes al desgaste, y para aplicaciones estructurales. ",
+                "pdf": "patente_procedimiento-de-fabricacion-intrinseco-de-espumas-metalicas-de-al-cu-fe-y-productos-obtenidos.pdf"
+            },
+            {
+                "titulo": "Filtro Óptico Interferométrico de Fibra Óptica con Material Polimérico y su Procedimiento de Fabricación",
+                "descripcion": "Fabricación de filtros interferométricos Fabry-Perot (FP) pasivos construidos de fibra óptica (FO) y una material polimérico para su uso como filtros ópticos. ",
+                "usos": "Debido a la respuesta espectral de los filtros FP, pueden emplearse como dispositivos selectivos en longitud de onda en los sistemas de telecomunicaciones (sistemas de multiplexación por división de longitud de onda (WDM), también puede ser utilizado como dispositivo de sensado de variables físicas a las que sea susceptible el material polimérico. ",
+                "pdf": "patente_filtro-optico-interferometrico-de-fibra-optica-con-material-polimerico-y-su-procedimiento-de-fabricacion.pdf"
+            },
+            {
+                "titulo": "Porfirinas Dendronizadas con Alta Transferencia de Energía",
+                "descripcion": "Diseño estructural y síntesis de nuevas macromoléculas dendríticas que contienen grupos capaces de absorber luz en el ultravioleta (pireno) y transferirla a una molécula aceptora (porfirina) que actúa como núcleo. Los compuestos presentan una alta capacidad de transferencia de energía (casi del 100%).",
+                "usos": "La invención se relaciona con los materiales  utilizados en la industria de los dispositivos optoelectrónicos (diodos electroluminiscentes orgánicos, sensores químicos de metales, en la detección simultánea de diversos analitos en una mezcla y transistores de efecto de campo) y en dispositivos fotovoltaicos para la conversión de energía luminosa a energía eléctrica, como son las celdas solares sensibilizadas con pigmentos (celdas de Graetzel) y celdas solares orgánicas de heterojuntas en masa.",
+                "pdf": "patente_porfirinas-dendronizadas-con-alta-transferencia-de-energia-.pdf"
+            },
+            {
+                "titulo": "Espumas Metálicas de Al-Si-Cu-Mg y su Procedimiento de Obtención",
+                "descripcion": "Proceso de fabricación de materiales metálicos porosos o espumas de aleaciones cuaternarias de aluminio con silicio, cobre y diferentes contenidos de magnesio. Las espumas obtenidas son altamente porosas. El proceso es sencillo, rápido y eficiente. ",
+                "usos": "Las espumas se pueden utilizar en la fabricación de intercambiadores de calor y energía, y absorbedores del sonido además de presentar aplicaciones estructurales. También tienen aplicaciones en la fabricación de intercambiadores de calor y energía, absorbedores del sonido y partes estructurales. ",
+                "pdf": "patente_espumas-metalicas-de-al-si-cu-mg-y-su-procedimiento-de-obtencion-.pdf"
+            },
+            {
+                "titulo": "Grafeno y Nanografito por Ultrasonido-HASE y su uso Como Reforzante en Materiales Compuestos de Matriz Polimérica",
+                "descripcion": "En esta invención se utiliza ultrasonido para separar mecánicamente las capas de grafito en un medio acuoso y se mantienen separadas, aisladas, a través de la utilización del polímero asociativo HASE. Estas partículas les confieren a los materiales producidos con éstas mejores propiedades mecánicas, comparadas con el polímero precursor, y le otorgan la propiedad de descarga electrostática.",
+                "usos": "Estas partículas pueden ser utilizadas como reforzantes en materiales nanocompuestos termoplásticos. También se pueden utilizar como pigmentos en la fabricación de pinturas y recubrimientos, como agentes de proceso y procesamiento de polímeros para la producción de materiales conductores, envases de seguridad y materiales que ofrecen escudo contra la radiación electromagnética y en la industria de lubricantes.",
+                "pdf": "patente_grafeno-y-nanografito-por-ultrasonido-hase-y-su-uso-como-reforzante-en-materiales-compuestos-de-matriz-polimerica-aplicaciones,-beneficios,-uso-de-la-invencion.pdf"
+            }
+        ]
+    },
+
+    "quimica": {
+        "id": "quimica",
+        "nombre": "SECTOR DE LA INDUSTRIA QUIMICA",
+        "patentes": 
+        [
+            {
+                "titulo": "Nuevo Procedimiento de Extrusión de Polímeros y Aparato que Aplica Este Procedimiento",
+                "descripcion": "Obtención de productos extruidos con características mecánicas mejoradas y un proceso de extrusión con menor gasto de energía a un mismo nivel de producción y/o nivel de producciones mayores a un mismo nivel de consumo de energía.",
+                "usos": "El proceso puede aplicarse en la industria del plástico para la fabricación de bandas y mangueras de plástico, fabricación de bolsas y películas de plástico, fabricación de productos de plásticos para el hogar (como manteles, carpetas y tapetes).",
+                "pdf": "patente_nuevo-procedimiento-de-extrusion-de-polimeros-y-aparato-que-aplica-este-procedimiento.pdf"
+            },
+            {
+                "titulo": "Dispositivo para Comparar la Intensidad de un (n) haz (haces) de Luz de Inspección Respecto a Otro de Referencia",
+                "descripcion": "Dispositivo que compara longitud de onda en longitud de onda, un haz por ejemplo parcialmente absorbido (reflejado), respecto a otro por ejemplo de referencia.",
+                "usos": "Este dispositivo en su modalidad de analizador de absorción, puede realizar análisis de muestras sólidas, líquidas, gaseosas que no emitan radiación y si lo hacen esta radiación sea continua en el tiempo. Incluso su estudio se puede extender al estudio de plasmas. ",
+                "pdf": "patente_dispositivo-para-comparar-la-intesidad-de-un-(n)-haz-(haces)-de-luz-de-inspeccion-respecto-a-otro--de-referencia.pdf"
+            },
+            {
+                "titulo": "Cabezal-Mezclador Estático para el Procesamiento y Producción de Nanocompuestos Termoplásticos con Arcilla",
+                "descripcion": "Aditamento llamado cabezal-mezclador estático, utilizado en conjunto con el proceso de extrusión, para la obtención de una mezcla homogénea de polímeros termoplásticos en estado fundido y arcillas. Este cabezal-mezclador se puede acoplar a cualquier equipo comercial y no requiere ningún aditamento especial, haciendo el costo de la implementación mínimo.",
+                "usos": "El aditamento tiene aplicación en las industrias dedicadas a la fabricación de productos de plástico en donde puede ser utilizado para la obtención de mezclas homogéneas de polímeros termoplásticos (fabricación de platos y vasos desechables, etc.)",
+                "pdf": "patente_cabezal-mezclador-estatico-para-el-procesamiento-y-produccion-de-nanocompuestos-termoplasticos-con-arcillas.pdf"
+            },
+            {
+                "titulo": "Esponjas de Colágena Provenientes de Huesos de Mamíferos su Proceso de Obtención y Sus Usos",
+                "descripcion": "Obtención de colágena a partir de la matriz ósea, material óseo o hueso de mamífero, mediante una técnica simple, limpia, rápida y segura.",
+                "usos": "Este material se puede utilizar como biomaterial de relleno, de implante, de tejido conjuntivo, como transportador de células pluripotenciales o células madre, como vehículo y dosificador de fármacos. Además, se puede obtener la colágena en otras presentaciones.",
+                "pdf": "patente_esponjas-de-colagena-provenientes-de-huesos-de-mamiiferos-su-proceso-de-obtencion-y-sus-usos.pdf"
+            },
+            {
+                "titulo": "Membranas Poliimídicas Asimétricas para la Separación de Hidrocarburos Líquidos y su Procedimiento de Obtención",
+                "descripcion": "Fabricación de membranas asimétricas en fase húmeda a partir de poliimidas aromáticas lineales.",
+                "usos": "Las membranas son aplicadas a la separación líquido-líquido de hidrocarburos o cualquier proceso que requiera del transporte másico a través de membranas. ",
+                "pdf": "patente_membranas-poliimidicas-asimetricas-para-la-separacion-de-hidrocarburos-liquidos-y-su-procedimiento-de-obtencion.pdf"
+            } ,
+            {
+                "titulo": "Nuevos Materiales Cerámicos para la Absorción de Gases de Tipo Ácido y su Procedimiento de Síntesis",
+                "descripcion": "Compuestos cerámicos de fórmula Li2+xCuO2+x/2 que presentan mayor contenido de Li, entre los cuales está el Li2CuO2. La alta difusión del litio hace que los compuestos de este elemento tengan alta absorción de gases ácidos, superior a otros cerámicos. ",
+                "usos": "Estos compuestos tienen aplicación en el campo de la absorción de gases de tipo ácido, no solo el CO2, sino también el monóxido de carbono (CO), los óxidos nitrosos y los óxidos de azufre. ",
+                "pdf": "patente_nuevos-materiales-ceramicos-para-la-absorcion-de-gases-de-tipo-acido-y-su-procedimiento-de-sintesis-.pdf"
+            },
+            {
+                "titulo": "Nuevos Procedimientos de Fabricación de Materiales Compuestos de Resina Poliéster con Nanopartículas en Sustrato de Agua",
+                "descripcion": "Métodos de fabricación de materiales compuestos obtenidos al incorporar arcilla suspendida en agua a una matriz polimérica, caracterizado porque la matriz polimérica es una resina poliéster insaturada y la arcilla es montmorillonita sódica o bentonita sódica. ",
+                "usos": "Estos materiales se pueden utilizar en la industria automotriz para la fabricación de piezas de alta resistencia mecánica, en la industria naval para partes de barcos con alta resistencia a la corrosión, en la industria de la construcción para la manufactura de perfiles (tuberías, varillas, barandales, mangos de herramientas, conductos eléctricos, etc.) y para la industria biomédica como sustituto de agujas de acero inoxidable de diámetros pequeños utilizados en catéteres.",
+                "pdf": "patente_nuevos-procedimientos-de-fabricacion-de-materiales-compuestos-de-resina-poliester-con-nanoparticulas-en-sustrato-de-agua-.pdf"
+            },
+            {
+                "titulo": "Síntesis de Sulfato de Bario con Morfología de Dona y su Uso Como Reforzante en Materiales Compuestos de Matriz Polimérica",
+                "descripcion": "Síntesis de partículas de sulfato de bario nano o micrométricas con morfología de dona y que pueden ser utilizadas como reforzantes de materiales nanocompuestos basados en polímeros. ",
+                "usos": "Estos materiales se pueden utilizar como pigmentos y recubrimientos en la industria de pinturas, en la industria textil para la fabricación de hilos, en biomedicina para dispositivos biomédicos como prótesis, corazones artificiales, marcapasos y reemplazo de tejido estructural.",
+                "pdf": "patente_sintesis-de-sulfato-de-bario-con-morfologia-de-dona-y-su-uso-como-reforzante-en-materiales-compuestos-de-matriz-polimerica.pdf"
+            },
+            {
+                "titulo": "Método para Procesar Hules y Reciclar Desechos Industriales a Base de Hules en Presencia de un Sistema Catalítico",
+                "descripcion": "Método para realizar el procesamiento y reciclaje de diversos materiales elaborados a partir de hules como llantas de desecho, guantes, suelas de zapatos, mangueras, entre otros. ",
+                "usos": "Se obtienen productos como son hule reutilizable para la elaboración de nuevas llantas, hule modificado para mejorar diversas propiedades de polímeros (plasticidad, dureza y viscosidad), hidrocarburos de bajo peso molecular para la elaboración de productos de alto valor comercial (aditivos, pinturas de fondo, adhesivos) e incluso pueden servir como materia prima para la elaboración de diesel.",
+                "pdf": "patente_metodo-para-procesar-y-reciclar-hules-y-desechos-industriales-a-base-de-hules-en-presencia-de-un-sistema-catalitico.pdf"
+            },
+            {
+                "titulo": "Método para la Obtención de Metasilicato de Litio Poroso y su Uso para la Captura de Dióxido de Carbono",
+                "descripcion": "Método de obtención de metasilicato de litio poroso mediante síntesis hidrotermal. El metasilicato obtenido tiene propiedades texturales porosas superiores lo cual permite una mayor captura de CO2, obteniendo eficiencias de captura de hasta el 80%. ",
+                "usos": "El metasilicato de litio poroso se puede emplear en la fabricación de materiales utilizados en la industria, en donde se requiera la captura de CO2 a temperaturas menores de 200 °C (generación de energía eléctrica o calor, la síntesis de amoniaco, la producción de fertilizantes o los hidroprocesamientos en las refinerías de petróleo). ",
+                "pdf": "patente_metodo-para-la-obtencion-de-metasilicato-de-litio-poroso-y-su-uso-para-la-captura-de-dioxido-de-carbono.pdf"
+            },
+            {
+                "titulo": "Nanocompuestos de ABS Reciclado con Alta Resistencia Mecánica y a la Hidrólisis",
+                "descripcion": "Método para obtener un material de ingeniería de bajo precio, con propiedades mecánicas más altas que el polímero original. Este material se obtiene con el copolímero ABS reciclado y arcillas modificadas con una sustancia orgánica (éter).",
+                "usos": "El área de mayor uso del ABS es la de los electrodomésticos como los refrigeradores, hornos de microondas, computadoras, productos electrónicos como juguetes, se utiliza en la carcasa de teléfonos fijos y móviles (celulares), vehículos particulares (automóviles) y del transporte (aviones y barcos).",
+                "pdf": "patente_nanocompuestos-de-abs-reciclado-con-alta--resistencia-mecanica-y-a-la-hidrolisis-.pdf"
+            },
+            {
+                "titulo": "Proceso de Obtención de Materiales Nanocompuestos con Propiedades Retardantes a la Flama Asistido por Ultrasonido",
+                "descripcion": "Proceso de obtención de un material nanocompuesto polimérico con propiedades retardantes a la flama, empleando una mínima concentración de aditivos retardantes a la flama intumescentes y arcilla químicamente modificada.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la formulación de plásticos, textiles, en la protección pasiva de madera (entre otros elementos de construcción), en muebles de procedencia industrial y tienen una amplia aplicación en circuitos electrónicos y en corazas para televisores, computadoras, y otros equipos electrónicos (como los electrodomésticos).",
+                "pdf": "patente_proceso-de-obtencion-de-materiales-nanocompuestos-con-propiedades-retardantes-a-la-flama-asistido-por-ultrasonido.pdf"
+            },
+             {
+                "titulo": "Composición de Nanocompuestos de PET-PEN-arcilla-g-lisina",
+                "descripcion": "Material nanocompuesto de PET-PEN-arcilla-g-lisina que es idóneo para producir botellas y películas de baja permeabilidad a los gases y resistir el proceso de pasteurización sindeformación dimensional aparente.",
+                "usos": "Estos materiales se pueden utilizar en la industria del envase de bebidas carbonatadas, de cerveza, de vino, de té, de café, así como embalaje de conservas, alimentos y productos perecederos. También se puede aplicar a la producción de artículos que necesiten la propiedad de estabilidad dimensional a la temperatura en la industria electrónica, automotriz, médica y de electrodomésticos.",
+                "pdf": "patente_composicion-de-nanocompuestos-de-pet-pen-arcilla-g-lisina-.pdf"
+            },
+            {
+                "titulo": "Cromóforos Naturales para Filtros de Radiación Ultravioleta y Emisiones de Luz Azul y Verde",
+                "descripcion": "Obtención de cromóforos naturales extraídos de la planta palo azul mediante un proceso sencillo de purificación. Haciendo su extracción relativamente sencilla y resolviendo el problema de la toxicidad presente en los cromóforos comerciales.",
+                "usos": "Las películas producidas pueden ser utilizadas como protectores contra la radiación ultravioleta, películas emisoras de luz azul y verde en elementos de señalización, sondas fluorescentes para el marcado de moléculas y macromoléculas, componentes ópticos de materiales con propiedades opto-electrónicas y componentes en la fabricación de OLeds, en la industria cosmética puede proporcionar protección a los rayos UV y también por su nula toxicidad pueden ser utilizados en la industria médica y de alimentos.",
+                "pdf": "patente_cromoforos-naturales-para-filtros-de-radiacion-ultravioleta-y-emisores-de-luz-azul-y-verde.pdf"
+            },
+            {
+                "titulo": "Preparación de Biocombustibles a Partir del Látex del Guayule (Parthenium Argentatum) y de Hules Naturales de las Especies Castilla Elástica y Hevea Brasiliensis",
+                "descripcion": "Método para la elaboración de biocombustibles empleando como materia prima el látex del guayule u otros tipos de látex de hules naturales como el hule de Tabasco y los hules de Oaxaca y Veracruz, así como de los desechos industriales a base de hules naturales. El procesamiento se realiza vía metátesis, en presencia de catalizadores alquilidenos o vinilidenos de metales de transición. ",
+                "usos": "Los productos obtenidos pueden ser empleados directamente como biocombustibles, excepto cuando su preparación implica el uso de aceites vegetales.",
+                "pdf": "patente_preparacion-de-biocombustibles-a-partir-del-latex-del-guayule-(parthenium-argentatum)-y-de-hules-naturales-de-las-especies-castilla-elastica-y-hevea-brasiliensis.pdf"
+            },
+            {
+                "titulo": "Extrusión con Ultrasonido Aplicado a Mezclas de PET-PEN-arcilla Lisina",
+                "descripcion": "Proceso de extrusión monohusillo con la aplicación de ondas ultrasónicas y la utilización de arcilla superficialmente modificada con la sal del aminoácido L-Lisina, para el control de la estructura química de mezclas de PET y PEN",
+                "usos": "La tecnología puede utilizarse en la industria del envase de bebidas carbonatadas, cerveza, vino, té, café, así como ser empleados en el envase y embalaje de conservas y alimentos. ",
+                "pdf": ""
+            },
+            {
+                "titulo": "Dispositivo para Acoplar a un Reometro para Realizar Simultáneamente Mediciones Reológicas y Aplicación de Ultrasonido",
+                "descripcion": "Dispositivo que comprende transductores piezoeléctricos que generan ondas ultrasónicas y que se coloca fácilmente en la base de un reómetro para poder hacer, simultáneamente, determinaciones reológicas con aplicación de ultrasonido.",
+                "usos": "Los resultados de estas determinaciones pueden ser aplicados en procesos de transporte de masa (industria del petróleo, de alimentos, del concreto), en procesamiento de transformación de plásticos, tintas, geles, pastas dentales y en cualquier proceso donde se transporte fluidos.",
+                "pdf": "patente_dispositivo-para-acoplar-a-un-reometro-para-realizar-simultaneamente-mediciones-reologicas-y-aplicacion-de-ultrasonido.pdf"
+            },
+            {
+                "titulo": "Rejilla de Difracción de Polímero para Guías de Onda Ópticas y Procedimiento de Fabricación",
+                "descripcion": "Rejilla de difracción óptica que presenta un procedimiento de fabricación sencillo y elimina los problemas de inestabilidad en la respuesta y de alineación de las micro-estructuras.",
+                "usos": "El dispositivo puede utilizarse en medición de temperatura e índice de refracción, también puede integrarse para realizar mediciones de tensión y deformación.",
+                "pdf": "patente_rejilla-de-difraccion-de-polimero-para-guias-de-onda-opticas-y-procedimiento-de-fabricacion.pdf"
+            },
+            {
+                "titulo": "Obtención de Polímeros Biodegradables Solubles en Agua a Partir de la Semilla de Tamarindo",
+                "descripcion": "Proceso para obtener un material polimérico biodegradable, a partir del polvo de la semilla de tamarindo.",
+                "usos": "El copolímero es aplicable en el área de la industria alimenticia para la elaboración de envases desechables.",
+                "pdf": "patente_obtencion-de-polimeros-biodegradables-solubles-en-agua-a-partir-de-la-semilla-de-tamarindo.pdf"
+            },
+            {
+                "titulo": "Microencapsulación de Antioxidantes por el Proceso de Secado por Aspersión Empleando Mucílagos de Nopal y Alóe Vera",
+                "descripcion": "Microencapsulación de antioxidantes como ácido gálico, utilizando los mucilagos de nopal y aloe vera, sistema novedoso que es capaz de producir microcápsulas definidas y capaces de encapsular y liberar su contenido bajo condiciones ambientales controladas y deseadas.",
+                "usos": "Este método tiene su aplicación en la industria química como un vector de pared sustituyendo los vectores comerciales tales como las maltodextrinas. También es una investigación que da pie a estudiar la eficiencia del secado, y de encapsulación con este tipo de vectores mucilaginosos.",
+                "pdf": "patente_microencapsulacion-de-antioxidantes-por-el-proceso-de-secado-por-aspersion-empleando-mucilagos-de-nopal-y-aloe-vera.pdf"
+            },
+            {
+                "titulo": "Proceso de Obtención de Biocombustibles a Partir de Hule Natural y Aceite de Microalgas",          
+                "descripcion": "Proceso para la obtención de biocombustibles a partir del uso de fuentes de hule natural (látex) de las especies Castilla elastica, Hevea brasiliensis y Parthenium argentatum (Guayule), y el uso de aceites de microalgas. Debido a su favorable composición y su bajo uso comercial, lográndose un mejor aprovechamiento de las fuentes renovables.",
+                "usos": "La invención se relaciona con los campos técnicos de Química y Biotecnología, específicamente en el área de polímeros, biocombustibles y energías renovables. Esta tecnología puede ser empleada en la industria química (fabricación de productos químicos básicos orgánicos, como ácidos, alcoholes de uso industrial, colorantes naturales no comestibles, productos destilados de la madera como gomas y resinas, etc.)",
+                "pdf": "patente_proceso-de-obtencion-de-biocombustibles-a-partir-de-hule-natural-y-aceite-de-microalgas.pdf"
+            },
+            {
+                "titulo": "Grafeno y Nanografito por Ultrasonido-HASE y su uso Como Reforzante en Materiales Compuestos de Matriz Polimérica",
+                "descripcion": "En esta invención se utiliza ultrasonido para separar mecánicamente las capas de grafito en un medio acuoso y se mantienen separadas, aisladas, a través de la utilización del polímero asociativo HASE. Estas partículas les confieren a los materiales producidos con éstas mejores propiedades mecánicas, comparadas con el polímero precursor, y le otorgan la propiedad de descarga electrostática.",
+                "usos": "Estas partículas pueden ser utilizadas como reforzantes en materiales nanocompuestos termoplásticos. También se pueden utilizar como pigmentos en la fabricación de pinturas y recubrimientos, como agentes de proceso y procesamiento de polímeros para la producción de materiales conductores, envases de seguridad y materiales que ofrecen escudo contra la radiación electromagnética y en la industria de lubricantes.",
+                "pdf": "patente_grafeno-y-nanografito-por-ultrasonido-hase-y-su-uso-como-reforzante-en-materiales-compuestos-de-matriz-polimerica-aplicaciones,-beneficios,-uso-de-la-invencion.pdf"
+            }
+        ]
+    },
+
+    "salud": {
+        "id": "salud",
+        "nombre": "SECTOR DE LA SALUD",
+        "patentes": 
+        [
+            {
+                "titulo": "Preparación de la Biocerámica de Whitlockita con Magnesio a Alta Temperatura",
+                "descripcion": "Obtención de la cerámica basada en Mg-Whitlockita, el cual es un material muy activo para promover la regeneración de hueso. ",
+                "usos": "Esta cerámica se puede emplear como implante en hueso ya que activa la regeneración del mismo.",
+                "pdf": "patente_preparacion-de-la-bioceramica-whitlockita-con-magnesio-a-alta-temperatura-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para Comparar la Intensidad de un (n) haz (haces) de Luz de Inspección Respecto a Otro de Referencia",
+                "descripcion": "Dispositivo que compara longitud de onda en longitud de onda, un haz por ejemplo parcialmente absorbido (reflejado), respecto a otro por ejemplo de referencia.",
+                "usos": "Este dispositivo en su modalidad de analizador de absorción, puede realizar análisis de muestras sólidas, líquidas, gaseosas que no emitan radiación y si lo hacen esta radiación sea continua en el tiempo. Incluso su estudio se puede extender al estudio de plasmas. ",
+                "pdf": "patente_dispositivo-para-comparar-la-intesidad-de-un-(n)-haz-(haces)-de-luz-de-inspeccion-respecto-a-otro--de-referencia.pdf"
+            },
+            {
+                "titulo": "Esponjas de Colágena Provenientes de Huesos de Mamíferos su Proceso de Obtención y Sus Usos",
+                "descripcion": "Obtención de colágena a partir de la matriz ósea, material óseo o hueso de mamífero, mediante una técnica simple, limpia, rápida y segura.",
+                "usos": "Este material se puede utilizar como biomaterial de relleno, de implante, de tejido conjuntivo, como transportador de células pluripotenciales o células madre, como vehículo y dosificador de fármacos. Además, se puede obtener la colágena en otras presentaciones.",
+                "pdf": "patente_esponjas-de-colagena-provenientes-de-huesos-de-mamiiferos-su-proceso-de-obtencion-y-sus-usos.pdf"
+            },
+            {
+                "titulo": "Membranas Poliimídicas Asimétricas para la Separación de Hidrocarburos Líquidos y su Procedimiento de Obtención",
+                "descripcion": "Fabricación de membranas asimétricas en fase húmeda a partir de poliimidas aromáticas lineales.",
+                "usos": "Las membranas son aplicadas a la separación líquido-líquido de hidrocarburos o cualquier proceso que requiera del transporte másico a través de membranas. ",
+                "pdf": "patente_membranas-poliimidicas-asimetricas-para-la-separacion-de-hidrocarburos-liquidos-y-su-procedimiento-de-obtencion.pdf"
+            },
+            {
+                "titulo": "Nuevos Procedimientos de Fabricación de Materiales Compuestos de Resina Poliéster con Nanopartículas en Sustrato de Agua",
+                "descripcion": "Métodos de fabricación de materiales compuestos obtenidos al incorporar arcilla suspendida en agua a una matriz polimérica, caracterizado porque la matriz polimérica es una resina poliéster insaturada y la arcilla es montmorillonita sódica o bentonita sódica. ",
+                "usos": "Estos materiales se pueden utilizar en la industria automotriz para la fabricación de piezas de alta resistencia mecánica, en la industria naval para partes de barcos con alta resistencia a la corrosión, en la industria de la construcción para la manufactura de perfiles (tuberías, varillas, barandales, mangos de herramientas, conductos eléctricos, etc.) y para la industria biomédica como sustituto de agujas de acero inoxidable de diámetros pequeños utilizados en catéteres.",
+                "pdf": "patente_nuevos-procedimientos-de-fabricacion-de-materiales-compuestos-de-resina-poliester-con-nanoparticulas-en-sustrato-de-agua-.pdf"
+            },
+            {
+                "titulo": "Síntesis de Sulfato de Bario con Morfología de Dona y su Uso Como Reforzante en Materiales Compuestos de Matriz Polimérica",
+                "descripcion": "Síntesis de partículas de sulfato de bario nano o micrométricas con morfología de dona y que pueden ser utilizadas como reforzantes de materiales nanocompuestos basados en polímeros. ",
+                "usos": "Estos materiales se pueden utilizar como pigmentos y recubrimientos en la industria de pinturas, en la industria textil para la fabricación de hilos, en biomedicina para dispositivos biomédicos como prótesis, corazones artificiales, marcapasos y reemplazo de tejido estructural.",
+                "pdf": "patente_sintesis-de-sulfato-de-bario-con-morfologia-de-dona-y-su-uso-como-reforzante-en-materiales-compuestos-de-matriz-polimerica.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Piezas Metálicas de Alta Resistencia",
+                "descripcion": "Sistema que permite la obtención de piezas metálicas con elevada resistencia mecánica y a la corrosión, el cual cuenta con un equipo para la fundición de piezas metálicas y su solidificación rápida por la técnica de melt-spinning.",
+                "usos": "En el dispositivo obtiene diferentes aleaciones con aplicación en distintas industrias (como de transporte, aeroespacial, construcción y médica).",
+                "pdf": "patente_dispositivo-para-la-obtencion-de-piezas-metalicas-de-alta-resistencia.pdf"
+            },
+            {
+                "titulo": "Sistema de Sinterizado de Materiales Metálicos Densos y Porosos",
+                "descripcion": "Sistema que cuenta con diversos aditamentos, que permite la fabricación de materiales metálicos con diferentes grados de porosidad.",
+                "usos": "Las espumas se pueden emplear en aplicaciones tales como la absorción del sonido y la energía, absorción y desorción gaseosa, intercambiadores de calor y energía y en la fabricación de biomateriales como partes sustitutas de hueso. ",
+                "pdf": "patente_sistema-de-sinterizado-de-materiales-metalicos-densos-y-porosos-.pdf"
+            },
+            {
+                "titulo": "Proceso para la Obtención de Superimanes Nanocompositos con Dos Fases Magnéticas y Geométricas Complejas",
+                "descripcion": "Fabricación de superimanes permanentes, tanto isotrópicos como anisotrópicos, que facilita la obtención de piezas con perfiles de diferentes formas, tanto regulares como irregulares, utilizando solidificación rápida para obtener la aleación base, seguido de deformación severa por extrusión.",
+                "usos": "Los superimanes pueden emplearse para la fabricación de bocinas, fuentes de campo magnético uniforme y no uniforme, coples magnéticos, sistemas de levitación, actuadores, sensores, motores de tipo dc, de sincronía y de paso, magnetoterapia, sensores para almacenamiento de datos y de dispositivos electrónicos diversos (impresoras, cámaras y relojes), dispositivos biomédicos (válvulas cardíacas, catéteres magnéticos, dispositivos dentales) y sensores para la industria automotriz.",
+                "pdf": "patente_proceso-para-la-obtencion-de-superimanes-nanocompositos-con-dos-fases-magneticas-y-geometrias-complejas-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Sinterización de Espumas y Materiales Metálicos Compactos Usando el Proceso de Metalurgia de Polvos",
+                "descripcion": "Dispositivo con atmósfera controlada para su utilización en la fabricación de espumas y materiales metálicos compactos, con porcentajes de porosidad variados, partiendo de polvos metálicos. ",
+                "usos": "Las espumas se pueden emplear en aplicaciones tales como la absorción del sonido y la energía, absorción y desorción gaseosa, intercambiadores de calor y energía y en la fabricación de biomateriales.",
+                "pdf": "patente_dispositivo-para-la-sinterizacion-de-espumas-y-materiales-metalicos-compactos-usando-el-proceso-de-metalurgia-de-polvos-.pdf"
+            },
+            {
+                "titulo": "Composición de Nanocompuestos de PET-PEN-arcilla-g-lisina",
+                "descripcion": "Material nanocompuesto de PET-PEN-arcilla-g-lisina que es idóneo para producir botellas y películas de baja permeabilidad a los gases y resistir el proceso de pasteurización sindeformación dimensional aparente.",
+                "usos": "Estos materiales se pueden utilizar en la industria del envase de bebidas carbonatadas, de cerveza, de vino, de té, de café, así como embalaje de conservas, alimentos y productos perecederos. También se puede aplicar a la producción de artículos que necesiten la propiedad de estabilidad dimensional a la temperatura en la industria electrónica, automotriz, médica y de electrodomésticos.",
+                "pdf": "patente_composicion-de-nanocompuestos-de-pet-pen-arcilla-g-lisina-.pdf"
+            },
+            {
+                "titulo": "Cromóforos Naturales para Filtros de Radiación Ultravioleta y Emisiones de Luz Azul y Verde",
+                "descripcion": "Obtención de cromóforos naturales extraídos de la planta palo azul mediante un proceso sencillo de purificación. Haciendo su extracción relativamente sencilla y resolviendo el problema de la toxicidad presente en los cromóforos comerciales.",
+                "usos": "Las películas producidas pueden ser utilizadas como protectores contra la radiación ultravioleta, películas emisoras de luz azul y verde en elementos de señalización, sondas fluorescentes para el marcado de moléculas y macromoléculas, componentes ópticos de materiales con propiedades opto-electrónicas y componentes en la fabricación de OLeds, en la industria cosmética puede proporcionar protección a los rayos UV y también por su nula toxicidad pueden ser utilizados en la industria médica y de alimentos.",
+                "pdf": "patente_cromoforos-naturales-para-filtros-de-radiacion-ultravioleta-y-emisores-de-luz-azul-y-verde.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Espumas Metálicas Mediante Infiltración",
+                "descripcion": "Dispositivo para la obtención de piezas de espumas metálicas altamente porosas, utilizable para materiales metálicos con temperatura de fusión menor a 800 °C, mediante el proceso de infiltración, permitiendo obtener espumas con diferentes porosidades, siendo el máximo posible cercano a 80%.",
+                "usos": "Las espumas pueden emplearse en aplicaciones que requieran la absorción y desorción de gases, intercambiadores de calor, energía y masa, absorbedores de energía y sonido, así como en la fabricación de biomateriales como partes sustitutas de hueso.",
+                "pdf": ""
+            },
+            {
+                "titulo": "Rejilla de Difracción de Polímero para Guías de Onda Ópticas y Procedimiento de Fabricación",
+                "descripcion": "Rejilla de difracción óptica que presenta un procedimiento de fabricación sencillo y elimina los problemas de inestabilidad en la respuesta y de alineación de las micro-estructuras.",
+                "usos": "El dispositivo puede utilizarse en medición de temperatura e índice de refracción, también puede integrarse para realizar mediciones de tensión y deformación.",
+                "pdf": "patente_rejilla-de-difraccion-de-polimero-para-guias-de-onda-opticas-y-procedimiento-de-fabricacion.pdf"
+            },
+            {
+                "titulo": "Sistema Optomecánico y Metodología para Evaluar el Comportamiento Macro y Micromecánico de Materiales Suaves Tejidos Biológicos",
+                "descripcion": "Sistema opto-mecánico para evaluar el comportamiento macro y micromecánico de tejidos biológicos suaves mediante dos técnicas ópticas no intrusivas: la correlación de imágenes digitales y el análisis espectral de la emisión láser aleatoria. Estas pruebas no alteran las propiedades mecánicas de las muestras ensayadas. ",
+                "usos": "El sistema está orientado para la caracterización mecánica de tejido biológico y polímeros suaves empleados como materiales sustitutos en bioimplantes; como son las válvulas cardiacas. ",
+                "pdf": "patente_sistema-optomecanico-y-metodologia-para-evaluar-el-comportamiento-macro-y-micromecanico-de-materiales-suaves-tejidos-biologicos.pdf"
+            },
+            {
+                "titulo": "Procedimiento de Fabricación Intrínseco de Espumas Metálicas de Al-Cu-Fe y Productos Obtenidos",
+                "descripcion": "Producción de espumas metálicas de aleaciones Al-Cu-Fe de amplios rangos de porosidad.",
+                "usos": "Las espumas se pueden utilizar en la fabricación de intercambiadores de calor y energía, absorbedores del sonido y filtros altamente resistentes al desgaste, y para aplicaciones estructurales. ",
+                "pdf": "patente_procedimiento-de-fabricacion-intrinseco-de-espumas-metalicas-de-al-cu-fe-y-productos-obtenidos.pdf"
+            },
+            {
+                "titulo": "Microencapsulación de Antioxidantes por el Proceso de Secado por Aspersión Empleando Mucílagos de Nopal y Alóe Vera",
+                "descripcion": "Microencapsulación de antioxidantes como ácido gálico, utilizando los mucilagos de nopal y aloe vera, sistema novedoso que es capaz de producir microcápsulas definidas y capaces de encapsular y liberar su contenido bajo condiciones ambientales controladas y deseadas.",
+                "usos": "Este método tiene su aplicación en la industria química como un vector de pared sustituyendo los vectores comerciales tales como las maltodextrinas. También es una investigación que da pie a estudiar la eficiencia del secado, y de encapsulación con este tipo de vectores mucilaginosos.",
+                "pdf": "patente_microencapsulacion-de-antioxidantes-por-el-proceso-de-secado-por-aspersion-empleando-mucilagos-de-nopal-y-aloe-vera.pdf"
+            },
+            {
+                "titulo": "Espumas Metálicas de Al-Si-Cu-Mg y su Procedimiento de Obtención",
+                "descripcion": "Proceso de fabricación de materiales metálicos porosos o espumas de aleaciones cuaternarias de aluminio con silicio, cobre y diferentes contenidos de magnesio. Las espumas obtenidas son altamente porosas. El proceso es sencillo, rápido y eficiente. ",
+                "usos": "Las espumas se pueden utilizar en la fabricación de intercambiadores de calor y energía, y absorbedores del sonido además de presentar aplicaciones estructurales. También tienen aplicaciones en la fabricación de intercambiadores de calor y energía, absorbedores del sonido y partes estructurales. ",
+                "pdf": "patente_espumas-metalicas-de-al-si-cu-mg-y-su-procedimiento-de-obtencion-.pdf"
+            }
+        ]
+    },
+
+    "transporte": {
+        "id": "transporte",
+        "nombre": "SECTOR DEL TRANSPORTE",
+        "patentes": 
+        [
+            {
+                "titulo": "Membranas Poliimídicas Asimétricas para la Separación de Hidrocarburos Líquidos y su Procedimiento de Obtención",
+                "descripcion": "Fabricación de membranas asimétricas en fase húmeda a partir de poliimidas aromáticas lineales.",
+                "usos": "Las membranas son aplicadas a la separación líquido-líquido de hidrocarburos o cualquier proceso que requiera del transporte másico a través de membranas. ",
+                "pdf": "patente_membranas-poliimidicas-asimetricas-para-la-separacion-de-hidrocarburos-liquidos-y-su-procedimiento-de-obtencion.pdf"
+            },
+            {
+                "titulo": "Nuevos Procedimientos de Fabricación de Materiales Compuestos de Resina Poliéster con Nanopartículas en Sustrato de Agua",
+                "descripcion": "Métodos de fabricación de materiales compuestos obtenidos al incorporar arcilla suspendida en agua a una matriz polimérica, caracterizado porque la matriz polimérica es una resina poliéster insaturada y la arcilla es montmorillonita sódica o bentonita sódica. ",
+                "usos": "Estos materiales se pueden utilizar en la industria automotriz para la fabricación de piezas de alta resistencia mecánica, en la industria naval para partes de barcos con alta resistencia a la corrosión, en la industria de la construcción para la manufactura de perfiles (tuberías, varillas, barandales, mangos de herramientas, conductos eléctricos, etc.) y para la industria biomédica como sustituto de agujas de acero inoxidable de diámetros pequeños utilizados en catéteres.",
+                "pdf": "patente_nuevos-procedimientos-de-fabricacion-de-materiales-compuestos-de-resina-poliester-con-nanoparticulas-en-sustrato-de-agua-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Piezas Metálicas de Alta Resistencia",
+                "descripcion": "Sistema que permite la obtención de piezas metálicas con elevada resistencia mecánica y a la corrosión, el cual cuenta con un equipo para la fundición de piezas metálicas y su solidificación rápida por la técnica de melt-spinning.",
+                "usos": "En el dispositivo obtiene diferentes aleaciones con aplicación en distintas industrias (como de transporte, aeroespacial, construcción y médica).",
+                "pdf": "patente_dispositivo-para-la-obtencion-de-piezas-metalicas-de-alta-resistencia.pdf"
+            },
+            {
+                "titulo": "Sistema de Sinterizado de Materiales Metálicos Densos y Porosos",
+                "descripcion": "Sistema que cuenta con diversos aditamentos, que permite la fabricación de materiales metálicos con diferentes grados de porosidad.",
+                "usos": "Las espumas se pueden emplear en aplicaciones tales como la absorción del sonido y la energía, absorción y desorción gaseosa, intercambiadores de calor y energía y en la fabricación de biomateriales como partes sustitutas de hueso. ",
+                "pdf": "patente_sistema-de-sinterizado-de-materiales-metalicos-densos-y-porosos-.pdf"
+            },
+            {
+                "titulo": "Proceso para la Obtención de Superimanes Nanocompositos con Dos Fases Magnéticas y Geométricas Complejas",
+                "descripcion": "Fabricación de superimanes permanentes, tanto isotrópicos como anisotrópicos, que facilita la obtención de piezas con perfiles de diferentes formas, tanto regulares como irregulares, utilizando solidificación rápida para obtener la aleación base, seguido de deformación severa por extrusión.",
+                "usos": "Los superimanes pueden emplearse para la fabricación de bocinas, fuentes de campo magnético uniforme y no uniforme, coples magnéticos, sistemas de levitación, actuadores, sensores, motores de tipo dc, de sincronía y de paso, magnetoterapia, sensores para almacenamiento de datos y de dispositivos electrónicos diversos (impresoras, cámaras y relojes), dispositivos biomédicos (válvulas cardíacas, catéteres magnéticos, dispositivos dentales) y sensores para la industria automotriz.",
+                "pdf": "patente_proceso-para-la-obtencion-de-superimanes-nanocompositos-con-dos-fases-magneticas-y-geometrias-complejas-.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Sinterización de Espumas y Materiales Metálicos Compactos Usando el Proceso de Metalurgia de Polvos",
+                "descripcion": "Dispositivo con atmósfera controlada para su utilización en la fabricación de espumas y materiales metálicos compactos, con porcentajes de porosidad variados, partiendo de polvos metálicos. ",
+                "usos": "Las espumas se pueden emplear en aplicaciones tales como la absorción del sonido y la energía, absorción y desorción gaseosa, intercambiadores de calor y energía y en la fabricación de biomateriales.",
+                "pdf": "patente_dispositivo-para-la-sinterizacion-de-espumas-y-materiales-metalicos-compactos-usando-el-proceso-de-metalurgia-de-polvos-.pdf"
+            },
+            {
+                "titulo": "Nanocompuestos de ABS Reciclado con Alta Resistencia Mecánica y a la Hidrólisis",
+                "descripcion": "Método para obtener un material de ingeniería de bajo precio, con propiedades mecánicas más altas que el polímero original. Este material se obtiene con el copolímero ABS reciclado y arcillas modificadas con una sustancia orgánica (éter).",
+                "usos": "El área de mayor uso del ABS es la de los electrodomésticos como los refrigeradores, hornos de microondas, computadoras, productos electrónicos como juguetes, se utiliza en la carcasa de teléfonos fijos y móviles (celulares), vehículos particulares (automóviles) y del transporte (aviones y barcos).",
+                "pdf": "patente_nanocompuestos-de-abs-reciclado-con-alta--resistencia-mecanica-y-a-la-hidrolisis-.pdf"
+            },
+            {
+                "titulo": "Proceso de Obtención de Materiales Nanocompuestos con Propiedades Retardantes a la Flama Asistido por Ultrasonido",
+                "descripcion": "Proceso de obtención de un material nanocompuesto polimérico con propiedades retardantes a la flama, empleando una mínima concentración de aditivos retardantes a la flama intumescentes y arcilla químicamente modificada.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la formulación de plásticos, textiles, en la protección pasiva de madera (entre otros elementos de construcción), en muebles de procedencia industrial y tienen una amplia aplicación en circuitos electrónicos y en corazas para televisores, computadoras, y otros equipos electrónicos (como los electrodomésticos).",
+                "pdf": "patente_proceso-de-obtencion-de-materiales-nanocompuestos-con-propiedades-retardantes-a-la-flama-asistido-por-ultrasonido.pdf"
+            },
+            {
+                "titulo": "Composición de Nanocompuestos de PET-PEN-arcilla-g-lisina",
+                "descripcion": "Material nanocompuesto de PET-PEN-arcilla-g-lisina que es idóneo para producir botellas y películas de baja permeabilidad a los gases y resistir el proceso de pasteurización sindeformación dimensional aparente.",
+                "usos": "Estos materiales se pueden utilizar en la industria del envase de bebidas carbonatadas, de cerveza, de vino, de té, de café, así como embalaje de conservas, alimentos y productos perecederos. También se puede aplicar a la producción de artículos que necesiten la propiedad de estabilidad dimensional a la temperatura en la industria electrónica, automotriz, médica y de electrodomésticos.",
+                "pdf": "patente_composicion-de-nanocompuestos-de-pet-pen-arcilla-g-lisina-.pdf"
+            },
+            {
+                "titulo": "Composición de Materiales Nanocompuestos Retardantes a la Flama a Base de Polietileno de Alta Densidad",
+                "descripcion": "Material nanocompuesto polimérico con propiedades retardantes a la flama que se obtiene con la incorporación de hidróxido de aluminio, borato de zinc y arcilla bentonita químicamente modificada con la sal del aminoácido L-lisina.",
+                "usos": "El material nanocompuesto puede emplearse en la producción de piezas por inyección, en la producción de tubería “conduit” en aplicaciones donde las propiedades retardantes a la flama sean requisito indispensable (como la industria automotriz, eléctrica, electrónica, etc.)",
+                "pdf": "patente_composicion-de-materiales-nanocompuestos-retardantes-a-la-flama-a-base-de-polietileno-de-alta-densidad.pdf"
+            },
+            {
+                "titulo": "Dispositivo para la Obtención de Espumas Metálicas Mediante Infiltración",
+                "descripcion": "Dispositivo para la obtención de piezas de espumas metálicas altamente porosas, utilizable para materiales metálicos con temperatura de fusión menor a 800 °C, mediante el proceso de infiltración, permitiendo obtener espumas con diferentes porosidades, siendo el máximo posible cercano a 80%.",
+                "usos": "Las espumas pueden emplearse en aplicaciones que requieran la absorción y desorción de gases, intercambiadores de calor, energía y masa, absorbedores de energía y sonido, así como en la fabricación de biomateriales como partes sustitutas de hueso.",
+                "pdf": ""
+            },
+            {
+                "titulo": "Rejilla de Difracción de Polímero para Guías de Onda Ópticas y Procedimiento de Fabricación",
+                "descripcion": "Rejilla de difracción óptica que presenta un procedimiento de fabricación sencillo y elimina los problemas de inestabilidad en la respuesta y de alineación de las micro-estructuras.",
+                "usos": "El dispositivo puede utilizarse en medición de temperatura e índice de refracción, también puede integrarse para realizar mediciones de tensión y deformación.",
+                "pdf": "patente_rejilla-de-difraccion-de-polimero-para-guias-de-onda-opticas-y-procedimiento-de-fabricacion.pdf"
+            },
+            {
+                "titulo": "Procedimiento de Fabricación Intrínseco de Espumas Metálicas de Al-Cu-Fe y Productos Obtenidos",
+                "descripcion": "Producción de espumas metálicas de aleaciones Al-Cu-Fe de amplios rangos de porosidad.",
+                "usos": "Las espumas se pueden utilizar en la fabricación de intercambiadores de calor y energía, absorbedores del sonido y filtros altamente resistentes al desgaste, y para aplicaciones estructurales. ",
+                "pdf": "patente_procedimiento-de-fabricacion-intrinseco-de-espumas-metalicas-de-al-cu-fe-y-productos-obtenidos.pdf"
+            },
+            {
+                "titulo": "Espumas Metálicas de Al-Si-Cu-Mg y su Procedimiento de Obtención",
+                "descripcion": "Proceso de fabricación de materiales metálicos porosos o espumas de aleaciones cuaternarias de aluminio con silicio, cobre y diferentes contenidos de magnesio. Las espumas obtenidas son altamente porosas. El proceso es sencillo, rápido y eficiente. ",
+                "usos": "Las espumas se pueden utilizar en la fabricación de intercambiadores de calor y energía, y absorbedores del sonido además de presentar aplicaciones estructurales. También tienen aplicaciones en la fabricación de intercambiadores de calor y energía, absorbedores del sonido y partes estructurales. ",
+                "pdf": "patente_espumas-metalicas-de-al-si-cu-mg-y-su-procedimiento-de-obtencion-.pdf"
+            },
+            {
+                "titulo": "Grafeno y Nanografito por Ultrasonido-HASE y su uso Como Reforzante en Materiales Compuestos de Matriz Polimérica",
+                "descripcion": "En esta invención se utiliza ultrasonido para separar mecánicamente las capas de grafito en un medio acuoso y se mantienen separadas, aisladas, a través de la utilización del polímero asociativo HASE. Estas partículas les confieren a los materiales producidos con éstas mejores propiedades mecánicas, comparadas con el polímero precursor, y le otorgan la propiedad de descarga electrostática.",
+                "usos": "Estas partículas pueden ser utilizadas como reforzantes en materiales nanocompuestos termoplásticos. También se pueden utilizar como pigmentos en la fabricación de pinturas y recubrimientos, como agentes de proceso y procesamiento de polímeros para la producción de materiales conductores, envases de seguridad y materiales que ofrecen escudo contra la radiación electromagnética y en la industria de lubricantes.",
+                "pdf": "patente_grafeno-y-nanografito-por-ultrasonido-hase-y-su-uso-como-reforzante-en-materiales-compuestos-de-matriz-polimerica-aplicaciones,-beneficios,-uso-de-la-invencion.pdf"
+            }
+        ]
+    },
+
+    "energetico": {
+        "id": "energetico",
+        "nombre": "SECTOR ENERGÉTICO",
+        "patentes": 
+        [
+            {
+                "titulo": "Dispositivo para Comparar la Intensidad de un (n) haz (haces) de Luz de Inspección Respecto a Otro de Referencia",
+                "descripcion": "Dispositivo que compara longitud de onda en longitud de onda, un haz por ejemplo parcialmente absorbido (reflejado), respecto a otro por ejemplo de referencia.",
+                "usos": "Este dispositivo en su modalidad de analizador de absorción, puede realizar análisis de muestras sólidas, líquidas, gaseosas que no emitan radiación y si lo hacen esta radiación sea continua en el tiempo. Incluso su estudio se puede extender al estudio de plasmas. ",
+                "pdf": "patente_dispositivo-para-comparar-la-intesidad-de-un-(n)-haz-(haces)-de-luz-de-inspeccion-respecto-a-otro--de-referencia.pdf"
+            },
+            {
+                "titulo": "Preparación de Biocombustibles a Partir del Látex del Guayule (Parthenium Argentatum) y de Hules Naturales de las Especies Castilla Elástica y Hevea Brasiliensis",
+                "descripcion": "Método para la elaboración de biocombustibles empleando como materia prima el látex del guayule u otros tipos de látex de hules naturales como el hule de Tabasco y los hules de Oaxaca y Veracruz, así como de los desechos industriales a base de hules naturales. El procesamiento se realiza vía metátesis, en presencia de catalizadores alquilidenos o vinilidenos de metales de transición. ",
+                "usos": "Los productos obtenidos pueden ser empleados directamente como biocombustibles, excepto cuando su preparación implica el uso de aceites vegetales.",
+                "pdf": "patente_preparacion-de-biocombustibles-a-partir-del-latex-del-guayule-(parthenium-argentatum)-y-de-hules-naturales-de-las-especies-castilla-elastica-y-hevea-brasiliensis.pdf"
+            },
+            {
+                "titulo": "Compuestos de Porfirina-Pireno con Alta Transferencia de Energía. ",
+                "descripcion": "Diseño estructural y síntesis de macromoléculas que contienen grupos capaces de absorber luz en el ultravioleta (pireno) y transferirla a una moléculas aceptora (porfirina), es decir, presentan transferencia de energía.",
+                "usos": "La invención se relaciona con los materiales utilizados en la industria de los dispositivos opto-electrónicos (diodos electroluminiscentes orgánicos, sensores químicos de metales, en la detección simultánea de múltiples analitos en una mezcla y transistores de efecto de campo) y los dispositivos para la conversión de energía luminosa a energía eléctrica (celdas solares sensibilizadas con pigmentos, celdas de Graetzel, y celdas solares orgánicas de heterojuntas en masa) y también con la detección no radioactiva de diferentes biomoléculas",
+                "pdf": "patente_compuestos-de-porfirina-pireno-con-alta-transferencia-de-energia-.pdf"
+            },
+            {
+                "titulo": "Porfirinas Dendronizadas con Alta Transferencia de Energía",
+                "descripcion": "Diseño estructural y síntesis de nuevas macromoléculas dendríticas que contienen grupos capaces de absorber luz en el ultravioleta (pireno) y transferirla a una molécula aceptora (porfirina) que actúa como núcleo. Los compuestos presentan una alta capacidad de transferencia de energía (casi del 100%).",
+                "usos": "La invención se relaciona con los materiales utilizados en la industria de los dispositivos optoelectrónicos (diodos electroluminiscentes orgánicos, sensores químicos de metales, en la detección simultánea de diversos analitos en una mezcla y transistores de efecto de campo) y en dispositivos fotovoltaicos para la conversión de energía luminosa a energía eléctrica, como son las celdas solares sensibilizadas con pigmentos (celdas de Graetzel) y celdas solares orgánicas de heterojuntas en masa.",
+                "pdf": "patente_porfirinas-dendronizadas-con-alta-transferencia-de-energia-.pdf"
+            },
+            {
+                "titulo": "Proceso de Obtención de Biocombustibles a Partir de Hule Natural y Aceite de Microalgas",
+                "descripcion": "Proceso para la obtención de biocombustibles a partir del uso de fuentes de hule natural (látex) de las especies Castilla elastica, Hevea brasiliensis y Parthenium argentatum (Guayule), y el uso de aceites de microalgas. Debido a su favorable composición y su bajo uso comercial, lográndose un mejor aprovechamiento de las fuentes renovables.",
+                "usos": "La invención se relaciona con los campos técnicos de Química y Biotecnología, específicamente en el área de polímeros, biocombustibles y energías renovables. Esta tecnología puede ser empleada en la industria química (fabricación de productos químicos básicos orgánicos, como ácidos, alcoholes de uso industrial, colorantes naturales no comestibles, productos destilados de la madera como gomas y resinas, etc.)",
+                "pdf": "patente_proceso-de-obtencion-de-biocombustibles-a-partir-de-hule-natural-y-aceite-de-microalgas.pdf"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1144 @@
+{
+    "MateriaCondensadaCriogenia": {
+        "id": "MateriaCondensadaCriogenia",
+        "name": "MATERIA CONDENSADA Y CRIOGENIA",
+        "infographic": "/images/PostersDepartamentos/Poster_Materia Condensada y Criogenia.png",
+        "cards": [
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/JuanCarlosAlonsoHuitron.png",
+            "name": "Dr. Juan Carlos Alonso Huitrón",
+            "works": [
+              "Estudio de propiedades optoelectrónicas de materiales y sus aplicaciones en películas delgadas semiconductoras y aislantes, depositadas por rocío pirolítico ultrasónico.",
+              "Propiedades optoelectrónicas y aplicaciones de nano cúmulos de silicio embebidos en películas delgadas de compuestos de silicio aislantes y semiconductores depositada por depósito de vapor químico asistido por plasma remoto."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=26321006100"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.com/citations?user=XgMhwAMAAAAJ&hl=es"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-juan-carlos-alonso-huitron/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/MarcelaReginaBeltranSanchez.png",
+            "name": "Dra. Marcela Regina Beltrán Sánchez",
+            "works": [
+              "Pre-catálisis por medio de cúmulos bimetálicos soportados en superficies semiconductoras.",
+              "Estudio de propiedades magnéticas en cúmulos nanométricos de metales de transición.",
+              "Estudio de propiedades electrónicas y estructurales en nano cúmulos metálicos.",
+              "Estudio de las propiedades electrónicas del silicio poroso.",
+              "Desarrollo de técnicas de búsqueda global en la superficie de potencial de energía de cúmulos atómicos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7005093157"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-marcela-regina-beltran-sanchez/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/ManuelDeLlanoDeLaGarza.png",
+            "name": "Dr. Manuel de Llano de la Garza",
+            "works": [
+              "Superconductores de altas temperaturas."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=55993670800"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-manuel-de-llano-de-la-garza/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/RaulEscamillaGuerrero.png",
+            "name": "Dr. Raúl Escamilla Guerrero",
+            "works": [
+              "Estudio de la estructura cristalina, propiedades electrónicas y magnéticas de compuestos tipo perovskita-pirocloro.",
+              "Estudio de las propiedades electrónicas y magnéticas de XB4 tetraboruros con X = Mo, W y Fe."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=55989794800"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-raul-escamilla-guerrero"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/RobertoEscuderoDerat.png",
+            "name": "Dr. Roberto Escudero Derat",
+            "works": [
+              "Sistemas a base de fullerenos y formas grafíticas nuevas, sistemas tipo fermión pesado y procesos Kondo; y sistemas cuasicristalinos.",
+              "Cerámicas superconductoras a base de cobre y oxígeno.",
+              "Estudio de aislantes topológicos.",
+              "Superconductividad en compuestos con bismuto y paladio e hidrógeno.",
+              "Estudios electrónicos en compuestos de coordinación.",
+              "Tunelamiento electrónico y espectroscopia de contactos puntuales en cristales que presentan ondas de densidades de espines",
+              "Alta presión en materiales magnéticos y superconductores.",
+              "Propiedades electrónicas en perovskitas con características de vidrios de espín."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7006911363"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-roberto-escudero-derat/"
+              }
+            ],
+            "videoId": "HCZeTAmBspU?si=iuciAoWWCvTV5--P"
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/IlyaKaplan.png",
+            "name": "Dr. Ilya Kaplan",
+            "works": [
+              "Estructura electrónica y la naturaleza de la estabilidad de cúmulos metálicos.",
+              "Electrónica y la estadística de portadores de carga en los superconductores.",
+              "Métodos de teoría de grupos en mecánica y química cuántica para sistemas de muchas partículas",
+              "Fundamentos del principio de Pauli."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=55989762000"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-ilya-kaplan/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/RubenMendozaCruz.png",
+            "name": "Dr. Rubén Mendoza Cruz",
+            "works": [
+              "Nanociencia, nanomateriales y ciencia de materiales.",
+              "Diseño de nanopartículas con propiedades catalíticas, ópticas y optoelectrónicas.",
+              "Nanoaleaciones: la correlación entre la estructura atómica y sus propiedades.",
+              "Propiedades de las nanoaleaciones, cristalografía, ordenamiento químico, segregación atómica y estabilidad.",
+              "Microscopía electrónica avanzada para el estudio a escala atómica de nanomateriales."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=56989903000"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/rmendoza/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/DoroteoMendozaLopez.png",
+            "name": "Dr. Doroteo Mendoza López",
+            "works": [
+              "Propiedades físicas de grafeno y sistemas relacionados.",
+              "Morfología, propiedades ópticas y de transporte electrónico de nanoestructuras fotónicas."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=56013619300"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-doroteo-mendoza-lopez/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/ArielAlbertoValladaresClemente.png",
+            "name": "Dr. Ariel Alberto Valladares Clemente",
+            "works": [
+              "Estructura y propiedades de materiales complejos (amorfos, porosos, de dimensionalidad restringida, líquida, materiales defectuosos, etc.).",
+              "Propiedades electrónicas, ópticas y vibracionales de materiales complejos (amorfos, porosos y líquidos) y de materiales de dimensionalidad restringida."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7005728780"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-ariel-alberto-valladares-clemente/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/FranciscoMoralesLeal.png",
+            "name": "Dr. Francisco Morales Leal",
+            "works": [
+              "Propiedades electrónicas de materiales a temperaturas bajas (Superconductividad, magnetismo, ondas de densidad de carga).",
+              "Propiedades termoeléctricas de materiales cerámicos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7101807043"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-roberto-escudero-derat/"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.com/citations?user=rBSUDdsAAAAJ&hl=en"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MateriaCondensadaCriogenia/ChuminWangChen.png",
+            "name": "Dr. Chumin Wang Chen",
+            "works": [
+              "Excitaciones elementales en los cuasicristales.",
+              "Superconductividad en el Modelo de Hubbard.",
+              "Propiedades electrónicas y ópticas del silicio poroso."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7501629913"
+              }
+            ]
+          }
+        ]
+    },
+    "MaterialesBajaDimensionalidad": {
+        "id": "MaterialesBajaDimensionalidad",
+        "name": "MATERIALES DE BAJA DIMENSIONALIDAD",
+        "infographic": "/images/PostersDepartamentos/Poster_Materiales de Baja Dimensionalidad.png",
+        "cards": [
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/MonserratBizarroSordo.jpg",
+            "name": "Dra. Monserrat Bizarro Sordo",
+            "works": [
+              "Depósito de óxidos metálicos en películas delgadas por rocío pirolítico.",
+              "Propiedades fotocatalíticas de óxidos metálicos en película delgada.",
+              "Degradación de contaminantes orgánicos por fotocatálisis heterogénea."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=9333008200"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-monserrat-bizarro-sordo/"
+              }
+            ],
+            "videoId": "ULAyqPeaGbY?si=vn8L4IJ3QcmYcx6I"
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/ElizabethChaviraMartínez.jpg",
+            "name": "Dra. Elizabeth Chavira Martínez",
+            "works": [
+              "Fabricación de poli cristales, nanomateriales y nanoestructuras por reacción en estado sólido, seco, mojado y química verde.",
+              "Estudios de superconductividad en materiales cristalinos.",
+              "Estudios opto-electrónicos en nuevos materiales óxidos metálicos.",
+              "Síntesis de materiales híbridos y copolímeros como sensores de humedad, con propiedades magnéticas y fotoceldas con estructura perovskita",
+              "Monitoreo de toxicidad de metales y óxidos metálicos en vegetales, crustáceos y microalgas.",
+              "Estudio de metales en el sargazo. Fabricación del polimorfo negro de fósforo."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=6701587271"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-elizabeth-chavira-martinez/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/AteetDutt.jpg",
+            "name": "Dr. Ateet Dutt",
+            "works": [
+              "Desarrollo de estructuras de celdas solares de tercera generación.",
+              "Estudios de luminiscencia en nanoalambres de óxido de zinc.",
+              "Estudio de propiedades optoelectrónicas de materiales y estructuras fotovoltaicas basadas en compuestos de óxido de molibdeno.",
+              "Desarrollo y caracterización de nanoestructuras semiconductoras unidimensionales para sus aplicaciones en energía y biomedicina.",
+              "Desarrollo y caracterización de silicio poroso para aplicaciones en celdas solares y biosensores."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=57191586452"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-ateet-dutt/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/AgileoHernandezGordillo.jpg",
+            "name": "Dr. Agileo Hernández Gordillo",
+            "works": [
+              "Producción de hidrógeno mediante fotocatálisis.",
+              "Síntesis y caracterización de nanomateriales, principalmente óxidos metálicos, por método químico.",
+              "Estudios sobre propiedades catalíticas de nanomateriales para el proceso de hidro desulfuración.",
+              "Funcionalidades de bismuto."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=54893181400"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-agileo-hernandez-gordillo/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/AnaMaMartinezVazquez.jpg",
+            "name": "Dra. Ana Ma. Martínez Vázquez",
+            "works": [
+              "Estudio de la reactividad de a. metálicos.",
+              "Estudio de materiales antioxidantes.",
+              "Química Computacional."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=7404025645"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-ana-maria-martinez-vazquez/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/StephenMuhlSaunders.jpg",
+            "name": "Dr. Stephen Muhl Saunders",
+            "works": [
+              "Caracterización tribológica de superficies.",
+              "Preparación de películas delgadas y nanocompósitos por métodos asistidos por plasmas.",
+              "Estudios de plasmas de alta densidad y pulsado.",
+              "Evaporación por arco usando un ánodo caliente.",
+              "Estudios sobre películas delgadas basadas en carbón."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=7003807920"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-stephen-muhl-saunders/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/HeribertoPfeifferPerea.jpg",
+            "name": "Dr. Heriberto Pfeiffer Perea",
+            "works": [
+              "Captura y conversión química de gases contaminantes (CO2, CO, NOx, CH4, etc.).",
+              "Catálisis heterogénea oxidación de CO, reformado de gases, desplazamiento químico de agua, oxidación parcial de metano, etc.).",
+              "Permeación de gases contaminantes en membranas densas cerámicas.",
+              "Síntesis de materiales cerámicos.",
+              "Materiales catódicos para su empleo en baterías de litio-sodio.",
+              "Producción de hidrógeno a partir de biomasa.",
+              "Estudios en óxidos y perovskita de calidad industrial para pilas de combustible sin capa electrolítica de alto rendimiento."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=7103003652"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-heriberto-pfeiffer-perea/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/SandraElizabethRodilPosada.jpg",
+            "name": "Dra. Sandra Elizabeth Rodil Posada",
+            "works": [
+              "Depósito y caracterización de películas delgadas.",
+              "Estudio de las propiedades ópticas, vibracionales y estructurales en películas delgadas.",
+              "Producción y evaluación de recubrimientos biocompatibles.",
+              "Producción y caracterización de recubrimientos delgados basados en nitruros y óxidos metálicos usando sistemas de espurreo magnetrón desbalanceado.",
+              "Estudios de corrosión electroquímica y espectroscopía de impedancias en recubrimientos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=55995935000"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-sandra-elizabeth-rodil-posada/"
+              }
+            ],
+            "videoId": "qDxOZU4Z-mk?si=x1E9OjuSayLgla-X"
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/GuillermoSantanaRodriguez.jpg",
+            "name": "Dr. Guillermo Santana Rodríguez",
+            "works": [
+              "Películas delgadas.",
+              "Celdas solares.",
+              "Nanomateriales."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=8218252300"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-guillermo-santana-rodriguez/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesBajaDimensionalidad/LuisEnriqueSansoresCuevas.jpg",
+            "name": "Dr. Luis Enrique Sansores Cuevas",
+            "works": [
+              "Isomería fluxional y trans-anularidad en materiales organometálicos.",
+              "Estructura electrónica de materiales bidimensionales, carotenoides y fulerenos endoedrales.",
+              "Estudio teórico para el atrapamiento de gases como CO, CO2, NO, SO."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=7004299720"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-luis-enrique-sansores-cuevas/"
+              }
+            ]
+          }
+        ]
+    },
+    "MaterialesMetalicosCeramicos": {
+        "id": "MaterialesMetalicosCeramicos",
+        "name": "MATERIALES METÁLICOS Y CERÁMICOS",
+        "infographic": "/images/PostersDepartamentos/Poster_Materiales Metalicos y Ceramicos.png",
+        "cards": [
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/OctavioAlvarezFragoso.png",
+            "name": "Dr. Octavio Álvarez Fragoso",
+            "works": [
+              "Estudios de las propiedades ópticas en materiales nanoestructurados.",
+              "Estudios en triboluminiscencia y termoluminiscencia de materiales cerámicos fotoluminiscentes.",
+              "Estudios de propiedades de materiales mesoporos.",
+              "Física del estado sólido."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www2-scopus-com.pbidi.unam.mx:2443/authid/detail.uri?authorId=56013858500"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-octavio-alvarez-fragoso/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/JIsraelBetancourtReyes.jpg",
+            "name": "Dr. J. Israel Betancourt Reyes",
+            "works": [
+              "Síntesis, caracterización y modelado de aleaciones magnéticas duras.",
+              "Preparación y caracterización magnética de aleaciones amorfas.",
+              "Estudio de materiales metal-cerámicos con efecto magnetocalórico en condiciones adiabáticas.",
+              "Propiedades magnéticas de materiales nanoestructurados y modelos para su conservación en bulto."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6701685885"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-jose-israel-betancourt-reyes/"
+              }
+            ],
+            "videoId": "qgM0WAdFwuM?si=28vu2DxcjFOqgdyN"
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/IgnacioAFigueroaBargas.jpg",
+            "name": "Dr. Ignacio A. Figueroa Bargas",
+            "works": [
+              "Estudios de aleaciones metálicas en estados fuera del equilibrio.",
+              "Estudios de propiedades de vidrios metálicos convencionales y en bulto.",
+              "Espumas metálicas.",
+              "Aleaciones nano cristalinas.",
+              "Estudio de procesos de conformado metálico tales como la solidificación rápida."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=57202128080"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-ignacio-alejandro-figueroa-vargas/"
+              }
+            ],
+            "videoId": "5sschnVtmvo?si=BYOtksjuNQbsdPAA"
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/JoseAChavezCarvayar.jpg",
+            "name": "Dr. José Á. Chávez Carvayar",
+            "works": [
+              "Estudios en materiales electro cerámicos nanoestructurados para desarrollo de nuevas fuentes de energía.",
+              "Desarrollo de celdas de combustible a base de óxidos sólidos.",
+              "Estudio de fenómenos de transporte en materiales electro cerámicos y sus aplicaciones en dispositivos electrónicos.",
+              "Física de semiconductores y aplicaciones a dispositivos fotovoltaicos.",
+              "Experimentos de electro oxidación y electrocatálisis.",
+              "Estudios en películas delgadas."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6602668354"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-jose-alvaro-chavez-carvayar/"
+              }
+            ],
+            "videoId": "tuOwt8JZsKg?si=7h7VXbgOvargajN_"
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/JoseGGonzalezReyes.png",
+            "name": "Dr. José G. González Reyes",
+            "works": [
+              "Relación microestructura y propiedades mecánicas en aleaciones de alta entropía.",
+              "Procesos de deformación plástica severa en aleaciones ligeras.",
+              "Estudio de interfaces metal-metal y metal-cerámico."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7202570769"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-jose-gonzalo-gonzalez-reyes/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/IlichArgelIbarraAlvarado.jpg",
+            "name": "Dr. Ilich Argel Ibarra Alvarado",
+            "works": [
+              "Síntesis y caracterización de materiales metal-orgánicos en la captura de SO2 y H2S.",
+              "Selectividad de gases en estructuras micro porosas.",
+              "Síntesis y caracterización de materiales organometálicos complejos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=55000477500"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/JulioAJuarezIslas.jpg",
+            "name": "Dr. Julio A. Juárez Islas",
+            "works": [
+              "Modelado matemático de procesos de solidificación en materiales metal-cerámicos.",
+              "Desarrollo de aceros IF, API y DUALPHASE.",
+              "Desarrollo de aleaciones biocompatibles a base de cobalto.",
+              "Estudios en la relación de microestructuras metálicas con propiedades mecánicas."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=56013833900"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-julio-alberto-juarez-islas/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/EnriqueJaimeLimaMunoz.jpg",
+            "name": "Dr. Enrique Jaime Lima Muñoz",
+            "works": [
+              "Desarrollo de estructuras para el nano confinamiento de productos farmacéuticos.",
+              "Captura de óxidos de azufre usando estructuras orgánicas porosas.",
+              "Estudio de las propiedades de quitosano para un modelo de piel in vitro."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7103348371"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-lima/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/MaCristinaPinaBarba.jpg",
+            "name": "Dra. Ma. Cristina Piña Barba",
+            "works": [
+              "Obtención y caracterización fisicoquímica y médico-biológica de biomateriales para la construcción de andamios celulares, para uso en medicina regenerativa.",
+              "Descelularización de órganos y tejidos para su uso en ingeniería de tejidos.",
+              "Obtención y caracterización de membranas separadoras de tejidos biológicos para uso médico.",
+              "Obtención y caracterización de hidroxiapatitas con diferentes propiedades, materias primas para medicina regenerativa e implantes por la técnica de manufactura aditiva (Impresión 3D)."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=55660775200"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-maria-cristina-pina-barba/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/ArmandoReyesMontero.png",
+            "name": "Dr. Armando Reyes Montero",
+            "works": [
+              "Materiales electro cerámicos y termoeléctricos para captación de energía.",
+              "Síntesis, caracterización (estructural / microestructural) y procesamiento de materiales cerámicos.",
+              "Estudio de propiedades eléctricas mediante espectroscopía de impedancia compleja.",
+              "Análisis de la estructura cristalina bajo la aplicación de campo eléctrico."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=55865100900"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-armando-reyes-montero/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/MaterialesMetalicosCeramicos/GabrielATorresVillasenor.jpg",
+            "name": "Dr. Gabriel J. Torres Villaseñor",
+            "works": [
+              "Estudios de aleaciones no-ferrosas.",
+              "Estudios de procesos superplásticos.",
+              "Propiedades de aleaciones obtenidas por aleado Mecánico."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6701353914"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-gabriel-jorge-torres-villasenor/"
+              }
+            ]
+          }
+        ]
+    },
+    "Polimeros": {
+        "id": "Polimeros",
+        "name": "POLÍMEROS",
+        "infographic": "/images/PostersDepartamentos/Poster_Polimeros.png",
+        "cards": [
+          {
+            "image": "/images/investigadores/Polimeros/LarissaAlexandrova.jpg",
+            "name": "Dra. Larissa Alexandrova",
+            "works": [
+              "Catálisis homogénea para polimerización radicalica viviente/controlada",
+              "Síntesis y caracterización de poliheteroarilenos.",
+              "Síntesis y propiedades de moléculas heterociclos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7006684650"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-larissa-alexandrova/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/LilianIraisOlveraGarza.jpg",
+            "name": "Dra. Lilian Irais Olvera Garza",
+            "works": [
+              "Síntesis y caracterización de nuevos polímeros mediante policondensación en medio super-ácido.",
+              "Desarrollo de nuevos materiales poliméricos de última generación para aplicaciones en sistemas de conversión y almacenamiento de energía, catálisis y biomedicina.",
+              "Síntesis, caracterización y aplicación de materiales híbridos base polímeros/zeolitas funcionales para aplicaciones en membrana para la permeabilidad y selectividad de gases, polímeros conductores y en aplicaciones optoelectrónicas.",
+              "Síntesis y caracterización de membranas de intercambio iónico en diferentes sistemas electroquímicos de energía: celdas de combustible, pilas de flujo redox, electrodiálisis"
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=57191198209"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-lilian-irais-olvera-garza/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/JorgeBalmacedaEra.jpg",
+            "name": "Dr. Jorge Balmaseda Era",
+            "works": [
+              "Síntesis y caracterización de polímeros de coordinación porosos.",
+              "Obtención de CMS (Carbon Molecular Sieves) a partir de pirolisis de polímeros.",
+              "Equilibrio y transporte de fluidos en medios porosos.",
+              "Separación adsortiva de olefinas y parafinas."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6603286727"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.com.mx/citations?hl=en&user=4PGKwWMAAAAJ"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-jorge-balmaseda-era/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/LuisAntonioDavalosOrozco.jpg",
+            "name": "Dr. Luis Antonio Dávalos Orozco",
+            "works": [
+              "Estabilidad hidrodinámica.",
+              "Mecánica de fluidos Newtonianos y no Newtonianos.",
+              "Convección natural, convección termo capilar de fluidos newtonianos y viscoelásticos.",
+              "Flujo descendente por paredes isotérmico y termo capilar en paredes planas y deformadas.",
+              "Estabilidad de fluidos estratificados."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6701720321"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.com.mx/citations?user=Ro6h22wAAAAJ&hl=en"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-luis-antonio-davalos-orozco/"
+              },
+              {
+                  "pageName": "ORCID",
+                  "url": "https://orcid.org/0000-0001-9363-7040"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/LiuoumidaFomina.jpg",
+            "name": "Dra. Lioudmila Fomina",
+            "works": [
+              "Síntesis orgánica aplicada.",
+              "Síntesis de compuestos heterocíclicos y polímeros conjugados y dendrímeros.",
+              "Química teórica."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7004750894"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-lioudmila-fomina/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/SergueiFomine.jpg",
+            "name": "Dr. Serguei Fomine",
+            "works": [
+              "Modelado molecular y química teórica.",
+              "Mecanismos de polimerización.",
+              "Catálisis homogénea por medio de metales de transición.",
+              "Interacciones intermoleculares, moléculas conjugadas y grafeno."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7006835825"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-serguei-fomine/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/PatriciaGuadamarraAcosta.jpg",
+            "name": "Dra. Patricia Guadarrama Acosta",
+            "works": [
+              "Dendrímeros y polímeros hiper-ramificados como acarreadores de fármacos.",
+              "Dendrímeros como materiales semiconductores y fotovoltaicos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6603549066"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-patricia-guadarrama-acosta/"
+              }
+            ],
+            "videoId": "Nnk2p-AVg2I?si=5nIPkOaetz3T8BvN"
+          },
+          {
+            "image": "/images/investigadores/Polimeros/CarlosIMendozaRuiz.jpg",
+            "name": "Dr. Carlos I. Mendoza Ruiz",
+            "works": [
+              "Física de la materia condensada blanda: Polímeros, coloides y cristales líquidos.",
+              "Auto ensamblado coloidal.",
+              "Reología de polímeros.",
+              "Física Virológica."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=16468881000"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-carlos-ignacio-mendoza-ruiz/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/AngelicaERamosPena.jpg",
+            "name": "Dra. Angelica E. Ramos Peña",
+            "works": [
+              "Estudios en materiales complejos moleculares esféricos.",
+              "Desarrollo de materiales para el tratamiento de enfermedades neurodegenerativas.",
+              "Estudio de propiedades electrónicas de polímeros biológicos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=26321006100"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.es/citations?user=bxy0y-oAAAAJ&hl=es"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/YareliRojasAguirre.jpg",
+            "name": "Dra. Yareli Rojas Aguirre",
+            "works": [
+              "Estudio y desarrollo de materiales supramoleculares para su aplicación en la nanomedicina.",
+              "Síntesis de estructuras supramoleculares dendríticas para aplicaciones biomédicas.",
+              "Estudio de la nanotecnología y la nanomedicina a través de Vigilancia Tecnológica.",
+              "Nanopartículas magnéticas de óxido de hierro y su aplicación en nanomedicina."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=36696912900"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.com.mx/citations?user=Orasi9AAAAAJ&hl=en"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dra-yareli-rojas-aguirre/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/RobertoSalcedoPintos.jpg",
+            "name": "Dr. Roberto Salcedo Pintos",
+            "works": [
+              "Diseño de nuevas moléculas rotaxanos y catenanos, así como el estudio de su actividad como catalizadores.",
+              "Estudios teóricos sobre la actividad de fulereno como agente capturador y liberador de fármacos.",
+              "Descripción de interacciones de compuestos supramoleculares."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=56013836100"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-roberto-rene-salcedo-pintos/"
+              }
+            ],
+            "videoId": "0_rUq1mviKk?si=YNQwh7Kj13XvJ5Ej"
+          },
+          {
+            "image": "/images/investigadores/Polimeros/EliSanchezGonzalez.jpg",
+            "name": "Dr. Elí Sánchez González",
+            "works": [
+              "Estudios de cajas metal-orgánicas (MOCs).",
+              "Síntesis, caracterización y aplicaciones.",
+              "Enrejados Metal-Orgánicos (MOFs) para adsorción y separación de gases."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=24172136000"
+              },
+              {
+                "pageName": "Google Scholar",
+                "url": "https://scholar.google.com/citations?user=mWIptYEAAAAJ&hl=es&oi=ao"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-eli-sanchez-gonzalez/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/Polimeros/DiegoSolisIbarra.jpg",
+            "name": "Dr. Diego Solís Ibarra",
+            "works": [
+              "Celdas solares de Perovskita.",
+              "Materiales Híbridos y su aplicación en celdas fotovoltaicas: LEDs y celdas solares.",
+              "Perovskitas libres de plomo para su aplicación en celdas solares.",
+              "Nano partículas fluorescentes.",
+              "Fotocatálisis."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=35099497400"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-diego-solis-ibarra/"
+              }
+            ],
+            "videoId": "--EynmuggQk?si=auRnlsTWAupyJIKd"
+          },
+          {
+            "image": "/images/investigadores/Polimeros/RicardoVeraGraziano.jpg",
+            "name": "Dr. Ricardo Vera Graziano",
+            "works": [
+              "Síntesis y caracterización de polímeros para usos biomédicos.",
+              "Estudio de materiales poliméricos y compuestos para restauración de tejidos vía ingeniería tisular guiada y liberación controlada de agentes terapéuticos.",
+              "Desarrollo y caracterización de andamios celulares poliméricos a base de nano fibras y nanopartículas para la optimización de sus propiedades físicas, químicas y biológicas.",
+              "Desarrollo de sustratos y membranas porosas por manufactura aditiva."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6603338505"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-ricardo-vera-graziano/"
+              }
+            ],
+            "videoId": "hljZR9WE1oA?si=cnjql1kZ7uQGQpf7"
+          },
+          {
+            "image": "/images/investigadores/Polimeros/MikhailZolotukhin.png",
+            "name": "Dr. Mikhail Zolotukhin",
+            "works": [
+              "Síntesis de polímeros avanzados de alto peso molecular mediante super electrófilos altamente reactivos.",
+              "Síntesis, caracterización y aplicación de polímeros funcionales y multifuncionales, estables química y térmicamente.",
+              "Polímeros con arquitectura de forma persistente diseñada para tecnologías avanzadas de separación de gases y líquidos.",
+              "Nuevos polímeros con microporosidad intrínseca.",
+              "Transformación espontánea y asistida por polímeros multifuncionales, de películas metálicas delgadas en nano partículas.",
+              "Reciclaje de polímeros y materiales basados en polímeros y composites."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7003660351"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/phd-dr-sci-mikhail-zolotukhin/"
+              }
+            ]
+          }
+        ]
+    },
+    "ReologiaMecanicaMateriales": {
+        "id": "ReologiaMecanicaMateriales",
+        "name": "REOLOGÍA Y MECÁNICA DE MATERIALES",
+        "infographic": "/images/PostersDepartamentos/Poster_Reologia y Mecanica de Materiales.png",
+        "cards": [
+          {
+            "image": "/images/investigadores/ReologiaMecanicaMateriales/HectorDominguezCastro.jpg",
+            "name": "Dr. Héctor Domínguez Castro",
+            "works": [
+              "Física estadística y desarrollo de algoritmos para estudio de sistemas complejos.",
+              "Simulaciones computacionales de moléculas anfifílicas/ surfactantes y fluidos en matrices porosas.",
+              "Adsorción y retención de partículas/moléculas contaminantes en superficies sólidas.",
+              "Materia condensada blanda.",
+              "Propiedades optoelectrónicas y aplicaciones de películas delgadas semiconductoras y aislantes, depositadas por rocío pirolítico ultrasónico",
+              "Estudios y simulaciones de proteínas relacionadas con inflamación y Cáncer."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7006500407"
+              },
+              {
+                "pageName": "Sitio Web",
+                "url": "https://www.iim.unam.mx/hdominguez/index.html"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-hector-dominguez-castro/"
+              }
+            ],
+            "videoId": "yfH3hfKJDKo?si=icYQyYzPHzGpI8Hq"
+          },
+          {
+            "image": "/images/investigadores/ReologiaMecanicaMateriales/ErnestoRiveraGarcia.jpg",
+            "name": "Dr. Ernesto Rivera García",
+            "works": [
+              "Síntesis, caracterización y modelado de aleaciones magnéticas duras.",
+              "Preparación y caracterización magnética de aleaciones amorfas.",
+              "Estudio de materiales metal-cerámicos con efecto magnetocalórico en condiciones adiabáticas.",
+              "Propiedades magnéticas de materiales nanoestructurados y modelos para su conservación en bulto"
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7101648473"
+              },
+              {
+                "pageName": "Blog Personal",
+                "url": "https://www.iim.unam.mx/erivera/"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-ernesto-rivera-garcia/"
+              }
+            ],
+            "videoId": "CgP2nI6RNPs?si=qCIrUaSggveJKAZd"
+          },
+          {
+            "image": "/images/investigadores/ReologiaMecanicaMateriales/EnriqueGeffroyAguilar.jpg",
+            "name": "Dr. Enrique Geffroy Aguilar",
+            "works": [
+              "Reología de emulsiones en medio acuoso.",
+              "Simulaciones y reología de fluidos simples mediante las técnicas de campo de fases (para estudiar surfactantes) y de elementos de frontera (flujos lineales de fronteras libres).",
+              "Dinámica de fluidos en forma de gotas en distintos medios."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6603117439"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-enrique-geffroy-aguilar/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/ReologiaMecanicaMateriales/JuanAHernandezCordero.jpg",
+            "name": "Dr. Juan A. Hernández Cordero",
+            "works": [
+              "Estudio en polímeros con propiedades fotomecánicas para aplicaciones médicas.",
+              "Estudios en efectos fototérmicos de materiales.",
+              "Desarrollo de sensores de temperatura por fluorescencia de fibra óptica.",
+              "Estudios en Optofluidica con recubrimientos poliméricos funcionales.",
+              "Estudios de interacción de Luz láser con micro y nanoestructuras.",
+              "Investigación y Desarrollo en dispositivos de fibra óptica láser y recubrimientos poliméricos funcionales."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=6701780254"
+              },
+              {
+                "pageName": "Blog Personal",
+                "url": "https://www.iim.unam.mx/jhcordero/"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-juan-arnaldo-hernandez-cordero/"
+              }
+            ]
+          },
+          {
+            "image": "/images/investigadores/ReologiaMecanicaMateriales/OctavioManeroBrito.jpg",
+            "name": "Dr. Octavio Manero Brito",
+            "works": [
+              "Reología de Fluidos Complejos. La física de multiescalas.",
+              "Reóptica y electro reología.",
+              "Procesamiento y Producción de Materiales Híbridos.",
+              "Reología y Procesamiento de nanocompuestos Poliméricos.",
+              "Estudios de Biopolímeros y reología de fluidos biológicos."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=7003999464"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-octavio-manero-brito/"
+              }
+            ],
+            "videoId": "1V49LTH-Zc4?si=4IaIs9v0CVtFU64u"
+          },
+          {
+            "image": "/images/investigadores/ReologiaMecanicaMateriales/FranciscoSanchezArevalo.jpg",
+            "name": "Dr. Francisco Sánchez Arévalo",
+            "works": [
+              "Rutas de condensación térmica para la preparación de nitruro de carbono grafítico.",
+              "Mecánica y micromecánica de sólidos de materiales complejos.",
+              "Micromecánica de matrices poliméricas sintéticas/naturales con aplicaciones médicas.",
+              "Síntesis y caracterización de hidrogeles híbridos para aplicación en la reparación de tejidos.",
+              "Estudios del comportamiento y flujo de materiales granulares.",
+              "Estudios en propiedades de aleaciones con memoria de Forma y sus aplicaciones."
+            ],
+            "pages": [
+              {
+                "pageName": "Perfil Scopus",
+                "url": "https://www.scopus.com/authid/detail.uri?authorId=56002667200"
+              },
+              {
+                "pageName": "Blog Personal",
+                "url": "https://www.iim.unam.mx/investigadores/fsanchez/"
+              },
+              {
+                "pageName": "Perfil IIM",
+                "url": "https://www.iim.unam.mx/dr-francisco-manuel-sanchez-arevalo/"
+              }
+            ]
+          }
+        ]
+    }
+}
