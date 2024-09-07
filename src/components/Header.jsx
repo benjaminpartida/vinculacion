@@ -6,7 +6,7 @@ function Header({ title, image }) {
 
   return (
     <div className='pb-8'>
-      <div className='h-[var(--height-full-minus-navbar)] w-full relative drop-shadow-2xl'>
+      <div className='h-[500px] w-full relative drop-shadow-2xl'>
         <div className='flex flex-col items-center justify-center w-full h-full bg-black z-10 absolute opacity-75'></div>
         <div className='h-full w-full bg-transparent absolute z-10 flex flex-col items-center justify-center'>
         <h1 className='z-10 text-white opacity-100 sm:text-6xl lg:text-7xl text-5xl font-serif after:content-[""] after:block after:h-1 after:w-0 after:bg-white after:transition-width after:duration-700 after:ease-in-out hover:after:w-full'>{title}</h1>
@@ -23,3 +23,4 @@ function Header({ title, image }) {
 }
 
 export default Header;
+

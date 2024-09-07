@@ -1,21 +1,3 @@
-// import React from 'react';
-
-// const Inicio = () => {
-//   return (
-//     <div className="p-4 ">
-//       <h2 className="text-2xl font-bold">Inicio</h2>
-//       <p>This is the content of Section 1.</p>
-//       <p>This is the content of Section 1.</p>
-//       <p>This is the content of Section 1.</p>
-//       <p>This is the content of Section 1.</p>
-//       <p>This is the content of Section 1.</p>
-//       <p>This is the content of Section 1.</p>
-//     </div>
-
-//   );
-// };
-
-// export default Inicio;
 import React, { useState, useEffect, useRef } from "react";
 import img1 from "../../assets/images/inicio/_mg_8971.jpg";
 import img2 from "../../assets/images/inicio/_mg_8827-u161-fr2.jpg";
@@ -28,52 +10,87 @@ const people = [
   {
     name: "Laboratorio de XPS",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-02-02.svg",
+    imageUrl: "/lab/lab1.svg",
     link: "#",
   },
   {
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-03-03.svg",
+    imageUrl: "/lab/lab2.svg",
     link: "#",
   },
   {
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-04-04.svg",
+    imageUrl: "/lab/lab3.svg",
     link: "#",
   },
   {
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-05-05.svg",
+    imageUrl: "/lab/lab4.svg",
     link: "#",
   },
   {
     name: "Laboratorio de XPS",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-06-06.svg",
+    imageUrl: "/lab/lab5.svg",
     link: "#",
   },
   {
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-07-07.svg",
+    imageUrl: "/lab/lab6.svg",
     link: "#",
   },
   {
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-04-04.svg",
+    imageUrl: "/lab/lab7.svg",
     link: "#",
   },
   {
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
-    imageUrl: "/lab/lab-05-05.svg",
+    imageUrl: "/lab/lab8.svg",
     link: "#",
   },
-  // Add more people here...
+  {
+    name: "Laboratorio de Fuerza Atómica",
+    description: "Lorem Ipsum",
+    imageUrl: "/lab/lab9.svg",
+    link: "#",
+  },
+  {
+    name: "Laboratorio de XPS",
+    description: "Lorem Ipsum",
+    imageUrl: "/lab/lab10.svg",
+    link: "#",
+  },
+  {
+    name: "Laboratorio de Fuerza Atómica",
+    description: "Lorem Ipsum",
+    imageUrl: "/lab/lab11.svg",
+    link: "#",
+  },
+  {
+    name: "Laboratorio de Fuerza Atómica",
+    description: "Lorem Ipsum",
+    imageUrl: "/lab/lab12.svg",
+    link: "#",
+  },
+  {
+    name: "Laboratorio de Fuerza Atómica",
+    description: "Lorem Ipsum",
+    imageUrl: "/lab/lab13.svg",
+    link: "#",
+  },
+  {
+    name: "Laboratorio de Fuerza Atómica",
+    description: "Lorem Ipsum",
+    imageUrl: "/lab/lab14.svg",
+    link: "#",
+  },
 ];
 
 const scienceCards = [
@@ -95,44 +112,34 @@ const scienceCards = [
   //   imageUrl: "/lab/lab-04-04.svg",
   //   link: "#",
   // },
-
-  // Add more people here...
-];
-
-const collaborators = [
-  { id: 2, logo: "./icons/bdm.png" },
-  { id: 3, logo: "./icons/biocriss.jpg" },
-  { id: 1, logo: "./icons/ine.jpg" },
-  { id: 4, logo: "./icons/ciatec.png" },
-  { id: 5, logo: "./icons/rehab.jpg" },
 ];
 
 const items = [
   {
     school: "SERVICIOS A LA INDUSTRIA",
     title:
-      "Impulsamos la vinculación del Instituto con el sector empresarial y con instituciones públicas y privadas, a través de la prestación de servicios ofrecidos por los diferentes departamentos que conforman al Instituto.",
+      "Facilitamos la colaboración entre el Instituto, el sector empresarial y diversas instituciones mediante los servicios ofrecidos por sus departamentos.",
     img: img1,
     link: "/servicios-a-la-industria", // specify the link
   },
   {
     school: "PATENTES",
     title:
-      "Apoyamos en la protección de propiedad intelectual de los trabajos desarrollados por investigadores y técnicos del Instituto, además de facilitar la transferencia de tecnología al sector público y privado.",
+      "Promovemos la protección de la propiedad intelectual y facilitamos la transferencia tecnológica al sector público y privado.",
     img: img2,
     link: "/patentes", // specify the link
   },
   {
     school: "CONVENIOS",
     title:
-      "Establecemos convenios con la industria, organismos públicos y privados e instituciones de educación superior mediante la realización de proyectos de investigación y/o prestación de servicios.",
+      "Colaboramos con la industria, organismos y universidades a través de proyectos de investigación y servicios especializados.",
     img: img3,
     link: "/convenios", // specify the link
   },
   {
     school: "INNOVACIÓN Y EMPRENDIMIENTO",
     title:
-      "En el IIM contamos con herramientas y modelos de innovación y emprendimiento que apoyan a la academia, la industria y el gobierno en el desarrollo de productos y servicios de alto impacto. Con el propósito de validar la pertinencia de las investigaciones en el mercado y procurar reducir la tasa de fracaso de los proyectos empresariales antes de iniciar operaciones.",
+      "En el IIM ofrecemos herramientas y modelos de innovación que ayudan a validar investigaciones en el mercado, reduciendo el riesgo de fracaso empresarial en etapas tempranas.",
     img: img4,
     link: "/innovacion", // specify the link
   },
@@ -292,7 +299,7 @@ const NewsItemList = ({ items }) => {
                 <h4 className="text-gray-500 text-sm mb-1">{item.school}</h4>
                 <h3 className="text-black text-lg font-bold relative">
                   {item.title}
-                  <span className="absolute left-0 bottom-[-3px] w-full h-[2px] bg-transparent group-hover:bg-black transition-background-color duration-300 ease"></span>
+                  <span className="absolute left-0 bottom-[-3px] w-0 h-[2px] bg-black opacity-0 group-hover:w-full group-hover:opacity-100 transition-all duration-700 ease-in-out"></span>
                 </h3>
               </div>
               <div className="max-w-[35%] overflow-hidden">
@@ -313,8 +320,44 @@ const NewsItemList = ({ items }) => {
   );
 };
 
+const EventsWidget = () => {
+  const events = [
+    {
+      title: "Event 1",
+      date: "October 15, 2022",
+      location: "Virtual",
+    },
+    {
+      title: "Event 2",
+      date: "November 5, 2022",
+      location: "Online",
+    },
+    {
+      title: "Event 3",
+      date: "December 10, 2022",
+      location: "In-person",
+    },
+  ];
+
+  return (
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+      {events.map((event, index) => (
+        <div
+          key={index}
+          className="bg-white shadow-md rounded-lg p-4 flex flex-col justify-between"
+        >
+          <h3 className="text-lg font-bold mb-2">{event.title}</h3>
+          <p className="text-gray-500 mb-2">{event.date}</p>
+          <p className="text-gray-500">{event.location}</p>
+        </div>
+      ))}
+    </div>
+  );
+};
+
 const TabbedSection = () => {
   const [activeTab, setActiveTab] = useState("benefits");
+  const [animate, setAnimate] = useState(true); // State to trigger animation
 
   const tabs = [
     {
@@ -329,41 +372,52 @@ const TabbedSection = () => {
       content:
         "Consolidar a la Secretaría de Vinculación del IIM como un área de apoyo para vincular al personal académico del Instituto con las empresas, las Instituciones de Educación Superior (IES), los Centros de Investigación (CI) y las entidades gubernamentales con el fin de fortalecer las áreas de desarrollo e innovación tecnológica en el área de los Materiales en respuesta a las necesidades del país.",
     },
-    // { id: 'spirituality', title: 'Placeholder', content: 'Lorem Ipsum.' },
   ];
+
+  const handleTabClick = (tabId) => {
+    setAnimate(false); // Reset animation
+    setTimeout(() => {
+      setActiveTab(tabId); // Change tab
+      setAnimate(true); // Trigger animation after changing tab
+    }, 150);
+  };
 
   return (
     <div className="bg-white shadow-md rounded-lg p-6 flex flex-col md:flex-row">
       {/* Image Section */}
       <div className="w-full md:w-1/2 max-h-[350px]">
-        {" "}
-        {/* Set a lower max height for the image */}
         <img
           src="./placeholder.jpg"
           alt="Placeholder"
           className="w-full h-full object-cover rounded-lg shadow-md max-h-[350px]"
-        />{" "}
-        {/* Restrict the image's height */}
+        />
       </div>
 
       {/* Content Section */}
       <div className="w-full md:w-1/2 pl-6 flex flex-col">
-        {" "}
-        {/* Align content to the top left */}
         {/* Tabs */}
         <div className="flex border-b mb-4">
           {tabs.map((tab) => (
             <button
               key={tab.id}
-              className={`px-4 py-2 font-semibold ${activeTab === tab.id ? "text-[var(--primary-color)] border-b-2 border-[var(--primary-color)]" : "text-gray-500"}`}
-              onClick={() => setActiveTab(tab.id)}
+              className={`px-4 py-2 font-semibold ${
+                activeTab === tab.id
+                  ? "text-[var(--primary-color)] border-b-2 border-[var(--primary-color)]"
+                  : "text-gray-500"
+              }`}
+              onClick={() => handleTabClick(tab.id)}
             >
               {tab.title}
             </button>
           ))}
         </div>
-        {/* Tab Content */}
-        <div className="flex flex-col">
+
+        {/* Tab Content with Animation */}
+        <div
+          className={`transition-all duration-500 ease-in-out transform ${
+            animate ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-4"
+          }`}
+        >
           <h2 className="text-2xl font-bold text-[var(--primary-color)] mb-4">
             {tabs.find((tab) => tab.id === activeTab).title}
           </h2>
@@ -376,9 +430,141 @@ const TabbedSection = () => {
   );
 };
 
+
+// const TabbedSection = () => {
+//   const [activeTab, setActiveTab] = useState("benefits");
+
+//   const tabs = [
+//     {
+//       id: "benefits",
+//       title: "Misión",
+//       content:
+//         "Coadyuvar en la gestión de los procesos de generación, transferencia, aplicación y difusión del conocimiento científico y tecnológico del IIM, mediante la ejecución de mecanismos de vinculación de los grupos de investigación con el medio en general y el sector productivo en particular.",
+//     },
+//     {
+//       id: "selfDevelopment",
+//       title: "Visión",
+//       content:
+//         "Consolidar a la Secretaría de Vinculación del IIM como un área de apoyo para vincular al personal académico del Instituto con las empresas, las Instituciones de Educación Superior (IES), los Centros de Investigación (CI) y las entidades gubernamentales con el fin de fortalecer las áreas de desarrollo e innovación tecnológica en el área de los Materiales en respuesta a las necesidades del país.",
+//     },
+//     // { id: 'spirituality', title: 'Placeholder', content: 'Lorem Ipsum.' },
+//   ];
+
+//   return (
+//     <div className="bg-white shadow-md rounded-lg p-6 flex flex-col md:flex-row">
+//       {/* Image Section */}
+//       <div className="w-full md:w-1/2 max-h-[350px]">
+//         {" "}
+//         {/* Set a lower max height for the image */}
+//         <img
+//           src="./placeholder.jpg"
+//           alt="Placeholder"
+//           className="w-full h-full object-cover rounded-lg shadow-md max-h-[350px]"
+//         />{" "}
+//         {/* Restrict the image's height */}
+//       </div>
+
+//       {/* Content Section */}
+//       <div className="w-full md:w-1/2 pl-6 flex flex-col">
+//         {" "}
+//         {/* Align content to the top left */}
+//         {/* Tabs */}
+//         <div className="flex border-b mb-4">
+//           {tabs.map((tab) => (
+//             <button
+//               key={tab.id}
+//               className={`px-4 py-2 font-semibold ${activeTab === tab.id ? "text-[var(--primary-color)] border-b-2 border-[var(--primary-color)]" : "text-gray-500"}`}
+//               onClick={() => setActiveTab(tab.id)}
+//             >
+//               {tab.title}
+//             </button>
+//           ))}
+//         </div>
+//         {/* Tab Content */}
+//         <div className="flex flex-col">
+//           <h2 className="text-2xl font-bold text-[var(--primary-color)] mb-4">
+//             {tabs.find((tab) => tab.id === activeTab).title}
+//           </h2>
+//           <p className="text-gray-700">
+//             {tabs.find((tab) => tab.id === activeTab).content}
+//           </p>
+//         </div>
+//       </div>
+//     </div>
+//   );
+// };
+
+// const Card = ({ person }) => {
+//   return (
+//     <div className="relative group overflow-hidden shadow-lg animate-on-scroll">
+//       {/* Image */}
+//       <img
+//         src={person.imageUrl}
+//         alt={person.name}
+//         className="w-full h-full object-cover transition-transform duration-500 ease-in-out group-hover:scale-105"
+//       />
+//       {/* Overlay */}
+//       <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 ease-in-out flex flex-col justify-end p-4">
+//         <a
+//           href={person.link}
+//           className="text-white font-semibold flex items-center"
+//         >
+//           <span className="mr-2">Learn more</span>
+//           <svg
+//             className="w-6 h-6"
+//             fill="none"
+//             stroke="currentColor"
+//             strokeWidth="2"
+//             viewBox="0 0 24 24"
+//             xmlns="http://www.w3.org/2000/svg"
+//           >
+//             <path
+//               strokeLinecap="round"
+//               strokeLinejoin="round"
+//               d="M17 8l4 4m0 0l-4 4m4-4H3"
+//             ></path>
+//           </svg>
+//         </a>
+//       </div>
+//     </div>
+//   );
+// };
+
+// const CardGrid = ({ people }) => {
+//   useEffect(() => {
+//     const handleScroll = () => {
+//       const elements = document.querySelectorAll(".animate-on-scroll");
+//       elements.forEach((element, index) => {
+//         const rect = element.getBoundingClientRect();
+//         if (rect.top <= window.innerHeight - 100) {
+//           setTimeout(() => {
+//             element.classList.add("opacity-100", "translate-y-[-20]");
+//           }, index * 150); // Staggering the animation by 150ms for each card
+//         }
+//       });
+//     };
+
+//     window.addEventListener("scroll", handleScroll);
+//     handleScroll(); // Run on mount
+
+//     return () => {
+//       window.removeEventListener("scroll", handleScroll);
+//     };
+//   }, []);
+
+//   return (
+//     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
+//       {people.map((person, index) => (
+//         <Card key={index} person={person} />
+//       ))}
+//     </div>
+//   );
+// };
+
+// Card component
 const Card = ({ person }) => {
   return (
-    <div className="relative group overflow-hidden shadow-lg animate-on-scroll">
+    <div className="relative group overflow-hidden shadow-lg opacity-0 translate-y-10 animate-on-scroll transition-all duration-700">
       {/* Image */}
       <img
         src={person.imageUrl}
@@ -408,6 +594,39 @@ const Card = ({ person }) => {
           </svg>
         </a>
       </div>
+    </div>
+  );
+};
+
+// CardGrid component
+const CardGrid = ({ people }) => {
+  useEffect(() => {
+    const handleScroll = () => {
+      const elements = document.querySelectorAll(".animate-on-scroll");
+      elements.forEach((element, index) => {
+        const rect = element.getBoundingClientRect();
+        if (rect.top <= window.innerHeight - 100) {
+          // Stagger the animation based on the index
+          setTimeout(() => {
+            element.classList.add("opacity-100", "translate-y-0");
+          }, index * 100); // Staggering animation by 100ms per card
+        }
+      });
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    handleScroll(); // Run once on mount in case elements are already in view
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
+  return (
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
+      {people.map((person, index) => (
+        <Card key={index} person={person} />
+      ))}
     </div>
   );
 };
@@ -469,7 +688,7 @@ const ScienceCardGrid = ({ people }) => {
         if (rect.top <= window.innerHeight - 100) {
           setTimeout(() => {
             element.classList.add("opacity-100", "translate-y-[-20]");
-          }, index * 100); // Staggering the animation by 150ms for each card
+          }, index * 75); // Staggering the animation by 75ms for each card
         }
       });
     };
@@ -483,7 +702,7 @@ const ScienceCardGrid = ({ people }) => {
   }, []);
 
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6">
+    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6">
       {people.map((person, index) => (
         <ScienceCard key={index} person={person} />
       ))}
@@ -491,36 +710,6 @@ const ScienceCardGrid = ({ people }) => {
   );
 };
 
-const CardGrid = ({ people }) => {
-  useEffect(() => {
-    const handleScroll = () => {
-      const elements = document.querySelectorAll(".animate-on-scroll");
-      elements.forEach((element, index) => {
-        const rect = element.getBoundingClientRect();
-        if (rect.top <= window.innerHeight - 100) {
-          setTimeout(() => {
-            element.classList.add("opacity-100", "translate-y-[-20]");
-          }, index * 150); // Staggering the animation by 150ms for each card
-        }
-      });
-    };
-
-    window.addEventListener("scroll", handleScroll);
-    handleScroll(); // Run on mount
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
-
-  return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6">
-      {people.map((person, index) => (
-        <Card key={index} person={person} />
-      ))}
-    </div>
-  );
-};
 
 const Inicio = () => {
   return (
@@ -532,16 +721,20 @@ const Inicio = () => {
         <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
           Laboratorios
         </h1>
-        <div className="p-6">
+        <div className="pb-6 pl-6 pr-6">
           <CardGrid people={people} />
         </div>
-        <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
+        <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-20">
           Nuestras Actividades
         </h1>
         <NewsItemList items={items} />
         <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
           Próximos Eventos
         </h1>
+        <div className="p-5" >
+
+        <EventsWidget />
+        </div>
         <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
           Ciencia, Tecnología e Innovación
         </h1>

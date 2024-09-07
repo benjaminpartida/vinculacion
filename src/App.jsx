@@ -8,6 +8,7 @@ import Innovacion from './pages/innovacion/Innovacion';
 import Contactos from './components/Contactos';
 import Investigacion from './pages/investigacion/Investigacion';
 import Convenios from './pages/convenios/Convenios';
+import Laboratorios from './pages/laboratorios/Laboratorios';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Inicio />} />
           <Route path="/patentes" element={<Patentes />} />
+          <Route path="/laboratorios" element={<Laboratorios />} />
           <Route path="/innovacion" element={<Innovacion />} />
           <Route path="/investigacion" element={<Investigacion />} />
           <Route path="/convenios" element={<Convenios />} />
