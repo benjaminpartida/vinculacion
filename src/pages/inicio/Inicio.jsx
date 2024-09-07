@@ -633,7 +633,7 @@ const CardGrid = ({ people }) => {
 
 const ScienceCard = ({ person }) => {
   return (
-    <div className="rounded-md relative group overflow-hidden shadow-lg transform transition-all duration-700 ease-in-out opacity-0 translate-y-8 animate-on-scroll">
+    <div className="rounded-md relative group overflow-hidden shadow-lg transform transition-all duration-700 ease-in-out opacity-0 translate-y-10 animate-on-scroll">
       {/* Image */}
       <img
         src={person.imageUrl}
@@ -648,7 +648,7 @@ const ScienceCard = ({ person }) => {
           backgroundSize: "100% 100%",
         }}
       >
-        <div className="absolute bottom-0 left-0 p-4 w-full transition-all duration-700 ease-in-out group-hover:translate-y-[-30%]">
+        <div className="absolute bottom-0 left-0 p-4 w-full transition-all duration-700 ease-in-out group-hover:translate-y-[-5%]">
           <h3 className="text-white text-2xl font-bold mb-2">{person.name}</h3>
           <p className="text-white opacity-0 group-hover:opacity-100 transition-opacity duration-700 ease-in-out mb-4">
             {person.description}
