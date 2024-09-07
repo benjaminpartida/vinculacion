@@ -721,7 +721,7 @@ const Inicio = () => {
         <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
           Laboratorios
         </h1>
-        <div className="pb-6 pl-6 pr-6">
+        <div className="pt-6 pl-6 pr-6">
           <CardGrid people={people} />
         </div>
         <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-20">
