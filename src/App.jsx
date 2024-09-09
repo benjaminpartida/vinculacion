@@ -9,6 +9,7 @@ import Contactos from './components/Contactos';
 import Investigacion from './pages/investigacion/Investigacion';
 import Convenios from './pages/convenios/Convenios';
 import Laboratorios from './pages/laboratorios/Laboratorios';
+import LabDetailPage from './pages/laboratorios/labdetail/LabDetailPage';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/" element={<Inicio />} />
           <Route path="/patentes" element={<Patentes />} />
           <Route path="/laboratorios" element={<Laboratorios />} />
+          <Route path="/laboratorios/labdetail" element={<LabDetailPage />} />
           <Route path="/innovacion" element={<Innovacion />} />
           <Route path="/investigacion" element={<Investigacion />} />
           <Route path="/convenios" element={<Convenios />} />

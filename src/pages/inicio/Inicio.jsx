@@ -718,24 +718,24 @@ const Inicio = () => {
       <Slideshow />
       <div className="pt-0 pb-4 pl-4 pr-4">
         <TabbedSection />
-        <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
+        <h1 class="w-full flex-auto text-4xl font-bold text-[var(--primary-color)] pl-4 pr-4 pt-10">
           Laboratorios
         </h1>
         <div className="pt-6 pl-6 pr-6">
           <CardGrid people={people} />
         </div>
-        <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-20">
+        <h1 class="w-full flex-auto text-4xl font-bold text-[var(--primary-color)] pl-4 pr-4 pt-20">
           Nuestras Actividades
         </h1>
         <NewsItemList items={items} />
-        <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
+        <h1 class="w-full flex-auto text-4xl font-bold text-[var(--primary-color)] pl-4 pr-4 pt-10">
           Próximos Eventos
         </h1>
         <div className="p-5" >
 
         <EventsWidget />
         </div>
-        <h1 class="w-full flex-auto text-4xl font-bold text-slate-900 pl-4 pr-4 pt-10">
+        <h1 class="w-full flex-auto text-4xl font-bold text-[var(--primary-color)] pl-4 pr-4 pt-10">
           Ciencia, Tecnología e Innovación
         </h1>
         <div className="p-6">
