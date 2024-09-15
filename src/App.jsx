@@ -20,7 +20,9 @@ function App() {
           <Route path="/" element={<Inicio />} />
           <Route path="/patentes" element={<Patentes />} />
           <Route path="/laboratorios" element={<Laboratorios />} />
-          <Route path="/laboratorios/labdetail" element={<LabDetailPage />} />
+           {/* Dynamic route for lab detail pages */}
+          <Route path="/laboratorios/:labId" element={<LabDetailPage />} />
+          {/* <Route path="/laboratorios/labdetail" element={<LabDetailPage />} /> */}
           <Route path="/innovacion" element={<Innovacion />} />
           <Route path="/investigacion" element={<Investigacion />} />
           <Route path="/convenios" element={<Convenios />} />

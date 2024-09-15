@@ -1,109 +1,108 @@
+
 import React, { useEffect, useState } from 'react';
 import Header from '../../components/Header';
-import SlideshowHeader2 from "../../assets/images/inicio/placeholder.jpg";
+import { Link } from 'react-router-dom';
 
 const labs = [
   {
-    name: "Laboratorio de XPS",
+    id: "lab1",
+    name: "Laboratorio de Cromatografía",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab1.svg",
-    link: "/laboratorios/labdetail",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab2",
+    name: "Laboratorio de XPS",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab2.svg",
-    link: "#",
   },
   {
+    id: "lab3",
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab3.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab4",
+    name: "Laboratorio de Pruebas Mecánicas",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab4.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de XPS",
+    id: "lab5",
+    name: "Laboratorio de Difracción de Rayos X",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab5.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab6",
+    name: "Laboratorio de Resonancia Magnética Nuclear",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab6.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab7",
+    name: "Laboratorio Universitario de Microscopía Electrónica",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab7.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab8",
+    name: "Laboratorio de Reología y Caracterización Fisicoquímica del Petróleo",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab8.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab9",
+    name: "Laboratorio de Nanofibras para Ingeniería de Tejidos",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab9.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de XPS",
+    id: "lab10",
+    name: "Laboratorio de Análisis Químico Elemental",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab10.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab11",
+    name: "Laboratorio de Procesamiento de Polímeros",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab11.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab12",
+    name: "Laboratorio de Análisis Térmico",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab12.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab13",
+    name: "Laboratorio de Espectroscopía",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab13.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab14",
+    name: "Laboratorio de Microscopía Electrónica",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab14.svg",
-    link: "#",
   },
 ];
 
-const Card = ({ person }) => {
+const Card = ({ lab }) => {
   return (
     <div className="relative group overflow-hidden shadow-lg opacity-0 translate-y-10 animate-on-scroll transition-all duration-700">
       {/* Image */}
       <img
-        src={person.imageUrl}
-        alt={person.name}
+        src={lab.imageUrl}
+        alt={lab.name}
         className="w-full h-full object-cover transition-transform duration-500 ease-in-out group-hover:scale-105"
       />
       {/* Overlay */}
       <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 ease-in-out flex flex-col justify-end p-4">
-        <a
-          href={person.link}
-          className="text-white font-semibold flex items-center"
-        >
+        {/* Dynamic link */}
+        <Link to={`/laboratorios/${lab.id}`} className="text-white font-semibold flex items-center">
           <span className="mr-2">Learn more</span>
           <svg
             className="w-6 h-6"
@@ -119,7 +118,7 @@ const Card = ({ person }) => {
               d="M17 8l4 4m0 0l-4 4m4-4H3"
             ></path>
           </svg>
-        </a>
+        </Link>
       </div>
     </div>
   );
@@ -151,106 +150,13 @@ const CardGrid = ({ labs }) => {
 
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-      {labs.map((person, index) => (
-        <Card key={index} person={person} />
+      {labs.map((lab, index) => (
+        <Card key={index} lab={lab} />
       ))}
     </div>
   );
 };
 
-// const Laboratorios = () => {
-
-//   return (
-//     <div>
-//       <Header title="Laboratorios" image="https://www.derechosautor.com/index_archivos/images/patente.jpg" />
-//       <div className="w-full px-10 pb-24">
-//         <div className="place-content-center mx-10">
-//           <p className="text-justify text-lg mt-6">El Instituto de Investigaciones en Materiales a través de la Secretaría de Vinculación ofrece servicios analíticos y tecnológicos al sector público y privado que incluyen principalmente el desarrollo de nuevos materiales, transferencia de tecnología y servicios técnicos. </p>
-//           <p className="text-justify text-lg mt-6">
-//             Los laboratorios del IIM, encargados de la prestación de servicios técnicos, están integrados por personal altamente calificado con una amplia experiencia en técnicas analíticas, algunos servicios que ofrecen son análisis químico, ensayos mecánicos, difracción de rayos X, entre otros.</p>
-//         </div>
-//         <CardGrid labs={labs} />
-//         {/* <h1 className="text-4xl font-bold text-center mt-32 mb-8 text-[var(--primary-color)]">Proceso de solicitud de servicios</h1>
-//         <img
-//           src="/lab/instructivo_servicios.svg"
-//           alt="Description of image"
-//           className="w-full h-auto max-w-full px-2 sm:px-4 md:px-10 lg:px-20 xl:px-32 mx-auto"
-//         />
-//         <h1 className="text-4xl font-bold text-center mt-12 mb-8 text-[var(--primary-color)]">Documentación </h1>
-//         <div className="place-content-center mx-10">
-//           <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
-//             <a
-//               href="/lab/carta-solicitud-de-servicios.docx"
-//               download
-//               className="bg-transparent hover:bg-blue-500 text-[var(--primary-color)] font-semibold hover:text-white py-2 px-4 border-2 border-[var(--primary-color)] hover:border-transparent rounded inline-flex items-center">
-//               <img src="/lab/documenticon.svg" alt="icon" className="fill-current w-8 h-8 mr-2" />
-//               <span>Carta de Solicitud de Servicios</span>
-//             </a>
-//             <a
-//               href="/lab/recepcion-_muestras_19.xlsx"
-//               download
-//               className="bg-transparent hover:bg-blue-500 text-[var(--primary-color)] font-semibold hover:text-white py-2 px-4 border-2 border-[var(--primary-color)] hover:border-transparent rounded inline-flex items-center">
-//               <img src="/lab/documenticon.svg" alt="icon" className="fill-current w-8 h-8 mr-2" />
-//               <span>Formato de Recepción de Muestras</span>
-//             </a>
-//           </div> */}
-//           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-//   {/* Proceso de solicitud de servicios */}
-//   <div className="flex flex-col items-center">
-//     <h1 className="text-4xl font-bold text-center mt-32 mb-8 text-[var(--primary-color)]">
-//       Proceso de solicitud de servicios
-//     </h1>
-//     <img
-//       src="/lab/instructivo_servicios.svg"
-//       alt="Description of image"
-//       className="w-full h-auto max-w-full px-2 sm:px-4 md:px-6  mx-auto"
-//     />
-//   </div>
-
-//   {/* Documentación */}
-//   <div className="flex flex-col items-center">
-//     <h1 className="text-4xl font-bold text-center mt-32 mb-8 text-[var(--primary-color)]">
-//       Documentación
-//     </h1>
-//     <div className="place-content-center mx-10">
-//       <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
-//         <a
-//           href="/lab/carta-solicitud-de-servicios.docx"
-//           download
-//           className="bg-transparent hover:bg-blue-500 text-[var(--primary-color)] font-semibold hover:text-white py-2 px-4 border-2 border-[var(--primary-color)] hover:border-transparent rounded inline-flex items-center"
-//         >
-//           <img
-//             src="/lab/documenticon.svg"
-//             alt="icon"
-//             className="fill-current w-8 h-8 mr-2"
-//           />
-//           <span>Carta de Solicitud de Servicios</span>
-//         </a>
-//         <a
-//           href="/lab/recepcion-_muestras_19.xlsx"
-//           download
-//           className="bg-transparent hover:bg-blue-500 text-[var(--primary-color)] font-semibold hover:text-white py-2 px-4 border-2 border-[var(--primary-color)] hover:border-transparent rounded inline-flex items-center"
-//         >
-//           <img
-//             src="/lab/documenticon.svg"
-//             alt="icon"
-//             className="fill-current w-8 h-8 mr-2"
-//           />
-//           <span>Formato de Recepción de Muestras</span>
-//         </a>
-//       </div>
-//     </div>
-//   </div>
-// </div>
-
-//         </div>
-
-//       </div>
-//   );
-
-// };
-
-// export default Laboratorios;
 
 // TwoColumnLayout for larger screens
 const TwoColumnLayout = () => (
@@ -286,7 +192,6 @@ const TwoColumnLayout = () => (
           <img src="/lab/documenticon.svg" alt="icon" className="w-8 h-8 mr-2" />
           <span>Formato de Recepción de Muestras</span>
         </a>
-        
       </div>
     </div>
   </div>
@@ -327,14 +232,7 @@ const SingleColumnLayout = () => (
           <span>Formato de Recepción de Muestras</span>
         </a>
         <p className="text-xl font-bold text-[var(--primary-color)] mt-8">Política de Calidad de los Laboratorios</p>
-        <p class="text-gray-500 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor diam, rutrum in massa at, rutrum mattis enim.  <a href="#" class="inline-flex items-center font-medium text-blue-600 dark:text-blue-500 hover:underline">
-          Conocer Más
-          <svg class="w-4 h-4 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a></p>
-
-
+        <p className="text-gray-500 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
       </div>
     </div>
   </div>
@@ -346,7 +244,7 @@ const Laboratorios = () => {
   useEffect(() => {
     // Define a handler to check window size
     const handleResize = () => {
-      setIsLargeScreen(window.innerWidth >= 1200); // Use your breakpoint (1024px here)
+      setIsLargeScreen(window.innerWidth >= 1200); // Use your breakpoint (1200px here)
     };
 
     // Attach event listener
@@ -365,10 +263,10 @@ const Laboratorios = () => {
       <div className="w-full px-10 pb-24">
         <div className="place-content-center mx-10">
           <p className="text-justify text-lg mt-6">
-            El Instituto de Investigaciones en Materiales a través de la Secretaría de Vinculación ofrece servicios analíticos y tecnológicos al sector público y privado que incluyen principalmente el desarrollo de nuevos materiales, transferencia de tecnología y servicios técnicos.
+            El Instituto de Investigaciones en Materiales a través de la Secretaría de Vinculación ofrece servicios analíticos y tecnológicos al sector público y privado...
           </p>
           <p className="text-justify text-lg mt-6">
-            Los laboratorios del IIM, encargados de la prestación de servicios técnicos, están integrados por personal altamente calificado con una amplia experiencia en técnicas analíticas, algunos servicios que ofrecen son análisis químico, ensayos mecánicos, difracción de rayos X, entre otros.
+            Los laboratorios del IIM, encargados de la prestación de servicios técnicos, están integrados por personal altamente calificado...
           </p>
         </div>
 
@@ -376,13 +274,16 @@ const Laboratorios = () => {
 
         {/* Conditionally render based on screen size */}
         {isLargeScreen ? <TwoColumnLayout /> : <SingleColumnLayout />}
-        {isLargeScreen ? <div><p className="text-xl font-bold text-[var(--primary-color)] mt-20">Política de Calidad de los Laboratorios</p>
-        <p class="text-gray-500 dark:text-gray-400 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor diam, rutrum in massa at, rutrum mattis enim.  <a href="#" class="inline-flex items-center font-medium text-blue-600 dark:text-blue-500 hover:underline">
-          Conocer Más
-          <svg class="w-4 h-4 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a></p></div> : null}
+        {isLargeScreen ? (
+          <div>
+            <p className="text-xl font-bold text-[var(--primary-color)] mt-20">
+              Política de Calidad de los Laboratorios
+            </p>
+            <p className="text-gray-500 dark:text-gray-400 mt-2">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+            </p>
+          </div>
+        ) : null}
       </div>
     </div>
   );

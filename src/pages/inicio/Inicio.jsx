@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
+import { Link } from "react-router-dom";
 import img1 from "../../assets/images/inicio/_mg_8971.jpg";
 import img2 from "../../assets/images/inicio/_mg_8827-u161-fr2.jpg";
 import img3 from "../../assets/images/inicio/_mg_8852-u169-fr.jpg";
@@ -8,88 +9,88 @@ import SlideshowHeader2 from "../../assets/images/inicio/placeholder.jpg"; //tmb
 
 const people = [
   {
-    name: "Laboratorio de XPS",
+    id: "lab1",
+    name: "Laboratorio de Cromatografía",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab1.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab2",
+    name: "Laboratorio de XPS",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab2.svg",
-    link: "#",
   },
   {
+    id: "lab3",
     name: "Laboratorio de Fuerza Atómica",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab3.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab4",
+    name: "Laboratorio de Pruebas Mecánicas",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab4.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de XPS",
+    id: "lab5",
+    name: "Laboratorio de Difracción de Rayos X",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab5.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab6",
+    name: "Laboratorio de Resonancia Magnética Nuclear",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab6.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab7",
+    name: "Laboratorio Universitario de Microscopía Electrónica",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab7.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab8",
+    name: "Laboratorio de Reología y Caracterización Fisicoquímica del Petróleo",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab8.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab9",
+    name: "Laboratorio de Nanofibras para Ingeniería de Tejidos",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab9.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de XPS",
+    id: "lab10",
+    name: "Laboratorio de Análisis Químico Elemental",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab10.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab11",
+    name: "Laboratorio de Procesamiento de Polímeros",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab11.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab12",
+    name: "Laboratorio de Análisis Térmico",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab12.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab13",
+    name: "Laboratorio de Espectroscopía",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab13.svg",
-    link: "#",
   },
   {
-    name: "Laboratorio de Fuerza Atómica",
+    id: "lab14",
+    name: "Laboratorio de Microscopía Electrónica",
     description: "Lorem Ipsum",
     imageUrl: "/lab/lab14.svg",
-    link: "#",
   },
 ];
 
@@ -106,12 +107,6 @@ const scienceCards = [
     imageUrl: "/ciencia/luzuv.jpg",
     link: "#",
   },
-  // {
-  //   name: "Placeholder",
-  //   description: "Lorem Ipsum",
-  //   imageUrl: "/lab/lab-04-04.svg",
-  //   link: "#",
-  // },
 ];
 
 const items = [
@@ -190,7 +185,8 @@ const Slideshow = () => {
 
   return (
     <div
-      className="relative w-full h-[500px]"
+      className="relative w-full"
+      style={{ height: `calc(100vh - 70px)` }} // Adjust the height to account for the navbar
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
@@ -429,154 +425,17 @@ const TabbedSection = () => {
     </div>
   );
 };
-
-
-// const TabbedSection = () => {
-//   const [activeTab, setActiveTab] = useState("benefits");
-
-//   const tabs = [
-//     {
-//       id: "benefits",
-//       title: "Misión",
-//       content:
-//         "Coadyuvar en la gestión de los procesos de generación, transferencia, aplicación y difusión del conocimiento científico y tecnológico del IIM, mediante la ejecución de mecanismos de vinculación de los grupos de investigación con el medio en general y el sector productivo en particular.",
-//     },
-//     {
-//       id: "selfDevelopment",
-//       title: "Visión",
-//       content:
-//         "Consolidar a la Secretaría de Vinculación del IIM como un área de apoyo para vincular al personal académico del Instituto con las empresas, las Instituciones de Educación Superior (IES), los Centros de Investigación (CI) y las entidades gubernamentales con el fin de fortalecer las áreas de desarrollo e innovación tecnológica en el área de los Materiales en respuesta a las necesidades del país.",
-//     },
-//     // { id: 'spirituality', title: 'Placeholder', content: 'Lorem Ipsum.' },
-//   ];
-
-//   return (
-//     <div className="bg-white shadow-md rounded-lg p-6 flex flex-col md:flex-row">
-//       {/* Image Section */}
-//       <div className="w-full md:w-1/2 max-h-[350px]">
-//         {" "}
-//         {/* Set a lower max height for the image */}
-//         <img
-//           src="./placeholder.jpg"
-//           alt="Placeholder"
-//           className="w-full h-full object-cover rounded-lg shadow-md max-h-[350px]"
-//         />{" "}
-//         {/* Restrict the image's height */}
-//       </div>
-
-//       {/* Content Section */}
-//       <div className="w-full md:w-1/2 pl-6 flex flex-col">
-//         {" "}
-//         {/* Align content to the top left */}
-//         {/* Tabs */}
-//         <div className="flex border-b mb-4">
-//           {tabs.map((tab) => (
-//             <button
-//               key={tab.id}
-//               className={`px-4 py-2 font-semibold ${activeTab === tab.id ? "text-[var(--primary-color)] border-b-2 border-[var(--primary-color)]" : "text-gray-500"}`}
-//               onClick={() => setActiveTab(tab.id)}
-//             >
-//               {tab.title}
-//             </button>
-//           ))}
-//         </div>
-//         {/* Tab Content */}
-//         <div className="flex flex-col">
-//           <h2 className="text-2xl font-bold text-[var(--primary-color)] mb-4">
-//             {tabs.find((tab) => tab.id === activeTab).title}
-//           </h2>
-//           <p className="text-gray-700">
-//             {tabs.find((tab) => tab.id === activeTab).content}
-//           </p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// const Card = ({ person }) => {
-//   return (
-//     <div className="relative group overflow-hidden shadow-lg animate-on-scroll">
-//       {/* Image */}
-//       <img
-//         src={person.imageUrl}
-//         alt={person.name}
-//         className="w-full h-full object-cover transition-transform duration-500 ease-in-out group-hover:scale-105"
-//       />
-//       {/* Overlay */}
-//       <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 ease-in-out flex flex-col justify-end p-4">
-//         <a
-//           href={person.link}
-//           className="text-white font-semibold flex items-center"
-//         >
-//           <span className="mr-2">Learn more</span>
-//           <svg
-//             className="w-6 h-6"
-//             fill="none"
-//             stroke="currentColor"
-//             strokeWidth="2"
-//             viewBox="0 0 24 24"
-//             xmlns="http://www.w3.org/2000/svg"
-//           >
-//             <path
-//               strokeLinecap="round"
-//               strokeLinejoin="round"
-//               d="M17 8l4 4m0 0l-4 4m4-4H3"
-//             ></path>
-//           </svg>
-//         </a>
-//       </div>
-//     </div>
-//   );
-// };
-
-// const CardGrid = ({ people }) => {
-//   useEffect(() => {
-//     const handleScroll = () => {
-//       const elements = document.querySelectorAll(".animate-on-scroll");
-//       elements.forEach((element, index) => {
-//         const rect = element.getBoundingClientRect();
-//         if (rect.top <= window.innerHeight - 100) {
-//           setTimeout(() => {
-//             element.classList.add("opacity-100", "translate-y-[-20]");
-//           }, index * 150); // Staggering the animation by 150ms for each card
-//         }
-//       });
-//     };
-
-//     window.addEventListener("scroll", handleScroll);
-//     handleScroll(); // Run on mount
-
-//     return () => {
-//       window.removeEventListener("scroll", handleScroll);
-//     };
-//   }, []);
-
-//   return (
-//     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-//       {people.map((person, index) => (
-//         <Card key={index} person={person} />
-//       ))}
-//     </div>
-//   );
-// };
-
-// Card component
+// Updated Card component with dynamic link
 const Card = ({ person }) => {
   return (
     <div className="relative group overflow-hidden shadow-lg opacity-0 translate-y-10 animate-on-scroll transition-all duration-700">
-      {/* Image */}
       <img
         src={person.imageUrl}
         alt={person.name}
         className="w-full h-full object-cover transition-transform duration-500 ease-in-out group-hover:scale-105"
       />
-      {/* Overlay */}
       <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 ease-in-out flex flex-col justify-end p-4">
-        <a
-          href={person.link}
-          className="text-white font-semibold flex items-center"
-        >
+        <Link to={`/laboratorios/${person.id}`} className="text-white font-semibold flex items-center">
           <span className="mr-2">Learn more</span>
           <svg
             className="w-6 h-6"
@@ -592,13 +451,13 @@ const Card = ({ person }) => {
               d="M17 8l4 4m0 0l-4 4m4-4H3"
             ></path>
           </svg>
-        </a>
+        </Link>
       </div>
     </div>
   );
 };
 
-// CardGrid component
+// CardGrid component remains the same
 const CardGrid = ({ people }) => {
   useEffect(() => {
     const handleScroll = () => {
@@ -606,16 +465,15 @@ const CardGrid = ({ people }) => {
       elements.forEach((element, index) => {
         const rect = element.getBoundingClientRect();
         if (rect.top <= window.innerHeight - 100) {
-          // Stagger the animation based on the index
           setTimeout(() => {
             element.classList.add("opacity-100", "translate-y-0");
-          }, index * 100); // Staggering animation by 100ms per card
+          }, index * 100);
         }
       });
     };
 
     window.addEventListener("scroll", handleScroll);
-    handleScroll(); // Run once on mount in case elements are already in view
+    handleScroll();
 
     return () => {
       window.removeEventListener("scroll", handleScroll);
@@ -630,6 +488,7 @@ const CardGrid = ({ people }) => {
     </div>
   );
 };
+
 
 const ScienceCard = ({ person }) => {
   return (

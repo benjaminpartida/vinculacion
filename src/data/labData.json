@@ -1,0 +1,978 @@
+[
+    {
+        "id": "lab1",
+        "name": "Laboratorio de Cromatografía",
+        "mission": "Caracterización de compuestos y materiales poliméricos por técnicas cromatográficas, determinando composición, pureza, avance de reacción (GC y GC-MS), Distribución de Masa Molar Absoluta (Online o modo Batch por, MALLS) y Relativa (por, HPSEC), y Distribución de Tamaño de Partícula y Potencial Zeta.",
+        "researchLines": [
+            "Caracterización de materiales por cromatografía de líquidos (HPSEC) y cromatografía de gases (GC-FID y GC-MS)",
+            "Dispersión de luz dinámica y estática (DLS y SLS)",
+            "Espectrometría RAMAN",
+            "Análisis de superficies (Goniómetro: Mide Ángulo de Contacto)",
+            "Densidad de sólidos (Gas Pycnometer, Micromeritics)"
+        ],
+        "services": [
+            {
+                "title": "Cromatografía de Líquidos",
+                "description": "Se realizan servicios de cromatografía líquida de alta resolución (HPLC), orientados a cromatografía por exclusión de tamaño de alta resolución (HPSEC), que miden la distribución de masas molecular (DMM) relativa, referente a una curva de calibración, ya sea, de Poliestireno y/o Polimetacrilato de metilo. Además de la determinación de la pureza de reactivos químicos y la medición de la distribución del tamaño de partícula y potencial Zeta de una partícula en suspensión o coloide.",
+                "equipment": [
+                    {
+                        "name": "Waters ALLIANCE e2695 con doble detector (índice de refracción, modelo 2414 y UV/Visible 2489, ambos Waters).",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente polímeros solubles en Tetrahidrofurano (THF)."
+                    },
+                    {
+                        "name": "Waters, modelo ALLIANCE 2695, con detector de índice de refracción, marca Waters, modelo 2414.",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente polímeros solubles en Tetrahidrofurano (THF)."
+                    },
+                    {
+                        "name": "Waters AutoSampler 717 plus, con detector de índice de refracción Waters 410.",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente polímeros solubles en agua y soluciones Buffer."
+                    },
+                    {
+                        "name": "Detector de Dispersión de Luz Laser a Multi-Ángulos (MALLS), marca Wyatt Technology, modelo DAWN EOS.",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente polímeros solubles en Tetrahidrofurano (THF) y agua."
+                    },
+                    {
+                        "name": "Detector de índice de refracción, marca Wyatt Technology, modelo OptiLab Rex.",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente polímeros solubles en Tetrahidrofurano (THF) y agua."
+                    },
+                    {
+                        "name": "Sistema Modular de Dispersión de Luz Dinámica (DLS), marca Microtrac, modelo Nanotrac Wave.",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente compuestos en suspensión y/o sistemas coloidales, ya sea en fase móvil orgánica y/o acuosa."
+                    }
+                ]
+            },
+            {
+                "title": "Cromatografía de Gases",
+                "description": "Identificación de sustancias, tales como algunas Drogas, impurezas de disolventes, algunos pesticidas, componentes volátiles y semi-volatiles hidrocarburos y aceites esenciales. Además de retención de compuestos polares, acrilatos, aminas, alcoholes, cloruros, aromáticos volátiles, aceites esenciales, glicoles, disolvente residual.",
+                "equipment": [
+                    {
+                        "name": "Cromatógrafo de Gases con detector de Espectrometría de Masas (GC-MS) Shimadzu GCMS-QP2010s",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente componentes de polaridad intermedia."
+                    },
+                    {
+                        "name": "Cromatógrafo de Gases con detector de Ionización a la Flama (GC-FID), Shimadzu GC2010",
+                        "range": "100 gr mínimo de muestra, se trabaja principalmente componentes polares."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+        ],
+        "applications": [
+            {
+                "title": "Industria Farmacéutica",
+                "description": "Análisis de medicamentos para la determinación de los componente activos presentes ya sea en una tableta analgésica. Caracterización de impurezas en productos farmacéuticos por cromatografía líquida de alta resolución. Determinación cuantitativa de principios activos y/o impurezas en productos farmacéuticos por cromatografía líquida de alta resolución. Validación de procedimientos analíticos para la determinación de productos farmacéuticos."
+            },
+            {
+                "title": "Industria Química",
+                "description": "Caracterización de compuesto y materiales poliméricos. Determinación de composición, pureza, avance de reacción, distribución de masa molar absoluta y relativa, distribución de tamaño de partícula y potencial Zeta de compuestos y materiales poliméricos."
+            },
+            {
+                "title": "Industria Química",
+                "description": "Caracterización de compuesto y materiales poliméricos. Determinación de composición, pureza, avance de reacción, distribución de masa molar absoluta y relativa, distribución de tamaño de partícula y potencial Zeta de compuestos y materiales poliméricos."
+            },
+            {
+                "title": "Industria Química",
+                "description": "Caracterización de compuesto y materiales poliméricos. Determinación de composición, pureza, avance de reacción, distribución de masa molar absoluta y relativa, distribución de tamaño de partícula y potencial Zeta de compuestos y materiales poliméricos."
+            },
+            {
+                "title": "Industria Química",
+                "description": "Caracterización de compuesto y materiales poliméricos. Determinación de composición, pureza, avance de reacción, distribución de masa molar absoluta y relativa, distribución de tamaño de partícula y potencial Zeta de compuestos y materiales poliméricos."
+            }
+        ],
+        "labManager": {
+            "name": "M. en C. Salvador López Morales",
+            "description": [
+                "Técnico Académico Titular A de Tiempo CompletoDepartamento de Reología",
+                "Egresado de la Licenciatura en Ingeniería Química en la Facultad de Estudios Superiores Zaragoza de la Universidad Nacional Autónoma de México (UNAM), obtuvo el grado de Maestro en Ciencia e Ingeniería de Materiales, en el Instituto de Investigaciones en Materiales, UNAM.",
+                "Actualmente se desempeña como técnico académico y responsable del Laboratorio de Cromatografía en el IIM, donde también ha impartido Cursos de caracterización de materiales por Cromatografía.",
+                "Como parte de su experiencia en el área de materiales y cromatografía ha asistido a diversos seminario que incluyen: manejo y operación del cromatógrafo de gases, operación del cromatógrafo de gases acoplado a detector de masas, seminario de Cromatografía de permeación en gel (GPC), entre otros."
+            ],
+            "photo": "/lab/profilepics/m en c salvador lopez morales.png"
+        }
+    },
+    {
+        "id": "lab2",
+        "name": "Laboratorio de XPS",
+        "mission": "Analizar las superficies de los materiales, cualitativa y cuantitativamente, para determinar la composición elemental y determinar el estado químico. El estudio se puede hacer en una región específica, un punto, una línea o un área, perfil de profundidad y de resolución angular.",
+        "researchLines": "Realizar análisis superficial de materiales mediante las técnicas: Espectroscopia de Fotoelectrones por Rayos X y Espectroscopia de fotoelectrones por rayos ultravioleta (UPS).",
+        "services": [
+            {
+                "title": "Análisis superficial de materiales",
+                "description": "Análisis químico y elemental para caracterizar materiales amorfos y cristalinos, incluyendo determinación de estado de oxidación, distribución de átomos y espesor de materiales. Realizamos análisis cualitativos y cuantitativos de películas, multicapas e interfases, y evaluamos propiedades electrónicas como bandas de valencia y niveles de Fermi. También investigamos procesos de difusión y segregación sólida, análisis de productos de desgaste y corrosión, pasivación, presencia de vacancias y efecto de átomos dopantes, así como límites de fases en superficies o puntos cuánticos. Además, estudiamos el comportamiento del electrón en su órbita y proporcionamos análisis de parámetros Auger.",
+                "equipment": [
+                    {
+                        "name": "XPS/UPS/ SXI-SEM, tipo Scanning XPS Microprobe, modelo PHI 5000 VersaProbe II",
+                        "range": "Las muestras deben ser sólidas o polvos manipulables con dimensiones mínimas de 100 µm y máximo 1x1 cm y altura de 0.5 cm. Que no se degraden a 80 °C (de presión de vapor baja) y que estén secas (si son higroscópicas). Límite de detección de XPS 100 ppm."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/xps/lab-img-1.JPG",
+            "/lab/gallery/xps/lab-img-2.JPG",
+            "/lab/gallery/xps/lab-img-3.JPG"
+        ],
+        "applications": [
+            {
+                "title": "Aplicación en la Industria Automotriz",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Fís. Lázaro Huerta Arcos",
+            "description": [
+                "Técnico Académico Titular “A” de Tiempo Completo Definitivo, PRIDE nivel D Departamento de Materiales de baja Dimensionalidad",
+                "Egresado de la Facultad de Ciencias de la UNAM, en la cual es profesor titular desde 2002, tiene estudios parciales del Doctorado en Ciencias e Ingeniería de Materiales en el área de materiales complejos. Actualmente es encargado de la operación y mantenimiento del Laboratorio de Análisis de Superficies XPS-UPS, trabajo que desarrolla desde hace 17 años.",
+                "Esta labor creciente se refleja en los productos de colaboración en trabajos de investigación, de los cuales destacan, ser coautor de 60 artículos publicados en revistas internacionales con arbitraje y 70 agradecimientos; ha participado en 120 trabajos presentados en congresos internacionales, 21 nacionales. Además, de trabajar en el Laboratorio, dedicó gran parte de su tiempo a analizarlas y/o capacitar usuarios en análisis espectros XPS, orientar estudiantes en sus trabajos de tesis, servicio social y divulgación. También, ha impartido 14 cursos especializados de técnicas de superficies y, 30 seminarios y conferencias."
+            ],
+            "photo": "/lab/profilepics/fis lazaro huerta arcos-01.png"
+        }
+    },
+    {
+        "id": "lab3",
+        "name": "Laboratorio de Fuerza Atómica",
+        "mission": "Realizar análisis de superficie con la finalidad de observar tamaño de partícula, clusters, mediante técnicas como modo contacto, tunelamiento, litografía entre otros, vía resolución atómica.",
+        "researchLines": [
+            "Se realiza análisis de superficies mediante el Microscopio de Fuerza Atómica (AFM) a través de las técnicas siguientes:",
+            "Modo contacto: (alta resolución)",
+            "Modo no contacto",
+            "Microscopía de fuerza magnética",
+            "Modo contacto intermitente (tapping)",
+            "Efecto túnel",
+            "Densidad electrónica",
+            "Litografía"
+        ],
+        "services": [
+            {
+                "title": "Microscopía de Fuerza Atómica (AFM)",
+                "description": "El servicios de microscopía de fuerza atómica (AFM) permiten un estudio detallado de las superficies de diversos materiales a escala nanométrica, ofreciendo imágenes de alta resolución de la topografía de la muestra. Con el AFM, podemos caracterizar la superficie de muestras sólidas y semisólidas, obtener información morfológica en 3D a partir de imágenes topográficas, e identificar la distribución o homogeneidad de partículas en películas delgadas, entre otros análisis. Además, proporcionamos parámetros superficiales como rugosidad, tamaño y límite de grano.",
+                "equipment": [
+                    {
+                        "name": "EMicroscopio de Fuerza Atómica (AFM), Modelo JSPM-4210 (Equipo principal)",
+                        "range": "Cualquier material siempre que esté libre de humedad y tenga una superficie plana, las muestras deben ser de máximo 1 x 1 cm y un grosor de 3mm."
+                    },
+                    {
+                        "name": "Microscopio de Fuerza Atómica Nanosurf Flex",
+                        "range": "Cualquier material siempre que esté libre de humedad y tenga una superficie plana, las muestras deben ser de máximo 1 x 1 cm y un grosor de 3mm."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/f-atom/lab-img-1.JPG",
+            "/lab/gallery/f-atom/lab-img-2.JPG",
+            "/lab/gallery/f-atom/lab-img-3.JPG",
+            "/lab/gallery/f-atom/lab-img-4.JPG",
+            "/lab/gallery/f-atom/lab-img-5.JPG",
+            "/lab/gallery/f-atom/lab-img-6.JPG",
+            "/lab/gallery/f-atom/lab-img-7.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Ing. Carlos Flores Morales",
+            "description": [
+                "Técnico Académico Asociado C de Tiempo Completo Departamento de Materiales Metálicos y Cerámicos",
+                "Egresado de la Licenciatura de Ingeniería Química en la Facultad de Química de la Universidad Nacional Autónoma de México (UNAM). Actualmente labora en el Instituto de Investigaciones en Materiales, teniendo a su cargo la operación y mantenimiento del laboratorio de Fuerza Atómica y del laboratorio de Transmisión.",
+                "Ha trabajado en el Instituto de Física desempeñándose como encargado del Laboratorio de Microscopía Electrónica de Transmisión.",
+                "Su labor se ve reflejada en agradecimientos y distinciones en libros, tesis, estancias posdoctorales, seminarios, revistas nacionales e internacionales, así como agradecimientos formales de apoyo técnico. También ha participado en trabajos presentados en congresos nacionales e internacionales, de igual manera ha impartido conferencias en distintas Instituciones."
+            ],
+            "photo": "/lab/profilepics/ing carlos flores morales.png"
+        }
+    },
+    {
+        "id": "lab4",
+        "name": "Laboratorio de Pruebas Mecánicas",
+        "mission": "Realizar análisis de las propiedades de materiales a diferentes temperaturas, esfuerzo a la tensión, impacto, compresión, dureza, fatiga y ruptura.",
+        "researchLines": "En el laboratorio se determinan las principales propiedades mecánicas de los materiales que se analizan mediante ensayos de tracción, compresión, flexión, fatiga, impacto, pruebas de impacto Charpy e Izod, etc., sometiendo los materiales a diferentes temperaturas, con la finalidad de simular el tiempo de vida útil de un material.",
+        "services": [
+            {
+                "title": "Pruebas Mecánicas",
+                "description": "El laboratorio de pruebas mecánicas ofrece un conjunto completo de servicios para una amplia gama de materiales, que incluyen cerámicos, metales, materiales compuestos, biomateriales, películas delgadas, madera y polímeros. Mediante pruebas como compresión (500N a 250 kN), dureza Brinell, dureza Rockwell, dureza shore a, c y d, porcentaje de elongación y módulo de Young, porcentaje de elongación en películas plásticas, esfuerzo de extracción de clavos y tornillos de madera, flexión 3 y 4 puntos (500 N a 100 kN), pruebas de impacto DIN EN ISO 179, pruebas Charpy, ASTM D256, ASTM D4812, ISO 180 (Izod), resistencia al rasgado, resistencia tensional coeficiente tensional DIN EN ISO 527, resistencia a la flexión y coeficiente flexural DIN EN ISO 178, resistencia al impacto izod, resistencia al desgarre, ruptura por esfuerzo, tensión (500 N a 250 kN), tensión a temperatura ambiente, y tensión a temperatura elevada, se evalúa exhaustivamente la calidad y las propiedades mecánicas de los materiales. Estos servicios permiten a las empresas recopilar datos precisos para validar sus diseños, cumplir con los estándares de calidad requeridos y garantizar la competitividad de sus productos, demostrando su durabilidad, estabilidad y seguridad frente a los clientes.",
+                "equipment": [
+                    {
+                        "name": "Máquina Universal Instron",
+                        "range": "Las características de las muestras así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba o ensayo."
+                    },
+                    {
+                        "name": "Máquina Universal Shimadzu",
+                        "range": "Las características de las muestras así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba o ensayo."
+                    },
+                    {
+                        "name": "Máquina Para Fatiga Instron",
+                        "range": "Las características de las muestras así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba o ensayo."
+                    },
+                    {
+                        "name": "Durómetro Digital (HRB, HRC y Vicker 30HV)",
+                        "range": "Las características de las muestras así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba o ensayo."
+                    },
+                    {
+                        "name": "Máquina De Impacto Charpy, Marca: Shimadzu",
+                        "range": "Las características de las muestras así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba o ensayo."
+                    },
+                    {
+                        "name": "Máquina de impacto Izod, Marca N/A",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba o ensayo."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/p-mec/lab-img-1.JPG",
+            "/lab/gallery/p-mec/lab-img-2.JPG",
+            "/lab/gallery/p-mec/lab-img-3.JPG",
+            "/lab/gallery/p-mec/lab-img-4.JPG",
+            "/lab/gallery/p-mec/lab-img-5.JPG",
+            "/lab/gallery/p-mec/lab-img-6.JPG",
+            "/lab/gallery/p-mec/lab-img-7.JPG",
+            "/lab/gallery/p-mec/lab-img-8.JPG",
+            "/lab/gallery/p-mec/lab-img-9.JPG",
+            "/lab/gallery/p-mec/lab-img-10.JPG",
+            "/lab/gallery/p-mec/lab-img-11.JPG",
+            "/lab/gallery/p-mec/lab-img-12.JPG",
+            "/lab/gallery/p-mec/lab-img-13.JPG",
+            "/lab/gallery/p-mec/lab-img-14.JPG",
+            "/lab/gallery/p-mec/lab-img-15.JPG",
+            "/lab/gallery/p-mec/lab-img-16.JPG",
+            "/lab/gallery/p-mec/lab-img-17.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "M. en C. Eliezer Hernández Mecinas",
+            "description": [
+                "Técnico Académico Asociado 'C' de Tiempo Completo Departamento de Materiales Metálicos y Cerámicos.",
+                "Ingeniero mecánico, con maestría en Ciencia e Ingeniería de Materiales por el Instituto de Investigaciones en Materiales (IIM) de la UNAM.",
+                "Actualmente es responsable del laboratorio de propiedades mecánicas del Instituto de Investigaciones en Materiales de la UNAM. Es Técnico Académico Asociado 'C' en este instituto desde abril del 2016.",
+                "Ha ofrecido servicio y asesoría a diversas empresas del sector público y privado en la realización de pruebas mecánicas en materiales o productos de la industria.",
+                "Su trabajo se refleja en autorías, coautorías y agradecimientos en trabajos de investigación y/o desarrollo en la industria."
+            ],
+            "photo": "/lab/profilepics/m en c eliezer hernandez mecinas-01.png"
+        }
+    },
+    {
+        "id": "lab5",
+        "name": "Laboratorio de Difracción de Rayos X",
+        "mission": "Realizar análisis de materiales mediante difracción de rayos X, identificación de fases cristalinas y espectrometría, análisis elemental cualitativo a partir del flúor.",
+        "researchLines": [
+            "Caracterización estructural por método de difracción de rayos X.",
+            "Caracterización estructural por método de polvos.",
+            "Análisis de muestras e identificación de fases cristalinas y espectrometría."
+        ],
+        "services": [
+            {
+                "title": "Difracción de rayos-x",
+                "description": "A través de la obtención e interpretación de difractogramas de polvo, se realiza la identificación de fases mediante el matching con bases de datos, permitiendo determinar la distancia interplanar y calcular el ancho a la altura media (FWHM) para la determinación del tamaño promedio del cristalito. Además, se lleva a cabo la determinación del porcentaje de área cristalina frente a amorfa para materiales con mezcla de estas fases, utilizando mediciones para análisis de refinamiento. Para la identificación de estructuras, se emplean recursos como la base de datos PDF-2 2004, Software Difracc Plus 2005, MATCH 1.0 y PDXL2.",
+                "equipment": [
+                    {
+                        "name": "Equipo de difracción Bruker D8",
+                        "range": "Especificaciones de la muestra: material en polvo y se requiere mínimo 1 gramo de muestra y/o piezas pequeñas (3x3x1cm máx.)."
+                    },
+                    {
+                        "name": "Equipo de difracción Rigaku ULTIMA-IV",
+                        "range": "Se requiere mínimo 1 gramo de muestra. Nota: Para realizar el método de polvos.  La condición de la muestra debe estar pulverizada, con un tamaño de partícula menor a los 10μm."
+                    },
+                    {
+                        "name": "Equipo de difracción D500 Siemens",
+                        "range": "Especificaciones de la muestra: material en polvo y se requiere mínimo 1 gramo de muestra y/o piezas pequeñas (3x3x1cm máx.)"
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/dif-rx/lab-img-1.JPG",
+            "/lab/gallery/dif-rx/lab-img-2.JPG",
+            "/lab/gallery/dif-rx/lab-img-3.JPG",
+            "/lab/gallery/dif-rx/lab-img-4.JPG",
+            "/lab/gallery/dif-rx/lab-img-5.JPG",
+            "/lab/gallery/dif-rx/lab-img-6.JPG",
+            "/lab/gallery/dif-rx/lab-img-7.JPG",
+            "/lab/gallery/dif-rx/lab-img-8.JPG",
+            "/lab/gallery/dif-rx/lab-img-9.JPG",
+            "/lab/gallery/dif-rx/lab-img-10.JPG",
+            "/lab/gallery/dif-rx/lab-img-11.JPG",
+            "/lab/gallery/dif-rx/lab-img-12.JPG",
+            "/lab/gallery/dif-rx/lab-img-13.JPG",
+            "/lab/gallery/dif-rx/lab-img-14.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            }
+        ],
+        "labManager": {
+            "name": "M. en C. Adriana Tejeda Cruz",
+            "description": [
+                "Técnico Académico Tiempo Completo Titular 'B' PRIDE 'D' Departamento de Materiales Metálicos y Cerámicos.",
+                "Egresada de Licenciatura en Física por la Universidad Nacional Autónoma de México. Es maestra en Ciencia e Ingeniería de Materiales también por la UNAM.",
+                "Como parte del grupo de Biomateriales presentó 15 trabajos en congresos nacionales e internacionales en el área de materiales, biología celular y física médica, así como un artículo referido y tres inextenso en memorias de congreso.",
+                "Desde 2010 a la fecha labora en el Instituto de Investigaciones en Materiales donde además de realizar los análisis del Laboratorio de Difracción de Rayos X, capacita a estudiantes de maestría y doctorado para el manejo de equipos de DRXP y el uso del software de análisis.",
+                "Por su apoyo en el área de Difracción de Rayos X, ha recibido alrededor de 130 agradecimientos tanto en Tesis de Licenciatura, Maestría y Doctorado de distintas instituciones nacionales (UNAM, IPN, UAN, UABC, UACh entre otras) y de 180 agradecimientos en artículos y trabajos en congresos nacionales e internacionales."
+            ],
+            "photo": "/lab/profilepics/m en c adriana tejeda cruz-01.png"
+        }
+    },
+    {
+        "id": "lab6",
+        "name": "Laboratorio de Resonancia Magnética Nuclear",
+        "mission": "Realizar análisis de resonancia magnética nuclear (RMN) en líquidos y en sólidos.",
+        "researchLines": "Se utiliza el análisis de resonancia magnética nuclear para obtener información detallada de la estructura molecular de las muestras.",
+        "services": [
+            {
+                "title": "Análisis de resonancia magnética nuclear (RMN)",
+                "description": "Se logra la caracterización estructural y análisis de compuestos químicos. Esto incluye la confirmación estructural de compuestos sintéticos y la elucidación de compuestos desconocidos, como productos naturales, así como la determinación conformacional y estudio de interacciones moleculares, como fármacos con proteínas. Se realizan análisis estructurales y estereoquímicos para la caracterización de compuestos con núcleos activos, identificación y cuantificación de compuestos orgánicos, organometálicos, entre otros, con un enfoque en el control de impurezas y calidad en alimentos. Además, se llevan a cabo estudios de sistemas dinámicos y parámetros físicos moleculares, junto con diagnóstico y pronóstico molecular en clínica, incluida la determinación de perfiles metabólicos en biopsias y biofluidos. En el ámbito de la RMN en estado sólido, se exploran aplicaciones adicionales como la determinación de estructuras en sólidos amorfos, estudio de propiedades de materiales y análisis de composición química y presencia de grupos funcionales. La técnica también permite estudios tridimensionales moleculares mediante la determinación de distancias entre átomos marcados selectivamente con isótopos específicos.",
+                "equipment": [
+                    {
+                        "name": "Bruker Avance 400 MHz, Multinuclear, para líquidos (1D y 2D), para sólidos y para geles.",
+                        "range": "En el laboratorio se puede trabajar con materiales orgánicos (productos de partida para polímeros) e inorgánicos (cerámicos principalmente ya que materiales ferromagnéticos no se pueden introducir dentro del magneto). Nota: Una de las principales ventajas del análisis es su carácter no destructivo, por lo que la muestra puede recuperarse si se desea."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/dif-rx/lab-img-1.JPG",
+            "/lab/gallery/dif-rx/lab-img-2.JPG",
+            "/lab/gallery/dif-rx/lab-img-3.JPG",
+            "/lab/gallery/dif-rx/lab-img-4.JPG",
+            "/lab/gallery/dif-rx/lab-img-5.JPG",
+            "/lab/gallery/dif-rx/lab-img-6.JPG",
+            "/lab/gallery/dif-rx/lab-img-7.JPG",
+            "/lab/gallery/dif-rx/lab-img-8.JPG",
+            "/lab/gallery/dif-rx/lab-img-9.JPG",
+            "/lab/gallery/dif-rx/lab-img-10.JPG",
+            "/lab/gallery/dif-rx/lab-img-11.JPG",
+            "/lab/gallery/dif-rx/lab-img-12.JPG",
+            "/lab/gallery/dif-rx/lab-img-13.JPG",
+            "/lab/gallery/dif-rx/lab-img-14.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "M. en C. Q. Gerardo Cedillo Valverde",
+            "description": [
+                "Técnico Académico Titular 'A' de Tiempo Completo",
+                "Ingeniero Químico egresado de la Facultad de Estudios Superiores Zaragoza, Maestro en Ciencias Químicas por parte de la Facultad de Química, ambas pertenecientes a la Universidad Nacional Autónoma de México (UNAM). Posee un Diplomado en resonancia magnética nuclear (RMN) por parte del Instituto de Química de la UNAM, así como 75 cursos, seminarios, simposios y talleres de actualización y capacitación.",
+                "Continuamente imparte cursos de RMN, capacita estudiantes en la adquisición, procesamiento e interpretación de espectros, participa en diferentes proyectos de investigación, dirige tesis, servicio social, estancias de investigación y también participa en asesorías industriales. Su labor ha sido reconocida como agradecimientos en 176 tesis, 114 congresos nacionales e internacionales y 162 artículos con arbitraje internacional."
+            ],
+            "photo": "/lab/profilepics/m en c q gerardo cedillo valverde-01.png"
+        }
+    },
+    {
+        "id": "lab7",
+        "name": "Laboratorio Universitario de Microscopía Electrónica (LUME)",
+        "mission": "El LUME tiene como objetivo científico la caracterización estructural a nivel micrométrico y nanométrico de los materiales, así como realizar estudios de análisis estructural por difracción de electrones, análisis químico por fluorescencia de rayos X, análisis de morfología y microestructura por Microscopía Electrónica.",
+        "researchLines": "Caracterización microestructural de materiales, análisis químico por fluorescencia de Rayos X, análisis de morfología y microestructura por microscopía electrónica.",
+        "services": [
+            {
+                "title": "Microscopía Analítica de Alta Resolución con Detección de Química Elemental",
+                "description": "Nuestro microscopio analítico de alta resolución está equipado con un Corrector de Aberración Esférica (Cs) en modo STEM, lo que proporciona una resolución excepcional de 82 picómetros. En modo HAADF, este instrumento permite diferenciar la química elemental a través de contrastes, mientras que su detector EDS posibilita la medición semicuantitativa de la química elemental. Con este equipo, los usuarios pueden observar la estructura atómica de los materiales y medir la distribución de átomos mediante técnicas de campo claro o campo oscuro. Además, ofrece capacidades avanzadas como la difracción de área selecta y nano difracción. La optimización de la distancia entre el detector HAADF y BF permite la obtención simultánea de imágenes en modo STEM-HAADF, lo que facilita la estimación directa de la posición de los sitios de las columnas atómicas.",
+                "equipment": [
+                    {
+                        "name": "Microscopio Electrónico de Transmisión (TEM) JEOL JEM-ARM200F",
+                        "range": "El empleo de este modo permite visualizar sitios de columnas atómicas de elementos ligeros en muestras cristalinas en materiales que sean menores a un espesor de 100 nanómetros y que no contengan algún solvente ni humedades."
+                    }
+                ]
+            },
+            {
+                "title": "Microscopía Electrónica de Barrido de Alta Resolución (SEM)",
+                "description": "Nuestro microscopio electrónico de barrido (SEM) está equipado con un cañón de emisión de campo tipo Schottky, lo que permite la obtención de imágenes con una alta resolución espacial y optimiza su funcionalidad analítica. Además, cuenta con un lente objetivo Semi-In Lens que permite alcanzar una ultra alta resolución. Este equipo está equipado con 4 detectores para la obtención de imágenes: dos detectores de electrones secundarios (LEI y SEI) colocados dentro y fuera de la lente objetiva, respectivamente, y dos detectores de electrones retrodispersados (LABE y RIBE) para observar la distribución del material y de los elementos en la superficie. Con estas capacidades, el SEM permite realizar la detección de impurezas, determinar fronteras de grano y observar la distribución de los elementos en la superficie con gran detalle y precisión.",
+                "equipment": [
+                    {
+                        "name": "Microscopio Electrónico de Barrido (SEM) JEOL JSM-7600F",
+                        "range": "Para realizar análisis químico por medio de la técnica de espectroscopía por barrido se requiere que las muestras no contengan humedad ni solventes y el tamaño puede ser relativamente grande no mayor a 15 cm."
+                    }
+                ]
+            },
+            {
+                "title": "Preparación Avanzada de Muestras con Haz de Iones Focalizado (FIB)",
+                "description": "Nuestra unidad de micro maquinado con Haz de Iones Focalizado (FIB) es una herramienta de vanguardia para la preparación de muestras destinadas a la microscopía electrónica de transmisión (TEM) y microscopía electrónica de barrido (SEM). Equipado con una fuente de Iones de Galio (Ga), este FIB puede operar en un rango de voltajes de aceleración desde 5 kV hasta 30 kV, ofreciendo una amplia flexibilidad en la preparación de muestras. Además, este dispositivo permite realizar depósitos de películas delgadas de Pt para diversas aplicaciones. Con nuestra unidad de FIB, los usuarios pueden preparar muestras tanto para microscopía de transmisión como para microscopía de barrido, estudiar superficies y recuperar electrones secundarios, así como llevar a cabo procesos de micro y nano fabricación con precisión y eficiencia.",
+                "equipment": [
+                    {
+                        "name": "Haz de Iones Focalizado (FIB) Jeol JEM-9320FIB",
+                        "range": "Se requiere que las muestras no contengan humedad ni solventes y el tamaño puede ser relativamente grande no mayor a 15 cm."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/univ-me/lab-img-1.JPG",
+            "/lab/gallery/univ-me/lab-img-2.JPG",
+            "/lab/gallery/univ-me/lab-img-3.JPG",
+            "/lab/gallery/univ-me/lab-img-4.JPG",
+            "/lab/gallery/univ-me/lab-img-5.JPG",
+            "/lab/gallery/univ-me/lab-img-6.JPG",
+            "/lab/gallery/univ-me/lab-img-7.JPG",
+            "/lab/gallery/univ-me/lab-img-8.JPG",
+            "/lab/gallery/univ-me/lab-img-9.JPG",
+            "/lab/gallery/univ-me/lab-img-10.JPG",
+            "/lab/gallery/univ-me/lab-img-11.JPG",
+            "/lab/gallery/univ-me/lab-img-12.JPG",
+            "/lab/gallery/univ-me/lab-img-13.JPG",
+            "/lab/gallery/univ-me/lab-img-14.JPG",
+            "/lab/gallery/univ-me/lab-img-15.JPG",
+            "/lab/gallery/univ-me/lab-img-16.JPG",
+            "/lab/gallery/univ-me/lab-img-17.JPG",
+            "/lab/gallery/univ-me/lab-img-18.JPG",
+            "/lab/gallery/univ-me/lab-img-19.JPG",
+            "/lab/gallery/univ-me/lab-img-20.JPG",
+            "/lab/gallery/univ-me/lab-img-21.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Fis. Josué Esaú Romero Ibarrae",
+            "description": [
+                "Técnico Académico Asociado 'C' de Tiempo Completo PRIDE B Departamento de Materiales Metálicos y Cerámicos",
+                "Físico egresado de la Facultad de Ciencias de la UNAM. Especialista en Microscopía Electrónica. Participó como responsable de los laboratorios microscopía electrónica de Barrido (SEM) y de microscopia de sonda de barrido (SPM), en la Laboratorio Avanzado de Nanoscopía Electrónica (LANE) del CINVESTAV, Hasta el 2014 donde se incorpora a trabajar en el Laboratorio Universitario de Microscopía Electrónica (LUME). Encargado de la operación, mantenimiento y asesoramiento de los equipos de Microscopía Electrónica de Transmisión. Además, es corresponsable en Microscopía por Iones Focalizados, así como también participa en los análisis, operación y asesoría en Microscopía Electrónica de Barrido. Dentro de los laboratorios, busca apoyar, asesorar e impulsar el trabajo en su área, teniendo como producción artículos y trabajos como autor y coautoría en revistas de alto impacto."
+            ],
+            "photo": "/lab/profilepics/josue esau romero ibarra-01.png"
+        }
+    },
+    {
+        "id": "lab8",
+        "name": "Laboratorio de Reología y Caracterización Fisicoquímica del Petróleo",
+        "mission": "Realizar la caracterización fisicoquímica de fluidos del yacimiento y compatibilidad de aguas, así como también la caracterización reológica de diversos materiales. Este laboratorio brinda apoyo y servicio a estudiantes, técnicos académicos, investigadores y a usuarios externos de la industria por medio de la secretaria de vinculación.",
+        "researchLines": "En el laboratorio se determina la caracterización fisicoquímica y la compatibilidad de aguas; así como también la caracterización reológica de diversos materiales y de fluidos del yacimiento (desde aceites ligeros a pesados) proporcionando información acerca del comportamiento de flujo que tendrá el material.",
+        "services": [
+            {
+                "title": "Servicios de Caracterización Fisicoquímica de Fluidos del Yacimiento",
+                "description": "Servicios de caracterización fisicoquímica de fluidos del yacimiento que incluyen la identificación de ácidos grasos en muestras de petróleo, así como la determinación de la composición de hidrocarburos. Además, llevamos a cabo la determinación de la masa molecular en muestras de petróleo ligero y pesado, proporcionando información esencial sobre su estructura y comportamiento. Asimismo, ofrecemos servicios para evaluar la compatibilidad entre agua de mar y agua de formación, junto con la determinación del contenido de sedimentos en petróleo crudo, lo que contribuye a comprender la estabilidad de las mezclas y prevenir problemas operativos en el yacimiento.",
+                "equipment": [
+                    {
+                        "name": "Cromatógrafo de Gases Thermo Scientific Modelo Trace 1310",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "Osmómetro de Presión de Vapor K-7000 Knauer",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "Horno de Secado por Convección Forzada Binder FD115",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "TITULADOR DE PH, ORION STAR T910",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "VISCOSÍMETRO STABINGER SVM 3000 ANTON PAAR",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "MICROSCOPIO AXIO SCOPE A1 ZEISS",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "Viscosímetro Rolling Ball, RVB 1000 Vinci",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    }
+                ]
+            },
+            {
+                "title": "Servicios de Compatibilidad de Aguas",
+                "description": "Los servicios de compatibilidad de aguas se centran en la evaluación detallada de la interacción entre el agua de mar y el agua de formación, así como su interacción con el petróleo. Utilizando una centrífuga con calentamiento automático, llevamos a cabo pruebas exhaustivas para determinar la compatibilidad entre estos tipos de agua, al mismo tiempo que evaluamos la interacción agua-petróleo. Además, empleamos un horno de secado por convección forzada para evaluar la compatibilidad y determinar el contenido de sedimentos presentes en muestras de petróleo crudo mediante el método de filtración por membrana, siguiendo las normativas ASTM D 4007 y ASTM D 4807, respectivamente. Estas pruebas son fundamentales para comprender la dinámica de los fluidos en el yacimiento y optimizar las operaciones de producción.",
+                "equipment": [
+                    {
+                        "name": "VOLUMETRIC KF TRITATOR V30, METTLER TOLEDO",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "Horno de Secado por Convección Forzada Binder FD115",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "CENTRÍFUGA CON CALENTAMIENTO AUTOMÁTICO KOEHLER INSTRUMENT",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    }
+                ]
+            },
+            {
+                "title": "Servicios de Caracterización Reológica",
+                "description": "Los servicios de caracterización reológica ofrecen un análisis exhaustivo de las propiedades de flujo y deformación de una amplia gama de muestras. Utilizando equipos de vanguardia como el Reómetro ARES-G2 de TA Instruments y el Reómetro Discovery DHR-3 de TA Instruments, llevamos a cabo la caracterización reológica y la medición de esfuerzos normales y de corte de manera independiente, así como la caracterización reológica de fluidos a alta presión y la medición de la tensión interfacial en interfaces líquido-aire y líquido-líquido. Además, empleamos el Viscosímetro Stabinger SVM 3000 Anton Paar para determinar la viscosidad y las propiedades viscoelásticas en una amplia variedad de muestras, incluyendo lubricantes, aceites minerales, aceites vegetales, diésel, biodiésel, gasolina, entre otros. Complementando estos servicios, nuestro microscopio Axio Scope A1 Zeiss se utiliza para identificar muestras de petróleo emulsionado, proporcionando una comprensión detallada de la estructura y composición de las muestras. Estos servicios son esenciales para optimizar el diseño y la producción en la industria petrolera, garantizando un rendimiento óptimo y una calidad consistente de los productos.",
+                "equipment": [
+                    {
+                        "name": "Reómetro ARES-G2 de TA Instruments",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    },
+                    {
+                        "name": "Reómetro Discovery DHR-3 de TA Instruments",
+                        "range": "Las características de las muestras, así como la cantidad que se requiere, depende de las especificaciones estipuladas por la norma en cada prueba."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/reologia/lab-img-1.JPG",
+            "/lab/gallery/reologia/lab-img-2.JPG",
+            "/lab/gallery/reologia/lab-img-3.JPG",
+            "/lab/gallery/reologia/lab-img-4.JPG",
+            "/lab/gallery/reologia/lab-img-5.JPG",
+            "/lab/gallery/reologia/lab-img-6.JPG",
+            "/lab/gallery/reologia/lab-img-7.JPG",
+            "/lab/gallery/reologia/lab-img-8.JPG",
+            "/lab/gallery/reologia/lab-img-9.JPG",
+            "/lab/gallery/reologia/lab-img-10.JPG",
+            "/lab/gallery/reologia/lab-img-11.JPG",
+            "/lab/gallery/reologia/lab-img-12.JPG",
+            "/lab/gallery/reologia/lab-img-13.JPG",
+            "/lab/gallery/reologia/lab-img-14.JPG",
+            "/lab/gallery/reologia/lab-img-15.JPG"
+        ],
+        "applications": [
+            {
+                "title": "no tiene al parecer",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "I.Q. Maricela Zapata Arroyo",
+            "description": [
+                "Técnico académico Asociado 'C' de Tiempo Completo Departamento de Reología y Mecánica de Materiales",
+                "Ingeniero Químico egresada de la Facultad de Química UNAM, cuenta con un diplomado en el Manejo de la Producción de Hidrocarburos en Superficie por parte de la Facultad de Ingeniería de la UNAM.",
+                "Actualmente es responsable del Laboratorio de Reología y Caracterización Fisicoquímica del Petróleo del Instituto de Investigaciones en Materiales de la UNAM. Es Técnico Académico Asociado “C” en este instituto desde octubre del 2019 y forma parte del comité editorial de la Revista Materiales Avanzados del IIM.",
+                "Ha ofrecido servicio y asesoría a diversas empresas del sector público y privado en la caracterización fisicoquímica y reológica de diversos fluidos y materiales.",
+                "Su labor se ve reflejada en colaboraciones con Investigadores, estudiantes, y técnicos académicos, así como agradecimientos en trabajos de investigación y/o desarrollo en la industria."
+            ],
+            "photo": "/lab/profilepics/mzapata.png"
+        }
+    },
+    {
+        "id": "lab9",
+        "name": "Laboratorio de Nanofibras para ingeniería de tejidos",
+        "mission": "no hay",
+        "researchLines": "no hay",
+        "services": [],
+        "gallery": [
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            }
+        ],
+        "labManager": {
+            "name": "Dr. John Doe",
+            "description": "johndoe@laboratory.com",
+            "photo": "https://via.placeholder.com/150"
+        }
+    },
+    {
+        "id": "lab10",
+        "name": "Laboratorio de Análisis Químico Elemental",
+        "mission": "Realizar análisis químico elemental para la identificación y determinación del tipo de muestras mediante la curva de calibración del elemento o grupos de elementos de interés.",
+        "researchLines": "El laboratorio ofrece servicios de análisis químico elemental semicualitativo y cuantitativo monoelemental o multielemental en diferentes tipos de muestras de interés",
+        "services": [
+            {
+                "title": "Análisis elemental cuantitativo",
+                "description": "Se realiza el análisis elemental cuantitativo mediante curva de calibración del elemento de interés o grupos de elementos (multielemento) como Ag, Al, As, B, Ba, Be, Bi, Ca, Cd, Co, Cr, Cu, Fe, K, Li, Mg, Mn, Mo, Na, Ni, P, Pb, S, Sb, Se, Si, sn, Sr, Ti, V, W, Zn, Zr en concentraciones a nivel trazas en ug/Kg.",
+                "equipment": [
+                    {
+                        "name": "Espectrómetro de fluorescencia de rayos X, marca: RIGAKU NEXQC+",
+                        "range": "Se requiere que la muestra sea líquida, en caso de ser sólida se necesita acondicionar antes de que entre al equipo, generalmente con una digestión de la misma en una mezcla de ácidos inorgánicos o de ser necesario debe estar pulverizada la muestra."
+                    }
+                ]
+            },
+            {
+                "title": "Análisis monoelemental o multielemental",
+                "description": "Mediante la espectrometría de masas con fuente de plasma acoplamiento inductivo (ICP-MS) es posible realizar un análisis monoelemental o multielemental de manera simultáneamente, obteniendo información de alrededor de un 50 % de los elementos de la tabla periódica, con una excelente precisión y exactitud en una amplia variedad de muestras.",
+                "equipment": [
+                    {
+                        "name": "Espectrómetro de masas con fuente de plasma acoplado inductivamente, marca: THERMO SCIENTIFIC ICAP Q, ICP-MS",
+                        "range": "Se requiere que la muestra sea líquida, en caso de ser sólida se necesita acondicionar antes de que entre al equipo, generalmente con una digestión de la misma en una mezcla de ácidos inorgánicos o de ser necesario debe estar pulverizada la muestra."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/aqe/lab-img-1.JPG",
+            "/lab/gallery/aqe/lab-img-2.JPG",
+            "/lab/gallery/aqe/lab-img-3.JPG",
+            "/lab/gallery/aqe/lab-img-4.JPG",
+            "/lab/gallery/aqe/lab-img-5.JPG",
+            "/lab/gallery/aqe/lab-img-6.JPG",
+            "/lab/gallery/aqe/lab-img-7.JPG",
+            "/lab/gallery/aqe/lab-img-8.JPG",
+            "/lab/gallery/aqe/lab-img-9.JPG",
+            "/lab/gallery/aqe/lab-img-10.JPG",
+            "/lab/gallery/aqe/lab-img-11.JPG",
+            "/lab/gallery/aqe/lab-img-12.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "M. en C. Francisca García López",
+            "description": [
+                "Técnico Académico Asociado 'C' de Tiempo CompletoLaboratorio de Espectroscopía",
+                "Egresada de la Licenciatura en Química en la Facultad de Estudios Superiores Cuautitlán de la Universidad Nacional Autónoma de México (UNAM), obtuvo el grado de Maestra en Ciencias en el Posgrado de Ciencias de la Tierra-UNAM. De 2011 a 2013, se desempeñó como químico analista en la FES-Acatlán, en la Unidad de Investigación Multidisciplinaria en el Departamento de Tecnología Ambiental, en dicha dependencia Universitaria, desarrolló sus labores en el Sistema de Gestión de Calidad ISO/IEC17025.",
+                "Como parte de su experiencia académica, ha participado en cursos y seminarios sobre diversas técnicas analíticas que incluyen: Espectrometría de Masas (ICP-MS), Espectroscopía de Absorción Atómica, Fluorescencia de Rayos X, así como Técnicas Cromatográficas, entre otras.",
+                "Su labor se ve reflejada en agradecimientos en trabajos de investigación tales como tesis de licenciatura y posgrado, revistas y memorias de congresos, entre otros."
+            ],
+            "phone": "(123) 456-7890",
+            "photo": "/lab/profilepics/m en c francisca garcia lopez-01.png"
+        }
+    },
+    {
+        "id": "lab11",
+        "name": "Laboratorio de Procesamiento de Polímeros",
+        "mission": "Investigación, desarrollo y estudio de nuevas formulaciones para explorar las relaciones entre estructura y propiedades físicas, especialmente materiales poliméricos nanocompuestos.",
+        "researchLines": "El laboratorio de procesamiento de polímeros brinda servicios a la investigación de la Universidad, así como servicios para la industria de transformación de plástico en México, realizando investigaciones en el desarrollo de nanocompuestos poliméricos especialmente en la aplicación de ultrasonido en la fase de procesamiento.",
+        "services": [
+            {
+                "title": "Investigación en el desarrollo de nanocompuestos poliméricos",
+                "description": "Investigación en el desarrollo y procesamiento de nanocompuestos poliméricos, así como en la creación de materiales compuestos basados en polímeros termoplásticos y termofijos, reforzados con fibras y cargas. Nuestros expertos se dedican al diseño y la formulación de mezclas de polímeros, asegurando propiedades óptimas para diversas aplicaciones. Además, realizamos una exhaustiva caracterización física y química de los polímeros para garantizar su calidad y desempeño. Empleando tecnologías innovadoras, como el ultrasonido, no solo facilitamos el procesamiento de los polímeros, sino que también optimizamos las reacciones de injerto sobre polímeros termoplásticos, mejorando así sus propiedades y funcionalidades. Con un enfoque centrado en la innovación y la calidad.",
+                "equipment": [
+                    {
+                        "name": "Extrusor de doble husillo escala laboratorio (producción de 1 kg/hr).",
+                        "range": "No aplica."
+                    },
+                    {
+                        "name": "Extrusor de doble husillo escala industrial (producción de 300 kg/hr).",
+                        "range": "No aplica."
+                    },
+                    {
+                        "name": "Extrusor monohusillo con aditamento cabezal mezclador estático (desarrollado en el Instituto de Investigaciones en Materiales).",
+                        "range": "No aplica."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Dr. Antonio Sánchez Solís",
+            "description": [
+                "Técnico Académico Titular 'C' de Tiempo Completo PRIDE: 'D'",
+                "El Dr. Antonio Sánchez estudió la licenciatura en Ingeniería Química, la maestría en Física de Materiales y el doctorado en Ciencias Químicas en la UNAM, después realizó una estancia posdoctoral en el Industrial Materials Institute del National Research Council of Canada. Se especializa en la investigación, desarrollo y procesamiento de nanocompuestos polímeros especialmente en la aplicación de ultrasonido en la fase de procesamiento. Ha presentado trabajos de investigación académica en más de 100 foros, nacionales e internacionales, tiene una gran vinculación con la industria de transformación del sector plástico y posee alrededor de 18 patentes."
+            ],
+            "photo": "/lab/profilepics/dr antonio sanchez solis-01.png"
+        }
+    },
+    {
+        "id": "lab12",
+        "name": "Laboratorio de Análisis Térmico",
+        "mission": "Realizar la caracterización térmica de los materiales mediante Análisis Termogravimétrico (TGA), Calorimetría Diferencial de Barrido (DSC), Análisis Termomecánico (TMA), Análisis Dinámico Mecánico (DMA) y Análisis Térmico Simultáneo (SDT).",
+        "researchLines": "Análisis Termogravimétrico para determinar la estabilidad térmica y los cambios de peso en función de la temperatura de diversos materiales. Calorimetría Diferencial de Barrido en materiales para determinar transiciones endotérmicas y exotérmicas, por ejemplo: Tg, cristalizaciones, fusiones y oxidaciones. Análisis termo-mecánico para medir el desplazamiento de la muestra (crecimiento, encogimiento, movimiento, etc.) en función de la temperatura, el tiempo y la fuerza aplicada. El Análisis Térmico Simultáneo mide tanto el flujo de calor (calorimetría diferencial de barrido) como los cambios de peso (termogravimetría) en un material en función de la temperatura o el tiempo en una atmósfera controlada.",
+        "services": [
+            {
+                "title": "Calorimetría diferencial de barrido DCS",
+                "description": "Se realiza el análisis de los cambios del flujo de calor en función de la temperatura durante un programa de calentamiento sinusoidal o líneal.",
+                "equipment": [
+                    {
+                        "name": "Equipo DSC Q100 de TA Instruments: Rango de Trabajo U+2013 170°C a 450°C",
+                        "range": "La muestra puede ser sólida o líquida y debe estar contenida en viales o tubos de ensayo cerrados o cualquier recipiente que los pueda contener. El tamaño de la muestra debe ser aproximadamente menor a 1 g. dependiendo de la densidad o el volumen de la muestra. Se toma en cuenta que al momento de preparar la muestra puede ser sometida a presión mecánica al cerrar las charolas donde se coloca la muestra."
+                    },
+                    {
+                        "name": "Equipo DSC 2910 de TA Instruments Rango de Trabajo U+2013 70°C a 450°C",
+                        "range": "La muestra puede ser sólida o líquida y debe estar contenida en viales o tubos de ensayo cerrados o cualquier recipiente que los pueda contener. El tamaño de la muestra debe ser aproximadamente menor a 1 g. dependiendo de la densidad o el volumen de la muestra. Se toma en cuenta que al momento de preparar la muestra puede ser sometida a presión mecánica al cerrar las charolas donde se coloca la muestra."
+                    },
+                    {
+                        "name": "Equipo DSC Q2000 de TA Instruments Rango de Trabajo U+2013 90°C a 450°C",
+                        "range": "La muestra puede ser sólida o líquida y debe estar contenida en viales o tubos de ensayo cerrados o cualquier recipiente que los pueda contener. El tamaño de la muestra debe ser aproximadamente menor a 1 g. dependiendo de la densidad o el volumen de la muestra. Se debe tomar en cuenta que al momento de preparar la muestra puede ser sometida a presión mecánica al cerrar las charolas donde se coloca la muestra."
+                    }
+                ]
+            },
+            {
+                "title": "Análisis Termogravimétrico",
+                "description": "Se realiza el análisis de los cambios la masa en función de la temperatura durante un programa de calentamiento variable o líneal.",
+                "equipment": [
+                    {
+                        "name": "Equipo TGA Q5000IR de TA Instrument",
+                        "range": "La muestra puede ser sólida o líquida y debe estar contenida en viales o tubos de ensayo cerrados o cualquier recipiente que los pueda contener. El tamaño de la muestra debe ser aproximadamente menor a 1 g.  Se debe tener cuidado si la muestra es susceptible a la temperatura del ambiente en el caso de muestras higroscópicas se solicita pedir el análisis en ciclos."
+                    },
+                    {
+                        "name": "Equipo TGA 2950 de TA Instruments",
+                        "range": "La muestra puede ser sólida o líquida y debe estar contenida en viales o tubos de ensayo cerrados o cualquier recipiente que los pueda contener. El tamaño de la muestra debe ser aproximadamente menor a 1 g. dependiendo de la densidad o volumen de la muestra. Se debe tener cuidado si la muestra es susceptible a la temperatura del ambiente en el caso de muestras higroscópicas se solicita pedir el análisis en ciclos."
+                    }
+                ]
+            },
+            {
+                "title": "Análisis Termodinámico",
+                "description": "Se realiza el análisis del cambio de dimensiones en función de la temperatura.",
+                "equipment": [
+                    {
+                        "name": "Equipo TMAQ400 de TA Instruments.",
+                        "range": "La muestra tiene que tener máximo 5 mm (L) x 5 mm (A) x 1.0 mm (A) y estar lisa de sus caras para poder ser analizada en el equipo."
+                    },
+                    {
+                        "name": "Equipo TMA 2940 de TA Instruments.",
+                        "range": "La muestra tiene que tener máximo 5 mm (L) x 5 mm (A) x 1.0 mm (A) y estar lisa de sus caras para poder ser analizada en el equipo."
+                    }
+                ]
+            },
+            {
+                "title": "Análisis Térmico Simultáneo DSC TGA",
+                "description": "Permite analizar de manera simultánea el cambio en la masa y flujo de calor de una muestra en función de la temperatura. Permite obtener TGA y DSC al mismo tiempo. (DSC de temperatura ambiente a 1500°C).",
+                "equipment": [
+                    {
+                        "name": "Equipo SDT Q600 de TA Instruments",
+                        "range": "La muestra puede ser sólida o líquida y debe estar contenida en viales o tubos de ensayo cerrados o cualquier recipiente que los pueda contener. El tamaño de la muestra debe ser aproximadamente menor a 1 g. dependiendo de la densidad o el volumen de la muestra. Nota: La muestra se coloca en una charola de alúmina de aproximadamente 0.6 cm de diámetro, se debe verificar que la muestra no reaccione con la alúmina, de lo contrario se requerirá la charola de platino."
+                    }
+                ]
+            },
+            {
+                "title": "Análisis Dinámico Mecánico",
+                "description": "Técnica utilizada para medir las propiedades mecánicas y viscoelásticas de los materiales. Controla rampas de calentamiento, isotermas, frecuencia de deformación, amplitud de deformación y fuerza de deformación dependiendo de la finalidad del estudio.",
+                "equipment": [
+                    {
+                        "name": "Equipo DMA Q800 de TA Instruments",
+                        "range": "Técnica utilizada para medir las propiedades mecánicas y viscoelásticas de los materiales. Controla rampas de calentamiento, isotermas, frecuencia de deformación, amplitud de deformación y fuerza de deformación dependiendo de la finalidad del estudio."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/a-term/lab-img-1.JPG",
+            "/lab/gallery/a-term/lab-img-2.JPG",
+            "/lab/gallery/a-term/lab-img-3.JPG",
+            "/lab/gallery/a-term/lab-img-4.JPG",
+            "/lab/gallery/a-term/lab-img-5.JPG",
+            "/lab/gallery/a-term/lab-img-6.JPG",
+            "/lab/gallery/a-term/lab-img-7.JPG",
+            "/lab/gallery/a-term/lab-img-8.JPG",
+            "/lab/gallery/a-term/lab-img-9.JPG",
+            "/lab/gallery/a-term/lab-img-10.JPG",
+            "/lab/gallery/a-term/lab-img-11.JPG",
+            "/lab/gallery/a-term/lab-img-12.JPG",
+            "/lab/gallery/a-term/lab-img-14.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Ing. Karla Eriseth Reyes Morales",
+            "description": [
+                "Técnico Académico Asociado C, de Tiempo Completo, PRIDE nivel B Departamento de Polímeros",
+                "Ingeniera egresada de la Escuela Tecnológica del Estado de México. Actualmente labora en el Instituto de Investigaciones en Materiales, en el laboratorio de Análisis Térmico, desde hace 3 años. Teniendo a su cargo la operación y mantenimiento de los equipos del laboratorio.",
+                "Su labor se ve reflejada en colaboraciones con Investigadores, estudiantes, y técnicos académicos de los cuales ella destaca por ser coautor en artículos en revistas internacionales. Ha participado en trabajos presentados en congresos nacionales e internacionales.",
+                "Parte de sus actividades es orientar a los usuarios al uso e interpretación de curvas termogravimétricas mediante el software Universal Analysis para sus trabajos de tesis, servicio social, estancias de investigación, y divulgación. También ha impartido asesorías y pláticas demostrativas contribuyendo con el logro de los objetivos del Instituto."
+            ],
+            "photo": "/lab/profilepics/ing karla eriseth reyes morales-01.png"
+        }
+    },
+    {
+        "id": "lab13",
+        "name": "Laboratorio de Espectroscopía",
+        "mission": "Realizar análisis para la caracterización de materiales orgánicos en general. Se puede determinar cinética de reacción, determinación de pureza de materiales. Caracterización de materiales por espectroscopia de ultravioleta visible (UV-Vis).",
+        "researchLines": [
+            "Caracterización Espectroscópica General.",
+            "Identificación Química de compuestos orgánicos e inorgánicos.",
+            "Identificación de materias primas para la elaboración de polímeros.",
+            "Análisis de muestras e identificación de compuestos químicos."
+        ],
+        "services": [
+            {
+                "title": "Análisis Integral de Materiales Orgánicos e Inorgánicos",
+                "description": "Análisis integral de materiales abarca la caracterización y la identificación precisa de compuestos orgánicos e inorgánicos mediante la determinación e identificación de sus grupos funcionales, lo que proporciona una comprensión profunda de su estructura química. Realizamos la determinación de pureza y estudios cinéticos para evaluar la estabilidad y reactividad de los materiales. Además, nos especializamos en la caracterización de materiales de tipo orgánico, utilizando técnicas como la determinación de reflectancia difusa para analizar propiedades ópticas. Nuestro laboratorio acepta una variedad de muestras, incluyendo sólidos (polvos finos), líquidos y gases, principalmente compuestos orgánicos, con una cantidad de muestra necesaria de 50 a 100 mg para realizar análisis detallados y precisos.",
+                "equipment": [
+                    {
+                        "name": "Espectrofotómetro de IR por Transformada de Fourier (FTIR).",
+                        "range": "Se pueden analizar muestras de sólidos (polvos finos), líquidos y gases (bajo ciertas condiciones), compuestos orgánicos principalmente. Cantidad de muestra necesaria de 50 a 100 mg."
+                    },
+                    {
+                        "name": "Espectrofotómetro de IR, marca Thermo Scientific modelo Nicolet",
+                        "range": "Se pueden analizar muestras de sólidos (polvos finos), líquidos y gases (bajo ciertas condiciones), compuestos orgánicos principalmente. Cantidad de muestra necesaria de 50 a 100 mg."
+                    }
+                ]
+            },
+            {
+                "title": "Caracterización Avanzada de Compuestos Orgánicos e Inorgánicos",
+                "description": "Caracterización y análisis detallado de compuestos orgánicos e inorgánicos. Realizamos la determinación de grupos funcionales en moléculas orgánicas, así como la elucidación de estructuras, incluyendo la presencia de insaturación y heteroátomos. Además, llevamos a cabo la determinación de impurezas y análisis de muestras bioquímicas. También nos especializamos en la determinación de metales en compuestos de coordinación y el análisis de semiconductores. Con nuestras técnicas avanzadas, realizamos medidas de color, determinación cuantitativa de analitos y seguimiento de la cinética de procesos químicos y bioquímicos. Además, ofrecemos servicios específicos como la determinación de iones metálicos y complejos de elementos de transición, análisis de compuestos orgánicos con enlaces conjugados heterocíclicos, y la determinación de propiedades ópticas de materiales. Para un análisis exhaustivo, también determinamos el coeficiente de extinción molar de compuestos en solución, sólidos y películas delgadas.",
+                "equipment": [
+                    {
+                        "name": "Espectrofotómetros de UV-VIS.",
+                        "range": "Se pueden analizar sólidos solubles, compuestos orgánicos e inorgánicos. Cantidad de muestra necesaria de 50 a 100 mg."
+                    },
+                    {
+                        "name": "Espectrofotómetro de UV - VIS, marca Variant modelo Cary 397",
+                        "range": "Se pueden analizar sólidos solubles, compuestos orgánicos e inorgánicos. Cantidad de muestra necesaria de 50 a 100 mg."
+                    },
+                    {
+                        "name": "Espectrofotómetro de UV - VIS, marca Variant Modelo Cary 400",
+                        "range": "Se pueden analizar sólidos solubles, compuestos orgánicos e inorgánicos. Cantidad de muestra necesaria de 50 a 100 mg."
+                    },
+                    {
+                        "name": "Espectrofotómetro de UV - VIS, marca Shimatzu modelo UV 360",
+                        "range": "Se pueden analizar sólidos solubles, compuestos orgánicos e inorgánicos. Cantidad de muestra necesaria de 50 a 100 mg."
+                    }
+                ]
+            },
+            {
+                "title": "Simulación Acelerada de Envejecimiento con Cámara UV QUV",
+                "description": "Nuestra cámara de envejecimiento acelerado UV QUV ofrece una manera eficiente y precisa de reproducir el daño causado por la luz solar, la lluvia y el rocío en muestras materiales. Siguiendo rigurosas normas establecidas, esta cámara puede reproducir en pocos días o semanas el deterioro que normalmente ocurriría en meses o incluso años a la intemperie. Con esta tecnología avanzada, nuestros clientes pueden evaluar rápidamente el rendimiento y la durabilidad de sus productos bajo condiciones climáticas extremas, lo que les permite tomar decisiones informadas sobre diseño y fabricación.",
+                "equipment": [
+                    {
+                        "name": "Cámara de Intemperismo Q-PANEL QUV.",
+                        "range": "Se pueden analizar películas, recubrimientos, pinturas, entre otros. La muestra requiere presentarse en una placa de 30 cm de largo x 7.5 cm de ancho, y el espesor máximo es de 1 cm."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "/lab/gallery/espec/lab-img-1.JPG",
+            "/lab/gallery/espec/lab-img-2.JPG",
+            "/lab/gallery/espec/lab-img-3.JPG",
+            "/lab/gallery/espec/lab-img-4.JPG",
+            "/lab/gallery/espec/lab-img-5.JPG",
+            "/lab/gallery/espec/lab-img-6.JPG",
+            "/lab/gallery/espec/lab-img-7.JPG",
+            "/lab/gallery/espec/lab-img-8.JPG",
+            "/lab/gallery/espec/lab-img-9.JPG",
+            "/lab/gallery/espec/lab-img-10.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Quim. Miguel Ángel Canseco Martínez",
+            "description": [
+                "Técnico Académico Titular “B” de Tiempo Completo Departamento de Polímeros ",
+                "Químico egresado de la Facultad de Química de la UNAM. Encargado de la operación, mantenimiento y asesoramiento de los equipos a su cargo en el Laboratorio de Espectroscopia. Además, es corresponsable del laboratorio de Análisis Térmico y experto en el manejo de 4 equipos: Calorimetría Diferencial de Barrido (DSC), Análisis Termogravimétrico (TGA), Análisis Termomecánico (TMA) y Análisis Dieléctrico (DEA). Su labor en esta área de trabajo se ve se reflejada en agradecimientos, autorías y coautorías en trabajos de investigación que publican en revistas y/o en memorias de congresos."
+            ],
+            "phone": "(123) 456-7890",
+            "photo": "/lab/profilepics/quim-01 miguel angel canseco martinez-01.png"
+        }
+    },
+    {
+        "id": "lab14",
+        "name": "Laboratorio de Microscopía Electrónica",
+        "mission": "no hay",
+        "researchLines": "no hay",
+        "services": [
+            {
+                "title": "Servicio 1",
+                "description": "Por Definir",
+                "equipment": [
+                    {
+                        "name": "Microscopio Electrónico de Transmisión (TEM) JEOL JEM-ARM200F",
+                        "range": "La muestra tiene que ser electron transparente  (100 nm espesor), no contar con humedades ni solventes"
+                    },
+                    {
+                        "name": "Microscopio transversal o invertido, óptico",
+                        "range": "La muestra puede ser de 5cm de altura. Cuenta con dos aumentos 100X y 50X."
+                    },
+                    {
+                        "name": "Microscopio viajero, tiene acompañado una resistencia",
+                        "range": "Por definir."
+                    },
+                    {
+                        "name": "Microscopio Electrónico de Barrido (MEB) Leica",
+                        "range": "La muestra no debe de contener humedades, ni solventes. Muestra conductora; si no es el caso se puede recubrir con oro o carbono. Magnificaciónes máximas en promedio de 50kX."
+                    },
+                    {
+                        "name": "Sistema de pulido de iones de precisión ( Precision ion polishing system - PIPS). Gatan M 691",
+                        "range": "Por definir."
+                    },
+                    {
+                        "name": "Sistema para depósito por bombardeo iónico.   JEOL JFC-1100.",
+                        "range": "Por definir."
+                    },
+                    {
+                        "name": "Sistema para deportivo por evaporación. Cressington 108.",
+                        "range": "Por definir."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+           "/lab/gallery/univ-me/lab-img-4.JPG",
+            "/lab/gallery/univ-me/lab-img-5.JPG",
+            "/lab/gallery/univ-me/lab-img-6.JPG",
+            "/lab/gallery/univ-me/lab-img-7.JPG",
+            "/lab/gallery/univ-me/lab-img-8.JPG"
+        ],
+        "applications": [
+            {
+                "title": "PENDIENTE",
+                "description": "Nuestros materiales avanzados son esenciales en el desarrollo de componentes más ligeros y resistentes para la industria automotriz."
+            },
+            {
+                "title": "Tecnologías Médicas",
+                "description": "Aplicaciones en la biomedicina mediante el uso de materiales biocompatibles para implantes y dispositivos médicos."
+            }
+        ],
+        "labManager": {
+            "name": "Dr. Omar Novelo Peralta",
+            "description": [
+                "Técnico Académico Titular 'A' de Tiempo Completo PRIDE C Departamento de Materiales Metálicos y Cerámicos",
+                "Egresado de la Facultad de Ingeniería de la UNAM como ingeniero mecánico. Cuenta con la maestría en Ciencia e Ingeniería de Materiales por el Instituto de Investigaciones en Materiales de la UNAM.",
+                "Es doctor en Ingeniería en el área de mecánica aplicada por la división de estudios de posgrado de la Facultad de Ingeniería de la UNAM.(DEPFI-UNAM).",
+                "Desde el 2009 se ha desempeñado como responsable de los equipos de microscopía electrónica de barrido en donde ha apoyado en el estudio microestructural y químico de diversos tipos de materiales de los proyectos desarrollados dentro del Instituto. Como resultado del trabajo realizado dentro del laboratorio ha participado como autor y coautor de 27 artículos en revistas tanto nacionales como internacionales, ha recibido agradecimientos en 10 tesis de licenciatura, maestría y doctorado, ha recibido 20 agradecimiento en revistas internacionales."
+            ],
+            "photo": "/lab/profilepics/dr omar novelo peralta-01.png"
+        }
+    }
+]
