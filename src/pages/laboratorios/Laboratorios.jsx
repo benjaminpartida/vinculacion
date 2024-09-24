@@ -260,7 +260,7 @@ const Laboratorios = () => {
   return (
     <div>
       <Header title="Laboratorios" image="https://www.derechosautor.com/index_archivos/images/patente.jpg" />
-      <div className="w-full px-10 pb-24">
+      <div className="w-full px-10 pb-12">
         <div className="place-content-center mx-10">
           <p className="text-justify text-lg mt-6">
             El Instituto de Investigaciones en Materiales a través de la Secretaría de Vinculación ofrece servicios analíticos y tecnológicos al sector público y privado...
